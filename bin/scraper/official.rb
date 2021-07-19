@@ -20,7 +20,10 @@ class Legislature
     private
 
     def name_and_position
-      noko.text.tidy.split(', ', 2)
+      # Remove &shy hyphens
+      # Ideally 'tidy' would get rid of these in whatever the best way
+      # is, but for now just gsub them away.
+      noko.text.gsub(/\u00AD/, '').tidy.split(', ', 2)
     end
   end
 
