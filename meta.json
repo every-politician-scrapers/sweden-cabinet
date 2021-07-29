@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q107443672",
-    "lang":    "sv",
-    "agent":   "every-politican-scrapers/sweden-cabinet"
+    "cabinet": {
+      "id": "Q107443672",
+      "start": "2021-07-09"
+    },
+    "source": {
+        "url":   "https://www.regeringen.se",
+        "title": "Startsidan - Regeringen.se",
+        "lang":  {
+            "code": "sv",
+            "wikidata": "Q9027"
+        }
+    },
+    "agent": "every-politican-scrapers/sweden-cabinet"
 }
