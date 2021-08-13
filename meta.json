@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Sweden",
+      "id": "Q34"
+    },
     "cabinet": {
       "id": "Q107443672",
-      "start": "2021-07-09"
+      "start": "2021-07-09",
+      "parent": "Q930729"
     },
     "source": {
         "url":   "https://www.regeringen.se",
