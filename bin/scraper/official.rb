@@ -16,11 +16,20 @@ class MemberList
       name_and_position.first
     end
 
+    POSITION_MAP = {
+      'Utrikeshandelsminister och minister med ansvar för nordiska frågor' => ['Utrikeshandelsminister' , 'Minister med ansvar för nordiska frågor'],
+      'Finansmarknadsminister och biträdande finansminister' => ['Finansmarknadsminister', 'Biträdande finansminister']
+    }
+
     def position
-      name_and_position.last.gsub('- och ','minister|').gsub(' samt ', '|').split('|').map(&:ucfirst)
+      raw_position.map { |posn| POSITION_MAP.fetch(posn, posn) }
     end
 
     private
+
+    def raw_position
+      name_and_position.last.gsub('- och ','minister|').gsub(' samt ', '|').split('|').map(&:ucfirst)
+    end
 
     def name_and_position
       # Remove &shy hyphens
