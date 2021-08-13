@@ -4,6 +4,12 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
+class String
+  def ucfirst
+    sub(/^(.)/) { |s| s.capitalize }
+  end
+end
+
 class MemberList
   class Member
     def name
@@ -11,7 +17,7 @@ class MemberList
     end
 
     def position
-      name_and_position.last
+      name_and_position.last.gsub('- och ','minister|').gsub(' samt ', '|').split('|').map(&:ucfirst)
     end
 
     private
