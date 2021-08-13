@@ -5,13 +5,12 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
-    field :name do
+  class Member
+    def name
       name_and_position.first
     end
 
-    field :position do
+    def position
       name_and_position.last
     end
 
@@ -25,14 +24,7 @@ class MemberList
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
-    field :members do
-      member_container.map { |member| fragment(member => Member).to_h }
-    end
-
-    private
-
+  class Members
     def pane
       noko.css('#nav-1').xpath('ancestor::div').first
     end
