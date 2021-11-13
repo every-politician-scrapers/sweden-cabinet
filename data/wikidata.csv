@@ -1,30 +1,30 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q24018140,Amanda Lind,Amanda Lind,female,1980-08-02T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q18246311,Demokratiminister,Q24018140-fd521d94-4ac3-c629-1b2c-4c31f275942d
-Q24018140,Amanda Lind,Amanda Lind,female,1980-08-02T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q18176984,Kulturminister,Q24018140-e48acf9b-4db7-7492-be5d-2de7716d5d08
-Q24018140,Amanda Lind,Amanda Lind,female,1980-08-02T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q87748605,Minister med ansvar för idrottsfrågorna,Q24018140-1b93d3f2-44c5-b929-6427-536c5ff07c2a
-Q3375050,Anders Ygeman,Anders Ygeman,male,1970-06-17T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q19975875,Digitaliseringsminister,Q3375050-0e367d49-47f4-0437-8787-e40d9cc70915
-Q3375050,Anders Ygeman,Anders Ygeman,male,1970-06-17T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q3612254,Energiminister,Q3375050-070d14a8-404e-9c86-1567-26e27f8ee1a5
-Q18243775,Ann Linde,Ann Linde,female,1961-12-04T00:00:00Z,11,,Q1749063,Utrikesminister,Q18243775-9bfb706a-43e3-ef81-d758-57436bebce9b
-Q4946204,Anna Ekström,Anna Ekström,female,1959-06-23T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/utbildningsdepartementet/anna-ekstrom/cv-anna-ekstrom/,Q10686263,Utbildningsminister,Q4946204-4a7aa1d2-4b3d-3608-dd0c-720f29e20df8
-Q67207189,Anna Hallberg,Anna Hallberg,female,1963-11-19T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q10686108,Utrikeshandelsminister,Q67207189-43d08653-4f1d-346b-26ac-36d0ddb7c7a2
-Q4787806,Ardalan Shekarabi,Ardalan Shekarabi,male,1978-11-28T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q18246318,Socialförsäkringsminister,Q4787806-dc5e2b25-4865-1ec6-843f-9fc1866ba1d7
-Q4970111,Eva Nordmark,Eva Nordmark,female,1971-02-21T00:00:00Z,11,,Q10686032,Arbetsmarknadsminister,Q4970111-074b6d87-4b3d-da94-f1ad-d0810133ec89
-Q5615474,Hans Dahlgren,Hans Dahlgren,male,1948-03-16T00:00:00Z,11,,Q6865819,EU-minister,Q5615474-68e23b98-4cf7-6341-3998-059b44e5f230
-Q3055916,Ibrahim Baylan,Ibrahim Baylan,male,1972-03-15T00:00:00Z,11,,Q10686220,Näringsminister,Q3055916-96b7e1d7-4f97-fdc7-a7d7-bf3917b93fcc
-Q3431836,Lena Hallengren,Lena Hallengren,female,1973-12-25T00:00:00Z,11,,Q10686247,Socialminister,Q3431836-b66ce43c-4800-691b-06c7-40ef8dbabdde
-Q4967237,Lena Micko,Lena Micko,female,1955-06-18T00:00:00Z,11,,Q10686046,Civilminister,Q4967237-b5301760-429a-48e2-1789-ce64e1daea84
-Q4935873,Magdalena Andersson,Magdalena Andersson,female,1967-01-23T00:00:00Z,11,,Q6865835,Finansminister,Q4935873-29EB334A-967F-4C48-B5E0-CDA7C9802A9A
-Q3373058,Matilda Ernkrans,Matilda Ernkrans,female,1973-03-12T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q95983946,Minister för högre utbildning och forskning,Q3373058-6e5b0e99-4c22-712d-4c12-6bc14fe6d2a4
-Q3372917,Mikael Damberg,Mikael Damberg,male,1971-10-13T00:00:00Z,11,,Q10686171,Inrikesminister,Q3372917-12c1a0d6-4c3b-03ac-ffa4-fba5c9940c3f
-Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q3315958,Justitieminister,Q5887217-f2433fc4-401c-30ab-58df-89798df449e5
-Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q18183298,Migrationsminister,Q5887217-b355aa8f-4a54-5298-1c44-afde8bb9e81e
-Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14T00:00:00Z,11,,Q4189744,Statsministerns ställföretädare,Q5887217-77264e62-4af1-99a3-5742-43785dcd7a9f
-Q64524335,Märta Stenevi,Märta Stenevi,female,1976-03-30T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q10686041,Bostadsminister med ansvar för stadsutveckling och arbetet mot segregation och diskriminering,Q64524335-7af64ddd-40cb-fcc4-dc6a-3e8452f77fc1
-Q64524335,Märta Stenevi,Märta Stenevi,female,1976-03-30T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q6865858,Jämställdhetsminister,Q64524335-28c909d0-4b50-8f7d-78f5-8326ed4af38f
-Q5581337,Per Bolund,Per Bolund,male,1971-07-03T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q10686216,Miljöminister,Q5581337-5dfb0d30-4bdc-2cb7-d506-73c3d4872043
-Q5581337,Per Bolund,Per Bolund,male,1971-07-03T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q105359146,Vice statsminister,Q5581337-75d2fb85-46bc-acae-7f7e-b111f87fd3b1
-Q19977122,Per Olsson Fridh,Per Olsson Fridh,male,1981-06-27T00:00:00Z,11,,Q10686038,Minister för internationellt utvecklingssamarbete,Q19977122-d2fd3a55-43f4-176f-c505-b11efd606d55
-Q3370162,Peter Hultqvist,Peter Hultqvist,male,1958-12-31T00:00:00Z,11,,Q920108,Försvarsminister,Q3370162-73F8DB2F-E3E2-45A5-8036-E602F4E071CC
-Q2740012,Stefan Löfven,Stefan Löfven,male,1957-07-21T00:00:00Z,11,,Q687075,Statsminister,Q2740012-2E9E918B-51B6-4D76-9775-8B5208453384
-Q5711551,Tomas Eneroth,Tomas Eneroth,male,1966-12-04T00:00:00Z,11,,Q10686169,Infrastrukturminister,Q5711551-364f647a-47ea-6c44-a3e1-ae9d399c6c6a
-Q23916255,Åsa Lindhagen,Åsa Lindhagen,female,1980-05-15T00:00:00Z,11,https://www.regeringen.se/sveriges-regering/,Q17103474,Finansmarknadsminister,Q23916255-511fb695-480a-9898-1919-b5834653b4d3
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q18243775,Ann Linde,Ann Linde,female,1961-12-04,11,,,Q1749063,Utrikesminister,Q18243775-9bfb706a-43e3-ef81-d758-57436bebce9b
+Q19977122,Per Olsson Fridh,Per Olsson Fridh,male,1981-06-27,11,,,Q10686038,Minister för internationellt utvecklingssamarbete,Q19977122-d2fd3a55-43f4-176f-c505-b11efd606d55
+Q23916255,Åsa Lindhagen,Åsa Lindhagen,female,1980-05-15,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q17103474,Finansmarknadsminister,Q23916255-511fb695-480a-9898-1919-b5834653b4d3
+Q24018140,Amanda Lind,Amanda Lind,female,1980-08-02,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q87748605,Minister med ansvar för idrottsfrågorna,Q24018140-1b93d3f2-44c5-b929-6427-536c5ff07c2a
+Q24018140,Amanda Lind,Amanda Lind,female,1980-08-02,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q18176984,Kulturminister,Q24018140-e48acf9b-4db7-7492-be5d-2de7716d5d08
+Q24018140,Amanda Lind,Amanda Lind,female,1980-08-02,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q18246311,Demokratiminister,Q24018140-fd521d94-4ac3-c629-1b2c-4c31f275942d
+Q2740012,Stefan Löfven,Stefan Löfven,male,1957-07-21,11,,,Q687075,Statsminister,Q2740012-2E9E918B-51B6-4D76-9775-8B5208453384
+Q3055916,Ibrahim Baylan,Ibrahim Baylan,male,1972-03-15,11,,,Q10686220,Näringsminister,Q3055916-96b7e1d7-4f97-fdc7-a7d7-bf3917b93fcc
+Q3370162,Peter Hultqvist,Peter Hultqvist,male,1958-12-31,11,,,Q920108,Försvarsminister,Q3370162-73F8DB2F-E3E2-45A5-8036-E602F4E071CC
+Q3372917,Mikael Damberg,Mikael Damberg,male,1971-10-13,11,,,Q10686171,Inrikesminister,Q3372917-12c1a0d6-4c3b-03ac-ffa4-fba5c9940c3f
+Q3373058,Matilda Ernkrans,Matilda Ernkrans,female,1973-03-12,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q95983946,Minister för högre utbildning och forskning,Q3373058-6e5b0e99-4c22-712d-4c12-6bc14fe6d2a4
+Q3375050,Anders Ygeman,Anders Ygeman,male,1970-06-17,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q3612254,Energiminister,Q3375050-070d14a8-404e-9c86-1567-26e27f8ee1a5
+Q3375050,Anders Ygeman,Anders Ygeman,male,1970-06-17,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q19975875,Digitaliseringsminister,Q3375050-0e367d49-47f4-0437-8787-e40d9cc70915
+Q3431836,Lena Hallengren,Lena Hallengren,female,1973-12-25,11,,,Q10686247,Socialminister,Q3431836-b66ce43c-4800-691b-06c7-40ef8dbabdde
+Q4787806,Ardalan Shekarabi,Ardalan Shekarabi,male,1978-11-28,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q18246318,Socialförsäkringsminister,Q4787806-dc5e2b25-4865-1ec6-843f-9fc1866ba1d7
+Q4935873,Magdalena Andersson,Magdalena Andersson,female,1967-01-23,11,,,Q6865835,Finansminister,Q4935873-29EB334A-967F-4C48-B5E0-CDA7C9802A9A
+Q4946204,Anna Ekström,Anna Ekström,female,1959-06-23,11,https://www.regeringen.se/sveriges-regering/utbildningsdepartementet/anna-ekstrom/cv-anna-ekstrom/,2020-06-14,Q10686263,Utbildningsminister,Q4946204-4a7aa1d2-4b3d-3608-dd0c-720f29e20df8
+Q4967237,Lena Micko,Lena Micko,female,1955-06-18,11,,,Q10686046,Civilminister,Q4967237-b5301760-429a-48e2-1789-ce64e1daea84
+Q4970111,Eva Nordmark,Eva Nordmark,female,1971-02-21,11,,,Q10686032,Arbetsmarknadsminister,Q4970111-074b6d87-4b3d-da94-f1ad-d0810133ec89
+Q5581337,Per Bolund,Per Bolund,male,1971-07-03,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q10686216,Miljöminister,Q5581337-5dfb0d30-4bdc-2cb7-d506-73c3d4872043
+Q5581337,Per Bolund,Per Bolund,male,1971-07-03,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q105359146,Vice statsminister,Q5581337-75d2fb85-46bc-acae-7f7e-b111f87fd3b1
+Q5615474,Hans Dahlgren,Hans Dahlgren,male,1948-03-16,11,,,Q6865819,EU-minister,Q5615474-68e23b98-4cf7-6341-3998-059b44e5f230
+Q5711551,Tomas Eneroth,Tomas Eneroth,male,1966-12-04,11,,,Q10686169,Infrastrukturminister,Q5711551-364f647a-47ea-6c44-a3e1-ae9d399c6c6a
+Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14,11,,,Q4189744,Statsministerns ställföretädare,Q5887217-77264e62-4af1-99a3-5742-43785dcd7a9f
+Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q18183298,Migrationsminister,Q5887217-b355aa8f-4a54-5298-1c44-afde8bb9e81e
+Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q3315958,Justitieminister,Q5887217-f2433fc4-401c-30ab-58df-89798df449e5
+Q64524335,Märta Stenevi,Märta Stenevi,female,1976-03-30,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q6865858,Jämställdhetsminister,Q64524335-28c909d0-4b50-8f7d-78f5-8326ed4af38f
+Q64524335,Märta Stenevi,Märta Stenevi,female,1976-03-30,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q10686041,Bostadsminister med ansvar för stadsutveckling och arbetet mot segregation och diskriminering,Q64524335-7af64ddd-40cb-fcc4-dc6a-3e8452f77fc1
+Q67207189,Anna Hallberg,Anna Hallberg,female,1963-11-19,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q10686108,Utrikeshandelsminister,Q67207189-43d08653-4f1d-346b-26ac-36d0ddb7c7a2
