@@ -1,4 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q109705067,Andersson Cabinet,,,,,,,,,Q930729,Government of Sweden,,,Q107443672,Cabinet Löfven III,,,Q107443672,Cabinet Löfven III,,
 ,Q10650420,Edén Cabinet,1917-10-19,11,,,1920-03-10,11,,,Q930729,Government of Sweden,,,,,Q4570354,Branting I Cabinet,Q10650471,Q10650471,Q4570354,Branting I Cabinet
 ,Q4957676,Branting III Cabinet,1924-10-14,11,,,1925-01-24,11,,,Q930729,Government of Sweden,,,,,,,Q10650474,Q10650474,Q10650459,Sandler cabinet
 ,Q10650438,Hansson II cabinet,1936-09-28,11,,,1939-12-13,11,,,Q930729,Government of Sweden,,,,,Q4570967,Hansson III Cabinet,Q10650454,Pehrsson-Bramstorp cabinet,Q4570967,Hansson III Cabinet
@@ -18,4 +19,4 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q18176361,Löfven I Cabinet,2014-10-03,11,,,2019-01-21,11,,,Q930729,Government of Sweden,,,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II
 ,Q60736270,Cabinet Löfven II,2019-01-21,11,,,2021-07-09,11,,,Q930729,Government of Sweden,,,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III
 ,Q60736270,Cabinet Löfven II,2019-01-21,11,,,2021-07-09,11,,,Q59281,provisional government,,,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III
-,Q107443672,Cabinet Löfven III,2021-07-09,11,,,,,,,Q930729,Government of Sweden,,,Q60736270,Cabinet Löfven II,,,Q60736270,Cabinet Löfven II,,
+,Q107443672,Cabinet Löfven III,2021-07-09,11,,,,,,,Q930729,Government of Sweden,,,Q60736270,Cabinet Löfven II,Q109705067,Andersson Cabinet,Q60736270,Cabinet Löfven II,Q109705067,Andersson Cabinet
