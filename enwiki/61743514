@@ -1,0 +1,232 @@
+{
+  "title": "Eva Nordmark",
+  "pageID": 61743514,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "Swedish Ministers for Employment",
+    "Women government ministers of Sweden",
+    "Women members of the Riksdag",
+    "Swedish Social Democratic Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eva Nordmark (born 21 February 1971) is a Swedish Social Democratic politician and union leader.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Social Democratic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eva Nordmark"
+                ]
+              }
+            },
+            {
+              "text": "She has served as Minister for Employment in the Löfven cabinet since September 2019.",
+              "links": [
+                {
+                  "text": "Minister for Employment",
+                  "type": "internal",
+                  "page": "Ministry of Employment (Sweden)"
+                },
+                {
+                  "text": "Löfven cabinet",
+                  "type": "internal",
+                  "page": "Löfven II Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "Previously she was head of the union TCO from 2011 to 2019, and served as a member of Riksdag from 1995 to 1998.",
+              "links": [
+                {
+                  "text": "TCO",
+                  "type": "internal",
+                  "page": "Swedish Confederation of Professional Employees"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was born in Luleå and started her political career by joining the Swedish Social Democratic Youth League, SSU, in Norrbotten.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Luleå"
+                },
+                {
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Youth League"
+                }
+              ]
+            },
+            {
+              "text": "At 20, she became a local councillor and was elected an MP at 24."
+            },
+            {
+              "text": "After graduating, Eva Nordmark started working for the Swedish Social Insurance Agency, while becoming increasingly active at the then SKTF trade union, now called Vision (trade union).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vision (trade union)"
+                }
+              ]
+            },
+            {
+              "text": "She made a name for herself as a rejuvenator of the union, partly by aiming for 30 % of all elected representatives to be younger than 35."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "year": "1971",
+          "month": "2",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eva Nordmark"
+          },
+          "image": {
+            "text": "Eva Nordmark.jpg"
+          },
+          "office": {
+            "text": "Minister for Employment",
+            "links": [
+              {
+                "text": "Minister for Employment",
+                "type": "internal",
+                "page": "Ministry of Employment (Sweden)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 September 2019"
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ylva Johansson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ylva Johansson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Riksdag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Riksdag"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 January 1995"
+          },
+          "term_end1": {
+            "text": "5 October 1998"
+          },
+          "constituency1": {
+            "text": "Norrbotten County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norrbotten County"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 21, 1971"
+          },
+          "birth_place": {
+            "text": "Luleå, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luleå"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          },
+          "profession": {
+            "text": "union leader"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.aftonbladet.se/nyheter/samhalle/a/VbkR7W/nya-ministern-ingen-hemlighet-att-jag-varit-kritisk",
+          "title": "Nya ministern: \"Ingen hemlighet att jag varit kritisk\"",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.regeringen.se/pressmeddelanden/2019/09/nya-statsrad-i-regeringen/",
+          "title": "Nya statsråd i regeringen",
+          "date": "10 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nordiclabourjournal.org/artikler/portrett/portait-2019/article.2019-10-17.6778327793",
+          "title": "Eva Nordmark's task: To liberalise Sweden's employment act and reform the employment service — Nordic Labour Journal",
+          "template": "citation",
+          "type": "document"
+        }
+      ]
+    }
+  ]
+}

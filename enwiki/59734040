@@ -1,0 +1,267 @@
+{
+  "title": "Hans Dahlgren",
+  "pageID": 59734040,
+  "categories": [
+    "Living people",
+    "1948 births",
+    "Government ministers of Sweden",
+    "People from Uppsala",
+    "Swedish Social Democratic Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hans Eric Albert Dahlgren (born 16 March 1948) is a Swedish politician for the Social Democrats and a former diplomat.",
+              "links": [
+                {
+                  "text": "Social Democrats",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hans Eric Albert Dahlgren"
+                ]
+              }
+            },
+            {
+              "text": "He has served as Minister for European Union Affairs in the second Löfven cabinet since 21 January 2019.",
+              "links": [
+                {
+                  "text": "Minister for European Union Affairs",
+                  "type": "internal",
+                  "page": "Minister for EU Affairs (Sweden)"
+                },
+                {
+                  "text": "second Löfven cabinet",
+                  "type": "internal",
+                  "page": "Löfven II Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1948",
+          "month": "03",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hans Dahlgren"
+          },
+          "image": {
+            "text": "Hans Dahlgren (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister for European Union Affairs",
+            "links": [
+              {
+                "text": "Minister for European Union Affairs",
+                "type": "internal",
+                "page": "Minister for EU Affairs (Sweden)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 January 2019"
+          },
+          "predecessor": {
+            "text": "Ann Linde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ann Linde"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 16, 1948"
+          },
+          "birth_place": {
+            "text": "Uppsala, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uppsala"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.regeringen.se/pressmeddelanden/2019/01/sveriges-nya-regering/",
+          "title": "Sveriges nya regering",
+          "language": "sv",
+          "publisher": "Government of Sweden",
+          "date": "2019-01-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Between 1997 and 2012, Dahlgren held various high-level positions in Sweden's diplomatic service, including as Swedish representative at the United Nations Security Council (1997–1998); as Permanent Representative to the United Nations in New York (1997–2000); as State Secretary for Foreign Affairs (2000–2006); as Permanent Representative to the UN in Geneva (2007–2010); and as Ambassador for Human Rights at the Ministry for Foreign Affairs (2010–2012).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations Security Council"
+                },
+                {
+                  "text": "Permanent Representative to the United Nations",
+                  "type": "internal",
+                  "page": "Permanent Representative of Sweden to the United Nations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2014 until 2019, Dahlgren served as State Secretary for International and EU Affairs in the Prime Minister's Office."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "World Economic Forum (WEF), Member of the Europe Policy Group (since 2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "World Economic Forum"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "title": "Permanent Representative of Sweden to the United Nations",
+          "before": "Peter Oswald",
+          "years": "1997–2000",
+          "after": "Pierre Schori",
+          "template": "succession box"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Ann Linde",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for European Union Affairs",
+          "years": "2019–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sweden-socialdemocratic-politician-stub"
+        }
+      ]
+    }
+  ]
+}

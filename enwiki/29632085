@@ -1,0 +1,688 @@
+{
+  "title": "Mikael Damberg",
+  "pageID": 29632085,
+  "categories": [
+    "Living people",
+    "1971 births",
+    "People from Solna Municipality",
+    "Swedish Social Democratic Party politicians",
+    "Stockholm University alumni",
+    "Swedish people of Finnish descent",
+    "Members of the Riksdag 2002–2006",
+    "Members of the Riksdag 2006–2010",
+    "Members of the Riksdag 2010–2014",
+    "Members of the Riksdag 2014–2018",
+    "Members of the Riksdag 2018–2022"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lars Mikael Damberg (born 13 October 1971) is a Swedish politician of the Social Democrats.",
+              "links": [
+                {
+                  "text": "Social Democrats",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lars Mikael Damberg"
+                ]
+              }
+            },
+            {
+              "text": "He has been Minister of the Interior since 2019.",
+              "links": [
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Minister of the Interior (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "He has been Member of the Riksdag since 2002, representing Stockholm County, and was leader of the Social Democrats in the Riksdag from 2012 to 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the Riksdag"
+                },
+                {
+                  "text": "Stockholm County",
+                  "type": "internal",
+                  "page": "Stockholm County (Riksdag constituency)"
+                },
+                {
+                  "text": "Social Democrats",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Riksdag"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "year": "1971",
+          "month": "10",
+          "day": "13",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mikael Damberg"
+          },
+          "image": {
+            "text": "Socialdemokrat.Mikael Damberg 1c301 5892.jpg"
+          },
+          "office": {
+            "text": "Minister for the Interior",
+            "links": [
+              {
+                "text": "Minister for the Interior",
+                "type": "internal",
+                "page": "Minister of the Interior (Sweden)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 January 2019"
+          },
+          "predecessor": {
+            "text": "Morgan Johansson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morgan Johansson"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Enterprise",
+            "links": [
+              {
+                "text": "Minister for Enterprise",
+                "type": "internal",
+                "page": "Ministry of Enterprise, Energy and Communications (Sweden)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "3 October 2014"
+          },
+          "term_end1": {
+            "text": "21 January 2019"
+          },
+          "predecessor1": {
+            "text": "Annie Lööf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Annie Lööf"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Ibrahim Baylan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Baylan"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Leader of the Social Democrats in the Swedish Riksdag",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              },
+              {
+                "type": "internal",
+                "page": "Swedish Riksdag"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 February 2012"
+          },
+          "term_end2": {
+            "text": "3 October 2014"
+          },
+          "predecessor2": {
+            "text": "Carina Moberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carina Moberg"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Tomas Eneroth",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tomas Eneroth"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Riksdag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Riksdag"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "30 September 2002"
+          },
+          "term_end3": {
+            "text": "3 October 2014"
+          },
+          "constituency3": {
+            "text": "Stockholm County",
+            "links": [
+              {
+                "text": "Stockholm County",
+                "type": "internal",
+                "page": "Stockholm County (Riksdag constituency)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 13, 1971"
+          },
+          "birth_place": {
+            "text": "Solna, Sweden",
+            "links": [
+              {
+                "text": "Solna",
+                "type": "internal",
+                "page": "Solna Municipality"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Stockholm University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stockholm University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "spouse": {
+            "text": "Ingela Maria Wewertz"
+          },
+          "residence": {
+            "text": "Solna",
+            "links": [
+              {
+                "text": "Solna",
+                "type": "internal",
+                "page": "Solna Municipality"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.riksdagen.se/Webbnav/index.aspx?nid=1811&iid=014744660015",
+          "title": "Mikael Damberg (S)",
+          "publisher": "Parliament of Sweden",
+          "date": "16 November 2010",
+          "accessdate": "17 November 2010",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Damberg was born in Solna, Stockholm County, Sweden.",
+              "links": [
+                {
+                  "text": "Solna",
+                  "type": "internal",
+                  "page": "Solna Municipality"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stockholm County"
+                }
+              ]
+            },
+            {
+              "text": "His father is the former Swedish Social Democratic party treasurer Nils-Gösta Damberg and his mother a former district chairwoman of the Finnish Social Democratic Youth Riita-Liisa Damberg.",
+              "links": [
+                {
+                  "text": "Social Democratic Youth",
+                  "type": "internal",
+                  "page": "Social Democratic Youth (Finland)"
+                }
+              ]
+            },
+            {
+              "text": "He joined the Swedish Social Democratic Youth League in the late 1980s and served as a member of the board of the organization between 1993 and 1997.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Youth League"
+                }
+              ]
+            },
+            {
+              "text": "He also served as a member of the municipal council in Solna Municipality between 1991 and 2002.",
+              "links": [
+                {
+                  "text": "municipal council",
+                  "type": "internal",
+                  "page": "municipal council"
+                }
+              ]
+            },
+            {
+              "text": "He is chairman of the Social Democratic party district in Stockholm County since 2004."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 1995 and 1997, Damberg worked as a political assistant to Minister for Defence Thage G. Peterson, and between 1997 and 1999 as political assistant and speechwriter to Prime Minister Göran Persson.",
+              "links": [
+                {
+                  "text": "Minister for Defence",
+                  "type": "internal",
+                  "page": "Minister for Defence (Sweden)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Thage G. Peterson"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Göran Persson"
+                }
+              ]
+            },
+            {
+              "text": "Between 1999 and 2003, he was chairman of the Swedish Social Democratic Youth League."
+            },
+            {
+              "text": "Damberg has served as a member of the Swedish parliament since 2002, representing the Stockholm County constituency.",
+              "links": [
+                {
+                  "text": "member",
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "text": "Swedish parliament",
+                  "type": "internal",
+                  "page": "Parliament of Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stockholm County"
+                }
+              ]
+            },
+            {
+              "text": "In the parliament he served as deputy chairman of the Committee on Education and as a member of the War Delegation.",
+              "links": [
+                {
+                  "text": "Committee on Education",
+                  "type": "internal",
+                  "page": "Committee on Education (parliament of Sweden)"
+                },
+                {
+                  "type": "internal",
+                  "page": "War Delegation"
+                }
+              ]
+            },
+            {
+              "text": "He has served as a member of the Committee on Education since 2002."
+            },
+            {
+              "text": "He previously served as a deputy member of the Committee on Defence between 2002 and 2006, and as a deputy member of the Committee on Finance between 2006 and 2010.",
+              "links": [
+                {
+                  "text": "Committee on Defence",
+                  "type": "internal",
+                  "page": "Committee on Defence (parliament of Sweden)"
+                },
+                {
+                  "text": "Committee on Finance",
+                  "type": "internal",
+                  "page": "Committee on Finance (parliament of Sweden)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Damberg earned a degree in public administration from Stockholm University in 2000.",
+              "links": [
+                {
+                  "text": "public administration",
+                  "type": "internal",
+                  "page": "public administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stockholm University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Damberg also attended the Bilderberg Meeting in 2015 in Telfs-Buchen, Austria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bilderberg Meeting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2018, Damberg visited the crime scene where Karolin Hakim was killed by a gang member.",
+              "links": [
+                {
+                  "text": "Karolin Hakim was killed by a gang member",
+                  "type": "internal",
+                  "page": "Murder of Karolin Hakim"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2021",
+          "template": "needs update"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.bilderbergmeetings.org/participants2015.html",
+          "title": "Bilderberg Meeting",
+          "access-date": "2015-07-08",
+          "archive-url": "https://web.archive.org/web/20150623005615/http://www.bilderbergmeetings.org/participants2015.html",
+          "archive-date": "2015-06-23",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.svt.se/nyheter/lokalt/skane/kvinna-i-malmo-ihjalskjuten-detta-har-hant",
+          "title": "Kvinna i Malmö ihjälskjuten – detta har hänt",
+          "last": "Haddad",
+          "first": "Prescilia",
+          "date": "2019-08-27",
+          "access-date": "2019-10-04",
+          "language": "sv",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "En rappare tar över SSU",
+          "first": "Anette",
+          "last": "Holmqvist",
+          "newspaper": "Aftonbladet",
+          "date": "5 August 1998",
+          "url": "http://wwwc.aftonbladet.se/nyheter/9908/05/ssu.html",
+          "accessdate": "17 November 2010",
+          "language": "sv",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.socialdemokraterna.se/upload/Gruppledare/Mikael_damberg/CV/Mikael%20Damberg%20CV%20engelska%5b1%5d.pdf",
+          "title": "CV",
+          "publisher": "Mikael Damberg/Swedish Social Democratic Party",
+          "accessdate": "4 October 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Ministerial appointments",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Damberg was appointed Minister for Enterprise on 3 October 2014, serving in the cabinet of Stefan Löfven.",
+              "links": [
+                {
+                  "text": "Minister for Enterprise",
+                  "type": "internal",
+                  "page": "Ministry of Enterprise, Energy and Communications (Sweden)"
+                },
+                {
+                  "text": "cabinet of Stefan Löfven",
+                  "type": "internal",
+                  "page": "Löfven I Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He was later appointed Minister for Interior on 21 January 2019 in the second Löfven Cabinet.",
+              "links": [
+                {
+                  "text": "Minister for Interior",
+                  "type": "internal",
+                  "page": "Minister of the Interior (Sweden)"
+                },
+                {
+                  "text": "second Löfven Cabinet",
+                  "type": "internal",
+                  "page": "Löfven II Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "start box"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Niklas Nordström",
+          "title": "Chairman of the Swedish Social Democratic Youth League",
+          "years": "1999 &ndash; 2003",
+          "after": "Ardalan Shekarabi",
+          "template": "succession box"
+        },
+        {
+          "before": "Carina Moberg",
+          "title": "Leader of the Social Democrats in the Riksdag",
+          "years": "2012 &ndash;2014",
+          "after": "Tomas Eneroth",
+          "template": "succession box"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Annie Lööf",
+          "title": "Minister for Enterprise",
+          "years": "2014&ndash;2019",
+          "after": "Ibrahim Baylan",
+          "template": "succession box"
+        },
+        {
+          "before": "Morgan Johansson",
+          "title": "Minister for Interior",
+          "years": "2019&ndash;present",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Mikael Damberg at the Swedish Social Democratic Party",
+            "links": [
+              {
+                "text": "Mikael Damberg",
+                "type": "external",
+                "site": "http://www.socialdemokraterna.se/mikaeldamberg"
+              },
+              {
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          },
+          {
+            "text": "Mikael Damberg at the Swedish parliament",
+            "links": [
+              {
+                "text": "Mikael Damberg",
+                "type": "external",
+                "site": "http://www.riksdagen.se/Webbnav/index.aspx?nid=1811&iid=014744660015"
+              },
+              {
+                "text": "Swedish parliament",
+                "type": "internal",
+                "page": "Parliament of Sweden"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

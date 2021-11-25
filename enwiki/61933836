@@ -1,0 +1,301 @@
+{
+  "title": "Lena Micko",
+  "pageID": 61933836,
+  "categories": [
+    "Living people",
+    "1955 births",
+    "21st-century Swedish politicians",
+    "21st-century Swedish women politicians",
+    "Women government ministers of Sweden",
+    "Swedish Social Democratic Party politicians",
+    "People from Umeå"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lena Micko (born 18 June 1955, officially Mikko) is a Swedish Social Democratic politician from Umeå.",
+              "links": [
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "text": "Social Democratic",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Umeå"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lena Micko",
+                  "Mikko"
+                ]
+              }
+            },
+            {
+              "text": "She has served the Löfven cabinet as Minister of Public Administration since 2019.",
+              "links": [
+                {
+                  "text": "Löfven cabinet",
+                  "type": "internal",
+                  "page": "Löfven II Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "She succeeded Ardalan Shekarabi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ardalan Shekarabi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has previously served as councillor for Linköping Municipality and she was the Chairperson of the Swedish Association of Local Authorities and Regions between 2015 and 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Linköping Municipality"
+                },
+                {
+                  "type": "internal",
+                  "page": "Swedish Association of Local Authorities and Regions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "year": "1955",
+          "month": "6",
+          "day": "18",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lena Micko"
+          },
+          "office": {
+            "text": "Minister of Public Administration",
+            "links": [
+              {
+                "text": "Minister of Public Administration",
+                "type": "internal",
+                "page": "Ministry of Finance (Sweden)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Lena Micko.jpg"
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Lena Mikko"
+          },
+          "birth_date": {
+            "text": "June 18, 1955"
+          },
+          "birth_place": {
+            "text": "Umeå, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Umeå"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ardalan Shekarabi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ardalan Shekarabi"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "1 October 2019"
+          },
+          "office1": {
+            "text": "Chairman of the Swedish Association of Local Authorities and Regions",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Swedish Association of Local Authorities and Regions"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Anders Knape",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anders Knape"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "24 March 2015"
+          },
+          "predecessor1": {
+            "text": "Anders Knape",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anders Knape"
+              }
+            ]
+          },
+          "termend1": {
+            "text": "19 March 2019"
+          },
+          "office2": {
+            "text": "Mayor of Linköping Municipality",
+            "links": [
+              {
+                "text": "Mayor of Linköping Municipality",
+                "type": "internal",
+                "page": "Linköping Municipality"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Kristina Edlund",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kristina Edlund"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "2014",
+            "number": 2014
+          },
+          "predecessor2": {
+            "text": "Paul Lindvall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Lindvall"
+              }
+            ]
+          },
+          "termend2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "termstart3": {
+            "text": "2001",
+            "number": 2001
+          },
+          "termend3": {
+            "text": "2006",
+            "number": 2006
+          },
+          "successor3": {
+            "text": "Paul Lindvall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Lindvall"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.svt.se/nyheter/snabbkollen/shekarabi-ersatter-strandhall-micko-ersatter-shekarabi",
+          "title": "Shekarabi ersätter Strandhäll – Micko ersätter Shekarabi",
+          "date": "2019-10-01",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://mb.cision.com/Main/779/9744836/359063.pdf",
+          "title": "Lena Micko ny ordförande för SKL",
+          "publisher": "Swedish Association of Local Authorities and Regions",
+          "trans-title": "Lena Micko new chairperson for SALAR",
+          "url-status": "live",
+          "access-date": "1 October 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Lena Micko"
+          ],
+          "template": "commons category"
+        },
+        {
+          "template": "sweden-politician-stub"
+        }
+      ]
+    }
+  ]
+}

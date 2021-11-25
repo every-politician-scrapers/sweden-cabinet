@@ -1,0 +1,666 @@
+{
+  "title": "Per Bolund",
+  "pageID": 40686725,
+  "categories": [
+    "Green Party (Sweden) politicians",
+    "Members of the Riksdag",
+    "1971 births",
+    "Living people",
+    "Swedish Ministers for Housing",
+    "Swedish biologists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Per Bolund (born 3 July 1971) is a Swedish politician for the Green Party.",
+              "links": [
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "text": "Green Party",
+                  "type": "internal",
+                  "page": "Green Party (Sweden)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Per Bolund"
+                ]
+              }
+            },
+            {
+              "text": "He has served as Deputy Prime Minister of Sweden (in a strictly ceremonial role) and as Minister for the Environment since February 2021, and has been co-spokesperson of the Green Party since May 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Sweden"
+                },
+                {
+                  "text": "Minister for the Environment",
+                  "type": "internal",
+                  "page": "Minister for the Environment (Sweden)"
+                },
+                {
+                  "text": "Green Party",
+                  "type": "internal",
+                  "page": "Green Party (Sweden)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He previously served as Minister for Financial Markets from October 2014 to February 2021 and as Minister for Housing from January 2019 to February 2021.",
+              "links": [
+                {
+                  "text": "Minister for Financial Markets",
+                  "type": "internal",
+                  "page": "Minister for Financial Markets (Sweden)"
+                },
+                {
+                  "text": "Minister for Housing",
+                  "type": "internal",
+                  "page": "Minister for Housing (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "He was shortly acting Minister for Housing and Urban Development from April to May 2016.",
+              "links": [
+                {
+                  "text": "Minister for Housing and Urban Development",
+                  "type": "internal",
+                  "page": "Ministry of Enterprise (Sweden)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bolund was elected to the Riksdag in 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riksdag"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "topic": "bio",
+          "date": "October 2021",
+          "template": "expand swedish"
+        },
+        {
+          "description": "Swedish politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1971",
+          "month": "07",
+          "day": "03",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Per Bolund"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of the Riksdag"
+              }
+            ]
+          },
+          "image": {
+            "text": "20190630 Almedalsveckan Miljopartiet Per Bolund 0214 (48176918061) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Per Bolund in June 2019"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Sweden"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "5 February 2021"
+          },
+          "primeminister": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Isabella Lövin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isabella Lövin"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "Morgan Johansson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morgan Johansson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for the Environment",
+            "links": [
+              {
+                "text": "Minister for the Environment",
+                "type": "internal",
+                "page": "Minister for the Environment (Sweden)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 February 2021"
+          },
+          "primeminister1": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Isabella Lövin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isabella Lövin"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Spokesperson of the Green Party",
+            "links": [
+              {
+                "text": "Green Party",
+                "type": "internal",
+                "page": "Swedish Green Party"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 May 2019"
+          },
+          "predecessor2": {
+            "text": "Gustav Fridolin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gustav Fridolin"
+              }
+            ]
+          },
+          "alongside2": {
+            "text": "Isabella Lövin (2019–2021) Märta Stenevi (2021– )",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isabella Lövin"
+              },
+              {
+                "type": "internal",
+                "page": "Märta Stenevi"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Housing",
+            "links": [
+              {
+                "text": "Minister for Housing",
+                "type": "internal",
+                "page": "Minister for Housing (Sweden)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "21 January 2019"
+          },
+          "term_end3": {
+            "text": "5 February 2021"
+          },
+          "primeminister3": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "monarch3": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Peter Eriksson",
+            "links": [
+              {
+                "text": "Peter Eriksson",
+                "type": "internal",
+                "page": "Peter Eriksson (politician)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Märta Stenevi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Märta Stenevi"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for Financial Markets",
+            "links": [
+              {
+                "text": "Minister for Financial Markets",
+                "type": "internal",
+                "page": "Minister for Financial Markets (Sweden)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "3 October 2014"
+          },
+          "term_end4": {
+            "text": "5 February 2021"
+          },
+          "primeminister4": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Peter Norman",
+            "links": [
+              {
+                "text": "Peter Norman",
+                "type": "internal",
+                "page": "Peter Norman (politician)"
+              }
+            ]
+          },
+          "monarch4": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Åsa Lindhagen",
+            "links": [
+              {
+                "text": "Åsa Lindhagen",
+                "type": "internal",
+                "page": "Åsa Lindhagen"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Minister for Housing and Urban Development (acting)",
+            "links": [
+              {
+                "text": "Minister for Housing and Urban Development",
+                "type": "internal",
+                "page": "Ministry of Enterprise (Sweden)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "18 April 2016"
+          },
+          "term_end5": {
+            "text": "25 May 2016"
+          },
+          "primeminister5": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "monarch5": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Mehmet Kaplan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mehmet Kaplan"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Peter Eriksson",
+            "links": [
+              {
+                "text": "Peter Eriksson",
+                "type": "internal",
+                "page": "Peter Eriksson (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 3, 1971"
+          },
+          "birth_place": {
+            "text": "Stockholm, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stockholm"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Swedish"
+          },
+          "party": {
+            "text": "Green Party",
+            "links": [
+              {
+                "text": "Green Party",
+                "type": "internal",
+                "page": "Green Party (Sweden)"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Biologist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Biologist"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://next.ft.com/content/93a39da4-aeff-11e5-993b-c425a3d2b65a",
+          "title": "Per Bolund: Sweden’s great Green pensions hope",
+          "work": "Financial Times",
+          "accessdate": "18 April 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6413378",
+          "title": "Direktrapport om Kaplans avgång",
+          "language": "sv",
+          "author": "Sveriges Radio",
+          "accessdate": "18 April 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/per-bolund_0956444284814",
+          "title": "Per Bolund",
+          "publisher": "Riksdagen",
+          "language": "sv",
+          "accessdate": "2019-07-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.mp.se/om/per-bolund",
+          "title": "Per Bolund",
+          "publisher": "Green Party",
+          "language": "sv",
+          "accessdate": "2019-07-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Per Bolund"
+          ],
+          "template": "commons category-inline"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Gustav Fridolin",
+          "template": "s-bef"
+        },
+        {
+          "title": "Spokesperson of the Green Party Serving with: Isabella Lövin (2019–2021) Märta Stenevi (2021– )",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Peter Norman",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Financial Markets",
+          "years": "2014–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Åsa Lindhagen",
+          "rows": "2",
+          "template": "s-aft"
+        },
+        {
+          "title": "Deputy Minister for Finance",
+          "years": "2014–2021",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Birgitta Ohlsson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Consumer Affairs",
+          "years": "2014–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Ardalan Shekarabi",
+          "template": "s-aft"
+        },
+        {
+          "before": "Mehmet Kaplan",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Housing and Urban Development Minister for Digitalizion Acting",
+          "years": "2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Peter Eriksson",
+          "template": "s-aft"
+        },
+        {
+          "before": "Peter Eriksson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Housing",
+          "years": "2019–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Märta Stenevi",
+          "template": "s-aft"
+        },
+        {
+          "before": "Isabella Lövin",
+          "rows": "2",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for the Environment",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "title": "Deputy Prime Minister of Sweden",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "green party (sweden)"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
