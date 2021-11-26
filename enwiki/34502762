@@ -214,7 +214,7 @@
               ]
             },
             {
-              "text": "Andersson was elected party chairman on 4 November."
+              "text": "Andersson was elected party leader on 4 November."
             },
             {
               "text": "Löfven officially resigned as prime minister on 10 November 2021, though he continued to lead a caretaker government.",
@@ -611,12 +611,6 @@
           "type": "web"
         },
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
           "date": "2021-11-04",
           "title": "Magdalena Andersson vald till Socialdemokraternas nya partiledare",
           "url": "https://www.dn.se/sverige/magdalena-andersson-vantas-bli-vald-till-ny-partiledare/",
@@ -647,6 +641,12 @@
           "language": "sv",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
@@ -2642,12 +2642,6 @@
           "type": "web"
         },
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
           "date": "2021-11-10",
           "title": "Stefan Löfven resigns as Prime Minister of Sweden",
           "url": "https://www.thelocal.se/20211110/stefan-lofven-to-resign-as-prime-minister-today/",
@@ -2948,6 +2942,9 @@
         },
         {
           "template": "prime ministers of sweden"
+        },
+        {
+          "template": "european council"
         },
         {
           "template": "swedish social democratic party"
