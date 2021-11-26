@@ -96,6 +96,52 @@
                   "page": "Riksdag"
                 }
               ]
+            },
+            {
+              "text": "As Minister for the Environment he made a pledge to double Sweden's climate finance.",
+              "links": [
+                {
+                  "text": "Minister for the Environment",
+                  "type": "internal",
+                  "page": "Minister for the Environment (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "As leader of the Green Party his withdrawal of support helped bring down the government of Magdalena Andersson in November 2021 because the planned tax cut on petrol in her first budget would lead to higher emissions.",
+              "links": [
+                {
+                  "text": "Green Party",
+                  "type": "internal",
+                  "page": "Green Party (Sweden)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Magdalena Andersson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before politics he trained as a biologist, and his parents are the Aarhus University geneticist Professor Lars Bolund and medical Professor Christina Bolund.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aarhus University"
+                }
+              ]
+            },
+            {
+              "text": "In his personal time he is a fan of baseball and football, and follows the Stockholm club AIK Fotboll.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "AIK Fotboll"
+                }
+              ]
             }
           ]
         }
@@ -482,6 +528,28 @@
           "type": "web"
         },
         {
+          "last": "Stockholm",
+          "first": "Agencies in",
+          "date": "2021-11-24",
+          "title": "Sweden’s first female prime minister resigns after less than 12 hours",
+          "url": "https://www.theguardian.com/world/2021/nov/24/swedens-first-female-prime-minister-resigns-after-less-than-12-hours",
+          "access-date": "2021-11-25",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Riksdagsförvaltningen",
+          "title": "Per Bolund (MP) - Riksdagen",
+          "url": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/per-bolund_56698f88-e33a-41fe-9c62-a9c53b3e793d",
+          "access-date": "2021-11-25",
+          "website": "www.riksdagen.se",
+          "language": "sv",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/per-bolund_0956444284814",
           "title": "Per Bolund",
           "publisher": "Riksdagen",
@@ -496,6 +564,16 @@
           "publisher": "Green Party",
           "language": "sv",
           "accessdate": "2019-07-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-08",
+          "title": "A Swiss pianist, a Rwandan chemist... meet 15 ministers brokering a deal in Glasgow",
+          "url": "https://www.climatechangenews.com/2021/11/08/swiss-pianist-rwandan-chemist-meet-15-ministers-brokering-glasgow-pact/",
+          "access-date": "2021-11-25",
+          "website": "Climate Home News",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }

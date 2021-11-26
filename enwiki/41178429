@@ -49,7 +49,7 @@
         {
           "sentences": [
             {
-              "text": "On 24 November 2021 the Riksdag elected her as Sweden's prime minister, and she was due to take office on 26 November.",
+              "text": "On 24 November 2021, the Riksdag elected her as Sweden's prime minister, and she was due to take office on 26 November 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -63,12 +63,18 @@
               ]
             },
             {
-              "text": "However, the collapse of her party's coalition with the Green Party, itself triggered by the Riksdag's adoption of the opposition's budget proposal, caused Andersson to resign a few hours after her election as prime minister.",
+              "text": "However, the collapse of her party's coalition with the Green Party, itself triggered by the Riksdag's adoption of the opposition's budget proposal after the defeat of the coalition's own budget, caused Andersson to resign a few hours after her election as prime minister.",
               "links": [
                 {
                   "text": "Green Party",
                   "type": "internal",
                   "page": "Green Party (Sweden)"
+                },
+                {
+                  "text": "opposition's budget proposal after the defeat of the coalition's own budget",
+                  "type": "internal",
+                  "page": "",
+                  "anchor": "2021 budget"
                 }
               ]
             },
@@ -81,13 +87,16 @@
                   "page": "Swedish Social Democratic Party"
                 }
               ]
+            },
+            {
+              "text": "A new vote has been scheduled for 29 November 2021."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "If Andersson is confirmed by the Riksdag, she would become the first female Prime Minister of Sweden, thereby ending its status as the only Nordic country never to have had a woman serve as head of government.",
+              "text": "If Andersson is confirmed by the Riksdag, she would become the first female Prime Minister of Sweden, thereby ending its status as the only Nordic country to have never had a woman serve as head of government.",
               "links": [
                 {
                   "type": "internal",
@@ -104,6 +113,10 @@
         }
       ],
       "templates": [
+        {
+          "small": "yes",
+          "template": "pp-semi"
+        },
         {
           "description": "Swedish Social Democratic politician (born 1967)",
           "template": "short description"
@@ -282,16 +295,18 @@
       ],
       "references": [
         {
+          "url": "https://www.france24.com/en/live-news/20211124-sweden-s-andersson-elected-as-nation-s-first-woman-pm",
+          "title": "Sweden's Andersson elected as nation's first woman PM",
+          "date": "24 November 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.thelocal.se/20211124/magdalena-andersson-prime-minister/",
+          "title": "Magdalena Andersson becomes Sweden's first female prime minister",
+          "date": "24 November 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "Omröstning om ny statsminister",
@@ -304,10 +319,17 @@
           "type": "web"
         },
         {
+          "title": "Talmannen: Ny omröstning om Andersson (S) på måndag",
+          "website": "SVT Nyheter",
+          "url": "https://www.svt.se/nyheter/inrikes/talmannen-ny-omrostning-om-andersson-s-pa-mandag",
+          "publisher": "Sveriges Television",
+          "date": "25 November 2021",
+          "access-date": "25 November 2021",
+          "language": "sv",
+          "last1": "Nyheter",
+          "first1": "S. V. T.",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
           "last": "Dutt",
@@ -321,21 +343,21 @@
           "type": "news"
         },
         {
+          "title": "Sweden's first female PM resigns hours after appointment",
+          "url": "https://www.bbc.com/news/world-europe-59400539",
+          "publisher": "BBC News",
+          "date": "24 November 2021",
+          "access-date": "24 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "last1": "Associated Press",
           "title": "Finance chief Andersson tapped to be Sweden's 1st female PM",
           "url": "https://www.washingtonpost.com/politics/finance-chief-andersson-tapped-to-be-swedens-1st-female-pm/2021/11/04/926437ca-3d8b-11ec-bd6f-da376f47304e_story.html",
           "website": "The Washington Post",
           "date": "4 November 2021",
           "access-date": "8 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Sweden's first female PM resigns hours after appointment",
-          "url": "https://www.bbc.com/news/world-europe-59400539",
-          "publisher": "BBC News",
-          "date": "24 November 2021",
-          "access-date": "24 November 2021",
           "template": "citation",
           "type": "web"
         }
@@ -352,7 +374,7 @@
         {
           "sentences": [
             {
-              "text": "Andersson is the only child of Göran Andersson (1936–2002), a lecturer in statistics at Uppsala University, and teacher Birgitta Andersson (née Grunell) (born 1939).",
+              "text": "Andersson is the only child of Göran Andersson (1936–2002), a lecturer in statistics at Uppsala University, and teacher Birgitta Andersson (b.",
               "links": [
                 {
                   "text": "statistics",
@@ -367,7 +389,12 @@
                   "text": "teacher",
                   "type": "internal",
                   "page": "teacher"
-                },
+                }
+              ]
+            },
+            {
+              "text": "1939, née Grunell).",
+              "links": [
                 {
                   "text": "née",
                   "type": "internal",
@@ -464,7 +491,7 @@
               ]
             },
             {
-              "text": "She then worked as a doctoral student in economics at the Stockholm School of Economics in the years 1992–1995 but ended her studies in advance.",
+              "text": "She then worked as a doctoral student in economics at the Stockholm School of Economics from 1992 to 1995, but ended her studies in advance.",
               "links": [
                 {
                   "text": "doctoral student",
@@ -990,7 +1017,7 @@
               "text": "The opposition budget passed instead."
             },
             {
-              "text": "Since the opposition budget was drafted with the support of the right-wing party, the Sweden Democrats, the Green Party pulled out of the coalition rather than be bound to govern under it, leading Andersson to resign.",
+              "text": "Since the opposition budget was drafted with the support of the right-wing Sweden Democrats, the Green Party pulled out of the coalition rather than be bound to govern under it, leading Andersson to resign.",
               "links": [
                 {
                   "type": "internal",
@@ -1023,7 +1050,7 @@
               ]
             },
             {
-              "text": "She is expected to be reelected as prime minister as all parties that have supported her in the first vote – the Centre Party, the Green Party, and the Left Party – have indicated their willingness to support her again in the upcoming prime ministerial vote, which has yet to be scheduled."
+              "text": "She is expected to be reelected as prime minister as all parties that supported her in the first vote – the Centre Party, the Green Party, and the Left Party – have indicated their willingness to support her when the Riksdag takes another vote on 29 November 2021."
             }
           ]
         }
@@ -1040,10 +1067,18 @@
           "type": "web"
         },
         {
+          "url": "https://www.theguardian.com/world/2021/nov/24/swedens-first-female-prime-minister-resigns-after-less-than-12-hours",
+          "title": "Sweden’s first female prime minister resigns after less than 12 hours",
+          "publisher": "The Guardian",
+          "date": "24 November 2021",
+          "access-date": "25 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "Magdalena Andersson (S) väljer att avgå",
           "url": "https://www.svt.se/nyheter/inrikes/talmansrundor",
           "url-status": "live",
-          "website": "svt.se",
           "publisher": "Sveriges Television",
           "date": "24 November 2021",
           "access-date": "24 November 2021",
@@ -1054,32 +1089,25 @@
           "type": "web"
         },
         {
-          "title": "Miljöpartiet lämnar regeringen – ny statsministeromröstning kan vänta",
-          "url": "https://www.svt.se/nyheter/inrikes/miljopartiet-lamnar-regeringen-ny-statsministeromrostning-vantar",
-          "url-status": "live",
-          "newspaper": "SVT Nyheter",
-          "publisher": "Sveriges Television",
-          "date": "24 November 2021",
-          "access-date": "24 November 2021",
-          "archive-url": "https://web.archive.org/web/20211124162204/https://www.svt.se/nyheter/inrikes/miljopartiet-lamnar-regeringen-ny-statsministeromrostning-vantar",
-          "archive-date": "24 November 2021",
-          "language": "sv",
-          "last1": "Nyheter",
-          "first1": "S. V. T.",
-          "last2": "Fors",
-          "first2": "Ebba",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "”Var Andersson någonsin statsminister?” – frågor och svar om regeringsbildningen",
+          "title": "\"Var Andersson någonsin statsminister?\" – frågor och svar om regeringsbildningen",
           "url": "https://www.svt.se/nyheter/inrikes/detta-hander-nu-1",
           "publisher": "Sveriges Television",
           "date": "24 November 2021",
           "access-date": "25 November 2021",
           "language": "sv",
           "template": "citation",
-          "type": "web"
+          "type": "news"
+        },
+        {
+          "title": "Talmannen: Ny omröstning om Andersson (S) på måndag",
+          "website": "Sveriges Television",
+          "url": "https://www.svt.se/nyheter/inrikes/talmannen-ny-omrostning-om-andersson-s-pa-mandag",
+          "publisher": "Sveriges Television",
+          "date": "25 November 2021",
+          "access-date": "25 November 2021",
+          "language": "sv",
+          "template": "citation",
+          "type": "news"
         },
         {
           "last": "Tanaka",
@@ -1092,6 +1120,21 @@
           "access-date": "24 November 2021",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Miljöpartiet lämnar regeringen – ny statsministeromröstning kan vänta",
+          "url": "https://www.svt.se/nyheter/inrikes/miljopartiet-lamnar-regeringen-ny-statsministeromrostning-vantar",
+          "url-status": "live",
+          "publisher": "Sveriges Television",
+          "date": "24 November 2021",
+          "access-date": "24 November 2021",
+          "archive-url": "https://web.archive.org/web/20211124162204/https://www.svt.se/nyheter/inrikes/miljopartiet-lamnar-regeringen-ny-statsministeromrostning-vantar",
+          "archive-date": "24 November 2021",
+          "language": "sv",
+          "last": "Fors",
+          "first": "Ebba",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -1266,6 +1309,13 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Richard Friberg",
+          "lan1": "sv",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "Magdalena Andersson about the grief after father Göran Andersson",
@@ -1332,12 +1382,6 @@
         },
         {
           "template": "s-inc"
-        },
-        {
-          "template": "prime ministers of sweden"
-        },
-        {
-          "template": "european council"
         },
         {
           "template": "swedish social democratic party"

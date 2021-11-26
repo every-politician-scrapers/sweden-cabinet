@@ -264,10 +264,10 @@
       "lists": [
         [
           {
-            "text": "🇮🇹 Italy Knight Grand Cross of the Order of Merit of the Italian Republic (14 January 2019)",
+            "text": "🇮🇹 Knight Grand Cross of the Order of Merit of the Italian Republic (14 January 2019)",
             "links": [
               {
-                "text": "Italy",
+                "text": "🇮🇹",
                 "type": "internal",
                 "page": "italy"
               },
@@ -278,16 +278,30 @@
             ]
           },
           {
-            "text": "🇩🇪 Germany Grand Cross 1st class of the Order of Merit of the Federal Republic of Germany (7 September 2021)",
+            "text": "🇩🇪 Grand Cross 1st class of the Order of Merit of the Federal Republic of Germany (7 September 2021)",
             "links": [
               {
-                "text": "Germany",
+                "text": "🇩🇪",
                 "type": "internal",
                 "page": "germany"
               },
               {
                 "type": "internal",
                 "page": "Order of Merit of the Federal Republic of Germany"
+              }
+            ]
+          },
+          {
+            "text": "🇪🇸 Knight Grand Cross of the Order of Isabella the Catholic (16 November 2021)",
+            "links": [
+              {
+                "text": "🇪🇸",
+                "type": "internal",
+                "page": "spain"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Isabella the Catholic"
               }
             ]
           }
@@ -297,6 +311,12 @@
         {
           "url": "https://www.quirinale.it/onorificenze/insigniti/357178/",
           "title": "Le onorificenze della Repubblica Italiana",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.boe.es/boe/dias/2021/11/17/pdfs/BOE-A-2021-18860.pdf",
+          "title": "Royal Decree 1012/2021",
           "template": "citation",
           "type": "web"
         }
