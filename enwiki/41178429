@@ -15,7 +15,8 @@
     "Women government ministers of Sweden",
     "Women prime ministers",
     "Female finance ministers",
-    "21st-century Swedish women politicians"
+    "21st-century Swedish women politicians",
+    "21st-century Swedish economists"
   ],
   "sections": [
     {
@@ -25,15 +26,9 @@
         {
           "sentences": [
             {
-              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish Social Democratic politician who has been serving as the leader of the Social Democratic Party since 4 November 2021.",
+              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish politician and economist who has been serving as the leader of the Swedish Social Democratic Party since 4 November 2021.",
               "links": [
                 {
-                  "text": "Social Democratic",
-                  "type": "internal",
-                  "page": "Swedish Social Democratic Party"
-                },
-                {
-                  "text": "Social Democratic Party",
                   "type": "internal",
                   "page": "Swedish Social Democratic Party"
                 }
@@ -49,7 +44,7 @@
         {
           "sentences": [
             {
-              "text": "On 24 November 2021, the Riksdag elected her as Sweden's prime minister, and she was due to take office on 26 November 2021.",
+              "text": "On 24 November 2021, the Riksdag elected her as Sweden's prime minister, and she was due to take office on 26 November 2021; however, the collapse of her party's coalition with the Green Party, itself triggered by the Riksdag's adoption of the opposition's budget proposal after the defeat of the coalition's own budget, caused Andersson to resign a few hours after her election as prime minister.",
               "links": [
                 {
                   "type": "internal",
@@ -59,12 +54,7 @@
                   "text": "prime minister",
                   "type": "internal",
                   "page": "List_of_prime_ministers_of_Sweden"
-                }
-              ]
-            },
-            {
-              "text": "However, the collapse of her party's coalition with the Green Party, itself triggered by the Riksdag's adoption of the opposition's budget proposal after the defeat of the coalition's own budget, caused Andersson to resign a few hours after her election as prime minister.",
-              "links": [
+                },
                 {
                   "text": "Green Party",
                   "type": "internal",
@@ -79,14 +69,7 @@
               ]
             },
             {
-              "text": "She then announced that she will seek the confidence of the Riksdag for a single-party Social Democratic government.",
-              "links": [
-                {
-                  "text": "Social Democratic",
-                  "type": "internal",
-                  "page": "Swedish Social Democratic Party"
-                }
-              ]
+              "text": "She then announced that she will seek the confidence of the Riksdag for a single-party Social Democratic government."
             },
             {
               "text": "A new vote has been scheduled for 29 November 2021."
@@ -114,12 +97,12 @@
       ],
       "templates": [
         {
-          "small": "yes",
-          "template": "pp-semi"
-        },
-        {
           "description": "Swedish Social Democratic politician (born 1967)",
           "template": "short description"
+        },
+        {
+          "small": "yes",
+          "template": "pp-semi"
         },
         {
           "list": [
@@ -869,12 +852,11 @@
         {
           "sentences": [
             {
-              "text": "Andersson was elected Leader of the Social Democratic Party on 4 November 2021, becoming the party's second female leader after Mona Sahlin.",
+              "text": "Andersson was elected Leader of the Swedish Social Democratic Party on 4 November 2021, becoming the party's second female leader after Mona Sahlin.",
               "links": [
                 {
-                  "text": "Leader of the Social Democratic Party",
                   "type": "internal",
-                  "page": "Swedish Social Democratic Party"
+                  "page": "Leader of the Swedish Social Democratic Party"
                 },
                 {
                   "type": "internal",
@@ -887,13 +869,19 @@
         {
           "sentences": [
             {
-              "text": "On 10 November, Prime Minister Löfven formally resigned from office."
-            },
-            {
-              "text": "As part of the government formation process, the Speaker of the Riksdag held talks with all party leaders on 11 November and shortly after tasked Andersson with forming a government, giving her one week.",
+              "text": "On 10 November, the incumbent prime minister Stefan Löfven formally resigned from office.",
               "links": [
                 {
-                  "text": "government formation process",
+                  "type": "internal",
+                  "page": "Stefan Löfven"
+                }
+              ]
+            },
+            {
+              "text": "As part of the 2021 Swedish government formation, the Speaker of the Riksdag held talks with all party leaders on 11 November and shortly after tasked Andersson with forming a government, giving her one week.",
+              "links": [
+                {
+                  "text": "2021 Swedish government formation",
                   "type": "internal",
                   "page": "2021 Swedish government formation"
                 }
@@ -965,24 +953,11 @@
           "first2": "Ebba",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "last": "Dahlström",
-          "first": "Lucas",
-          "title": "Den \"snålaste finansministern i EU\" kan bli Sveriges första kvinnliga statsminister",
-          "trans-title": "\"EU's most stingy Minister for Finance\" can become Sweden's first female Prime Minister",
-          "url": "https://svenska.yle.fi/a/7-10004989",
-          "website": "www.svenska.yle.fi",
-          "publisher": "Yle",
-          "access-date": "8 November 2021",
-          "date": "24 August 2021",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
     {
-      "title": "Prime Minister-elect of Sweden (2021)",
+      "title": "Prime minister-elect of Sweden",
       "depth": 1,
       "paragraphs": [
         {
@@ -1031,7 +1006,7 @@
               ]
             },
             {
-              "text": "This was based on the convention that a Prime Minister should resign if a party leaves the governing coalition.",
+              "text": "This was based on the convention that a prime minister should resign if a party leaves the governing coalition.",
               "links": [
                 {
                   "text": "convention",
@@ -1048,9 +1023,13 @@
                   "page": "Andreas Norlén"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "She is expected to be reelected as prime minister as all parties that supported her in the first vote – the Centre Party, the Green Party, and the Left Party – have indicated their willingness to support her when the Riksdag takes another vote on 29 November 2021."
+              "text": "She is expected to be reelected as prime minister, as all parties that supported her in the first vote (the Centre Party, the Green Party, and the Left Party), have indicated their willingness to support her when the Riksdag takes another vote on 29 November 2021."
             }
           ]
         }
@@ -1089,16 +1068,6 @@
           "type": "web"
         },
         {
-          "title": "\"Var Andersson någonsin statsminister?\" – frågor och svar om regeringsbildningen",
-          "url": "https://www.svt.se/nyheter/inrikes/detta-hander-nu-1",
-          "publisher": "Sveriges Television",
-          "date": "24 November 2021",
-          "access-date": "25 November 2021",
-          "language": "sv",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "title": "Talmannen: Ny omröstning om Andersson (S) på måndag",
           "website": "Sveriges Television",
           "url": "https://www.svt.se/nyheter/inrikes/talmannen-ny-omrostning-om-andersson-s-pa-mandag",
@@ -1133,6 +1102,16 @@
           "language": "sv",
           "last": "Fors",
           "first": "Ebba",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "'Var Andersson någonsin statsminister?' – frågor och svar om regeringsbildningen",
+          "url": "https://www.svt.se/nyheter/inrikes/detta-hander-nu-1",
+          "publisher": "Sveriges Television",
+          "date": "24 November 2021",
+          "access-date": "25 November 2021",
+          "language": "sv",
           "template": "citation",
           "type": "news"
         }

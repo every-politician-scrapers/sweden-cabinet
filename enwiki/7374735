@@ -100,6 +100,10 @@
           "template": "short description"
         },
         {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1970",
           "month": "06",
           "day": "17",
