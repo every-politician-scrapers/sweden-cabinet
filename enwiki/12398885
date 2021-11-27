@@ -212,12 +212,15 @@
               ]
             },
             {
-              "text": "After the centre-left Löfven Cabinet lost a vote of no confidence, Norlén began the task of nominating candidates for Löfven's successor as Prime Minister, according to the Swedish Instrument of Government.",
+              "text": "After the centre-left Löfven I Cabinet lost a vote of no confidence, Norlén began the task of nominating candidates for Stefan Löfven's successor as Prime Minister, according to the Swedish Instrument of Government.",
               "links": [
                 {
-                  "text": "Löfven Cabinet",
                   "type": "internal",
                   "page": "Löfven I Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stefan Löfven"
                 },
                 {
                   "text": "Instrument of Government",
@@ -228,7 +231,7 @@
               ]
             },
             {
-              "text": "The lengthy work of finding a prime minister that could be tolerated by the Riksdag was concluded on 18 January 2019 when Stefan Löfven was appointed for a second term."
+              "text": "The lengthy work of finding a prime minister that could be tolerated by the Riksdag was concluded on 18 January 2019 when Löfven was appointed for a second term."
             }
           ]
         }
