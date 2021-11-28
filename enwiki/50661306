@@ -749,8 +749,12 @@
       ]
     },
     {
+      "title": "Honours",
+      "depth": 0
+    },
+    {
       "title": "Recognition",
-      "depth": 0,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": []
@@ -776,6 +780,41 @@
           "access-date": "2020-09-05",
           "website": "DN.SE",
           "language": "sv",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Foreign honours",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "🇪🇸 Grand Cross of the Order of Isabella the Catholic (16 November 2021)",
+            "links": [
+              {
+                "text": "🇪🇸",
+                "type": "internal",
+                "page": "spain"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Isabella the Catholic"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.boe.es/boe/dias/2021/11/17/pdfs/BOE-A-2021-18860.pdf",
+          "title": "Royal Decree 1012/2021",
           "template": "citation",
           "type": "web"
         }

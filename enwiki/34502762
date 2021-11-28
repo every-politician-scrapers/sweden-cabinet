@@ -466,12 +466,24 @@
           "term_start3": {
             "text": "14 September 2014"
           },
+          "term_end3": {
+            "text": "16 November 2021"
+          },
           "predecessor3": {
             "text": "Agneta Lundberg",
             "links": [
               {
                 "type": "internal",
                 "page": "Agneta Lundberg"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Anna-Belle Strömberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anna-Belle Strömberg"
               }
             ]
           },
@@ -691,7 +703,7 @@
         {
           "sentences": [
             {
-              "text": "His foster father Ture Melander (1926–2003) was a lumberjack and later a factory worker, while his foster mother, Iris Melander (née Söderlund, 1929–2020), worked as an in-home caregiver.",
+              "text": "His foster father Ture Melander (1927–2003) was a lumberjack and later a factory worker, while his foster mother, Iris Melander (née Söderlund, 1929–2020), worked as an in-home caregiver.",
               "links": [
                 {
                   "text": "in-home",
@@ -2599,7 +2611,7 @@
               "text": "Andersson was elected as the new Prime Minister of Sweden by the Riksdag on 24 November 2021 and was set to take office on 26 November."
             },
             {
-              "text": "Because of Andersson's resignation a few hours later, Löfven continues as leader of the caretaker government.",
+              "text": "Because of Andersson's resignation a few hours later, Löfven continues as prime minister of the caretaker government.",
               "links": [
                 {
                   "text": "caretaker government",
@@ -2695,6 +2707,16 @@
           "title": "Utländsk reporter: Vem är statsminister?",
           "url": "https://www.thelocal.se/20211110/stefan-lofven-to-resign-as-prime-minister-today/",
           "access-date": "2021-11-10",
+          "website": "The Local Sweden",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-26",
+          "title": "So… who is the prime minister of Sweden right now?",
+          "url": "https://www.thelocal.se/20211125/so-who-is-the-prime-minister-of-sweden-right-now/",
+          "access-date": "2021-11-27",
           "website": "The Local Sweden",
           "language": "en-US",
           "template": "citation",

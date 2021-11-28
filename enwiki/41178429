@@ -266,11 +266,15 @@
             "number": 2
           },
           "education": {
-            "text": "Stockholm School of Economics",
+            "text": "Stockholm School of Economics Harvard University",
             "links": [
               {
                 "type": "internal",
                 "page": "Stockholm School of Economics"
+              },
+              {
+                "type": "internal",
+                "page": "Harvard University"
               }
             ]
           }
@@ -992,7 +996,7 @@
               "text": "The opposition budget passed instead."
             },
             {
-              "text": "Since the opposition budget was drafted with the support of the right-wing Sweden Democrats, the Green Party pulled out of the coalition rather than be bound to govern under it, leading Andersson to resign.",
+              "text": "Since the opposition budget was drafted with the support of the right-wing Sweden Democrats, the Green Party pulled out of the coalition rather than be bound to govern under it, leading Andersson to resign before taking office.",
               "links": [
                 {
                   "type": "internal",
@@ -1051,6 +1055,16 @@
           "publisher": "The Guardian",
           "date": "24 November 2021",
           "access-date": "25 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-26",
+          "title": "So… who is the prime minister of Sweden right now?",
+          "url": "https://www.thelocal.se/20211125/so-who-is-the-prime-minister-of-sweden-right-now/",
+          "access-date": "2021-11-27",
+          "website": "The Local Sweden",
+          "language": "en-US",
           "template": "citation",
           "type": "web"
         },
@@ -1236,7 +1250,7 @@
         {
           "title": "Curriculum Vitae Minister for Finance Magdalena Andersson",
           "url": "https://www.government.se/globalassets/government/dokument/finansdepartementet/cv/magdalena-andersson_eng.pdf",
-          "website": "www.government.se",
+          "website": "government.se",
           "publisher": "Government of Sweden",
           "access-date": "11 November 2021",
           "template": "citation",
