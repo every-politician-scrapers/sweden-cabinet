@@ -288,24 +288,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "Anna Ekström"
-          ],
-          "template": "commons category-inline"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "sweden-socialdemocratic-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -278,24 +278,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "list": [
-            "Lena Micko"
-          ],
-          "template": "commons category"
-        },
-        {
-          "template": "sweden-politician-stub"
-        }
-      ]
     }
   ]
 }
