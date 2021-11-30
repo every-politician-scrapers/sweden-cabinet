@@ -26,11 +26,17 @@
         {
           "sentences": [
             {
-              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish politician and economist who has been serving as the leader of the Swedish Social Democratic Party since 4 November 2021.",
+              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish politician and economist serving as the leader of the Social Democratic Party since 4 November 2021, and as prime minister of Sweden since 30 November 2021.",
               "links": [
                 {
+                  "text": "Social Democratic Party",
                   "type": "internal",
                   "page": "Swedish Social Democratic Party"
+                },
+                {
+                  "text": "prime minister of Sweden",
+                  "type": "internal",
+                  "page": "Prime Minister of Sweden"
                 }
               ],
               "formatting": {
@@ -44,53 +50,76 @@
         {
           "sentences": [
             {
-              "text": "On 24 November 2021, the Riksdag elected her as Sweden's prime minister, and she was due to take office on 26 November 2021; however, the collapse of her party's coalition with the Green Party, itself triggered by the Riksdag's adoption of the opposition's budget proposal after the defeat of the coalition's own budget, caused Andersson to resign a few hours after her election as prime minister.",
+              "text": "Andersson joined the Social Democratic Youth League in 1983, and in 1992 she graduated with a degree in economics.",
               "links": [
+                {
+                  "text": "Social Democratic Youth League",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Youth League"
+                }
+              ]
+            },
+            {
+              "text": "She served as an adviser and director of planning in Göran Persson's government and as an adviser to Mona Sahlin.",
+              "links": [
+                {
+                  "text": "Göran Persson's",
+                  "type": "internal",
+                  "page": "Göran Persson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mona Sahlin"
+                }
+              ]
+            },
+            {
+              "text": "After the 2014 election, Andersson was elected into the Riksdag and became the finance minister in Stefan Löfven's government.",
+              "links": [
+                {
+                  "text": "2014 election",
+                  "type": "internal",
+                  "page": "2014 Swedish general election"
+                },
                 {
                   "type": "internal",
                   "page": "Riksdag"
                 },
                 {
-                  "text": "prime minister",
+                  "text": "finance minister",
                   "type": "internal",
-                  "page": "List_of_prime_ministers_of_Sweden"
+                  "page": "Minister for Finance (Sweden)"
                 },
                 {
-                  "text": "Green Party",
                   "type": "internal",
-                  "page": "Green Party (Sweden)"
-                },
-                {
-                  "text": "opposition's budget proposal after the defeat of the coalition's own budget",
-                  "type": "internal",
-                  "page": "",
-                  "anchor": "2021 budget"
+                  "page": "Stefan Löfven"
                 }
               ]
             },
             {
-              "text": "She then announced that she will seek the confidence of the Riksdag for a single-party Social Democratic government."
+              "text": "After Löfven announced his plans to step down in August 2021, she was regarded by most as the candidate to succeed him."
             },
             {
-              "text": "A new vote has been scheduled for 29 November 2021."
+              "text": "Soon after, Andersson was elected as the leader of the Social Democratic Party on 4 November 2021."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "If Andersson is confirmed by the Riksdag, she would become the first female Prime Minister of Sweden, thereby ending its status as the only Nordic country to have never had a woman serve as head of government.",
+              "text": "Andersson was elected by the Riksdag as the prime minister of Sweden on 29 November 2021.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Prime Minister of Sweden"
-                },
-                {
-                  "text": "Nordic country",
-                  "type": "internal",
-                  "page": "Nordic countries"
+                  "page": "Riksdag"
                 }
               ]
+            },
+            {
+              "text": "This followed a previous vote on 24 November, where Andersson was elected, but chose to resign after her coalition's own budget was not supported by the Riksdag."
+            },
+            {
+              "text": "She is set to assume the office on 30 November, when she will become Sweden's first elected female head of government."
             }
           ]
         }
@@ -99,10 +128,6 @@
         {
           "description": "Swedish Social Democratic politician (born 1967)",
           "template": "short description"
-        },
-        {
-          "small": "yes",
-          "template": "pp-semi"
         },
         {
           "list": [
@@ -132,8 +157,11 @@
           "template": "marriage"
         },
         {
-          "transcription": "eːva maɡdalena andɛʂɔn",
-          "template": "ipa"
+          "list": [
+            "Stockholm School of Economics",
+            "Harvard University"
+          ],
+          "template": "ubl"
         }
       ],
       "infoboxes": [
@@ -146,6 +174,37 @@
           },
           "caption": {
             "text": "Andersson in 2021"
+          },
+          "office": {
+            "text": "Prime Minister-elect of Sweden",
+            "links": [
+              {
+                "text": "Prime Minister-elect of Sweden",
+                "type": "internal",
+                "page": "Prime Minister of Sweden"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 November 2021"
+          },
+          "succeeding": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
           },
           "office1": {
             "text": "Leader of the Social Democratic Party",
@@ -266,87 +325,8 @@
             "number": 2
           },
           "education": {
-            "text": "Stockholm School of Economics Harvard University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stockholm School of Economics"
-              },
-              {
-                "type": "internal",
-                "page": "Harvard University"
-              }
-            ]
+            "text": "Stockholm School of Economics\n\nHarvard University"
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.france24.com/en/live-news/20211124-sweden-s-andersson-elected-as-nation-s-first-woman-pm",
-          "title": "Sweden's Andersson elected as nation's first woman PM",
-          "date": "24 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thelocal.se/20211124/magdalena-andersson-prime-minister/",
-          "title": "Magdalena Andersson becomes Sweden's first female prime minister",
-          "date": "24 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Omröstning om ny statsminister",
-          "url": "https://www.svt.se/nyheter/inrikes/talmansrundor",
-          "website": "SVT Nyheter",
-          "date": "11 November 2021",
-          "access-date": "24 November 2021",
-          "language": "sv",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Talmannen: Ny omröstning om Andersson (S) på måndag",
-          "website": "SVT Nyheter",
-          "url": "https://www.svt.se/nyheter/inrikes/talmannen-ny-omrostning-om-andersson-s-pa-mandag",
-          "publisher": "Sveriges Television",
-          "date": "25 November 2021",
-          "access-date": "25 November 2021",
-          "language": "sv",
-          "last1": "Nyheter",
-          "first1": "S. V. T.",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Dutt",
-          "first": "Sujay",
-          "title": "Magdalena Andersson elected as new Social Democrat leader",
-          "url": "https://sverigesradio.se/artikel/magdalena-andersson-elected-as-new-social-democrat-leader",
-          "newspaper": "Sveriges Radio",
-          "date": "4 November 2021",
-          "access-date": "23 November 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Sweden's first female PM resigns hours after appointment",
-          "url": "https://www.bbc.com/news/world-europe-59400539",
-          "publisher": "BBC News",
-          "date": "24 November 2021",
-          "access-date": "24 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Associated Press",
-          "title": "Finance chief Andersson tapped to be Sweden's 1st female PM",
-          "url": "https://www.washingtonpost.com/politics/finance-chief-andersson-tapped-to-be-swedens-1st-female-pm/2021/11/04/926437ca-3d8b-11ec-bd6f-da376f47304e_story.html",
-          "website": "The Washington Post",
-          "date": "4 November 2021",
-          "access-date": "8 November 2021",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },
@@ -388,11 +368,7 @@
                   "page": "née"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Andersson was an elite-level swimmer in her youth.",
               "links": [
@@ -807,22 +783,35 @@
           "type": "web"
         },
         {
+          "title": "IMFC Selects Sweden’s Minister for Finance Magdalena Andersson as New Chair",
+          "url": "https://www.imf.org/en/News/Articles/2020/12/17/pr20372-imfc-selects-swedens-minister-for-finance-magdalena-andersson-as-new-chair",
+          "access-date": "2021-11-29",
+          "website": "IMF",
+          "language": "en",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "date": "2020-12-17",
+          "title": "IMF steering committee names Swedish finance minister as next chair",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/imf-leadership-int-idUSKBN28R367",
+          "access-date": "2021-11-29",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
+          "last": "Lindeberg",
+          "first": "Rafaela",
+          "date": "29 September 2021",
+          "title": "Sweden’s Finance Chief Nominated to Become First Female PM",
+          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a3fb6bac-511a-11ec-a3a5-4d7951514179&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wOS0yOS9zd2VkZW4tcy1maW5hbmNlLWNoaWVmLW5vbWluYXRlZC10by1iZWNvbWUtZmlyc3QtZmVtYWxlLXByZW1pZXI=",
+          "url-status": "live",
+          "access-date": "2021-11-29",
+          "website": "www.bloomberg.com",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "Valberedningen föreslår Magdalena Andersson",
@@ -873,7 +862,7 @@
         {
           "sentences": [
             {
-              "text": "On 10 November, the incumbent prime minister Stefan Löfven formally resigned from office.",
+              "text": "On 10 November 2021, the incumbent prime minister Stefan Löfven formally resigned from office.",
               "links": [
                 {
                   "type": "internal",
@@ -882,7 +871,7 @@
               ]
             },
             {
-              "text": "As part of the 2021 Swedish government formation, the Speaker of the Riksdag held talks with all party leaders on 11 November and shortly after tasked Andersson with forming a government, giving her one week.",
+              "text": "As part of the 2021 Swedish government formation, the Speaker of the Riksdag held talks with all party leaders on 11 November 2021 and shortly after tasked Andersson with forming a government, giving her one week.",
               "links": [
                 {
                   "text": "2021 Swedish government formation",
@@ -957,6 +946,17 @@
           "first2": "Ebba",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Dutt",
+          "first": "Sujay",
+          "date": "4 November 2021",
+          "title": "Magdalena Andersson elected as new Social Democrat leader",
+          "newspaper": "Sveriges Radio",
+          "url": "https://sverigesradio.se/artikel/magdalena-andersson-elected-as-new-social-democrat-leader",
+          "access-date": "23 November 2021",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -974,16 +974,6 @@
             },
             {
               "text": "Although she did not receive a majority of \"yes\" votes, a majority did not vote against her due to abstentions, and this was sufficient to elect her as prime minister."
-            },
-            {
-              "text": "Andersson would have been Sweden's first female head of government since universal suffrage was introduced in 1921.",
-              "links": [
-                {
-                  "text": "universal suffrage",
-                  "type": "internal",
-                  "page": "universal suffrage"
-                }
-              ]
             }
           ]
         },
@@ -996,8 +986,13 @@
               "text": "The opposition budget passed instead."
             },
             {
-              "text": "Since the opposition budget was drafted with the support of the right-wing Sweden Democrats, the Green Party pulled out of the coalition rather than be bound to govern under it, leading Andersson to resign before taking office.",
+              "text": "Since the opposition budget was drafted with the support of the right-wing populist Sweden Democrats, the Green Party pulled out of the coalition rather than be bound to govern under it, leading Andersson to resign before taking office.",
               "links": [
+                {
+                  "text": "right-wing populist",
+                  "type": "internal",
+                  "page": "Right-wing populism"
+                },
                 {
                   "type": "internal",
                   "page": "Sweden Democrats"
@@ -1033,26 +1028,59 @@
         {
           "sentences": [
             {
-              "text": "She is expected to be reelected as prime minister, as all parties that supported her in the first vote (the Centre Party, the Green Party, and the Left Party), have indicated their willingness to support her when the Riksdag takes another vote on 29 November 2021."
+              "text": "On 29 November 2021, Andersson was reelected as prime minister."
+            },
+            {
+              "text": "She was expected to be reelected as prime minister, as all parties that supported her in the first vote (the Centre Party, the Green Party, and the Left Party), indicated their willingness to support her when the Riksdag took another vote."
+            },
+            {
+              "text": "When appointed as prime minister, Andersson will become the first elected female head of government of Sweden, and Sweden will become the last Nordic country to elect a female head of government.",
+              "links": [
+                {
+                  "text": "Nordic country",
+                  "type": "internal",
+                  "page": "Nordic countries"
+                }
+              ]
             }
           ]
         }
       ],
       "references": [
         {
-          "title": "Klart: Magdalena Andersson blir ny statsminister",
-          "url": "https://www.aftonbladet.se/nyheter/a/G350J9/klart-magdalena-andersson-blir-ny-statsminister",
-          "publisher": "Aftonbladet",
-          "date": "24 November 2021",
+          "date": "2021-11-24",
+          "title": "Sweden's Andersson elected as nation's first woman PM",
+          "url": "https://www.france24.com/en/live-news/20211124-sweden-s-andersson-elected-as-nation-s-first-woman-pm",
+          "access-date": "2021-11-29",
+          "website": "France 24",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-24",
+          "title": "Magdalena Andersson becomes Sweden’s first female prime minister",
+          "url": "https://www.thelocal.se/20211124/magdalena-andersson-prime-minister/",
+          "access-date": "2021-11-29",
+          "website": "The Local Sweden",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "11 November 2021",
+          "title": "Omröstning om ny statsminister",
+          "url": "https://www.svt.se/nyheter/inrikes/talmansrundor",
           "access-date": "24 November 2021",
+          "website": "SVT Nyheter",
           "language": "sv",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "https://www.theguardian.com/world/2021/nov/24/swedens-first-female-prime-minister-resigns-after-less-than-12-hours",
-          "title": "Sweden’s first female prime minister resigns after less than 12 hours",
-          "publisher": "The Guardian",
+          "title": "Sweden's first female prime minister resigns after less than 12 hours",
+          "work": "The Guardian",
           "date": "24 November 2021",
           "access-date": "25 November 2021",
           "template": "citation",
@@ -1082,6 +1110,37 @@
           "type": "web"
         },
         {
+          "date": "2021-11-29",
+          "title": "Magdalena Andersson chosen as Sweden’s first female PM... again",
+          "url": "https://www.euronews.com/2021/11/29/magdalena-andersson-set-to-be-chosen-as-sweden-s-first-female-pm-again",
+          "access-date": "2021-11-29",
+          "website": "euronews",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Magdalena Andersson Elected As Sweden's First Woman Prime Minister Again",
+          "url": "https://www.ndtv.com/world-news/magdalena-andersson-elected-as-first-woman-swedish-prime-minister-again-2629501",
+          "access-date": "2021-11-29",
+          "website": "NDTV.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Nyheter",
+          "first1": "S. V. T.",
+          "date": "25 November 2021",
+          "title": "Talmannen: Ny omröstning om Andersson (S) på måndag",
+          "language": "sv",
+          "website": "SVT Nyheter",
+          "publisher": "Sveriges Television",
+          "url": "https://www.svt.se/nyheter/inrikes/talmannen-ny-omrostning-om-andersson-s-pa-mandag",
+          "access-date": "25 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Talmannen: Ny omröstning om Andersson (S) på måndag",
           "website": "Sveriges Television",
           "url": "https://www.svt.se/nyheter/inrikes/talmannen-ny-omrostning-om-andersson-s-pa-mandag",
@@ -1091,6 +1150,24 @@
           "language": "sv",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "29 November 2021",
+          "title": "Magdalena Andersson: Sweden's first female PM returns after resignation",
+          "url": "https://www.bbc.com/news/world-europe-59459733",
+          "via": "BBC News",
+          "accessdate": "29 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "24 November 2021",
+          "title": "Sweden's first female PM resigns hours after appointment",
+          "url": "https://www.bbc.com/news/world-europe-59400539",
+          "access-date": "24 November 2021",
+          "publisher": "BBC News",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Tanaka",
@@ -1128,6 +1205,16 @@
           "language": "sv",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Associated Press",
+          "date": "4 November 2021",
+          "title": "Finance chief Andersson tapped to be Sweden's 1st female PM",
+          "url": "https://www.washingtonpost.com/politics/finance-chief-andersson-tapped-to-be-swedens-1st-female-pm/2021/11/04/926437ca-3d8b-11ec-bd6f-da376f47304e_story.html",
+          "access-date": "8 November 2021",
+          "website": "The Washington Post",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -1268,9 +1355,8 @@
               "text": "Since 1997, Andersson has been married to Richard Friberg, a professor in economics at the Stockholm School of Economics; they have two children.",
               "links": [
                 {
-                  "text": "professor",
                   "type": "internal",
-                  "page": "professor"
+                  "page": "Richard Friberg"
                 }
               ]
             },
@@ -1298,15 +1384,17 @@
                   "page": "mountaineering"
                 }
               ]
+            },
+            {
+              "text": "Andersson resides in Nacka.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nacka"
+                }
+              ]
             }
           ]
-        }
-      ],
-      "templates": [
-        {
-          "text": "Richard Friberg",
-          "lan1": "sv",
-          "template": "ill"
         }
       ],
       "references": [
@@ -1328,20 +1416,47 @@
           "access-date": "23 November 2021",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last": "Regeringskansliet",
+          "first": "Regeringen och",
+          "date": "2021-07-09",
+          "title": "CV Magdalena Andersson",
+          "url": "https://www.government.se/government-of-sweden/ministry-of-finance/magdalena-andersson/cv-magdalena-andersson/",
+          "access-date": "2021-11-29",
+          "website": "Regeringskansliet",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
     {
       "title": "References",
       "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
       "paragraphs": [
+        {
+          "sentences": []
+        },
         {
           "sentences": []
         }
       ],
       "templates": [
         {
-          "template": "reflist"
+          "template": "commons"
+        },
+        {
+          "template": "imdb name"
         },
         {
           "template": "s-start"

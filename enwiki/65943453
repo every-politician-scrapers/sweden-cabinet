@@ -251,16 +251,11 @@
             "text": "March 30, 1976"
           },
           "birth_place": {
-            "text": "Lund, Scania, Sweden",
+            "text": "Lund, Sweden",
             "links": [
               {
                 "type": "internal",
                 "page": "Lund"
-              },
-              {
-                "text": "Scania",
-                "type": "internal",
-                "page": "Scania County"
               },
               {
                 "type": "internal",
