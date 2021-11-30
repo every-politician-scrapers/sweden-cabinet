@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Kjell Stefan Löfven (officially Löfvén; born 21 July 1957) is a Swedish politician who is the current prime minister of Sweden since October 2014, and was leader of the Social Democratic Party from 2012 to 2021.",
+              "text": "Kjell Stefan Löfven (officially Löfvén; born 21 July 1957) is a Swedish politician who has been serving as the prime minister of Sweden since 2014, and was leader of the Social Democratic Party from 2012 to 2021.",
               "links": [
                 {
                   "text": "prime minister of Sweden",
@@ -322,7 +322,7 @@
             ]
           },
           "term_start": {
-            "text": "3 October 2014 (acting since 10 November 2021)"
+            "text": "3 October 2014"
           },
           "predecessor": {
             "text": "Fredrik Reinfeldt",
@@ -330,6 +330,15 @@
               {
                 "type": "internal",
                 "page": "Fredrik Reinfeldt"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Magdalena Andersson (designate)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },
@@ -703,7 +712,7 @@
         {
           "sentences": [
             {
-              "text": "His foster father Ture Melander (1927–2003) was a lumberjack and later a factory worker, while his foster mother, Iris Melander (née Söderlund, 1929–2020), worked as an in-home caregiver.",
+              "text": "His foster father Ture Melander (1926–2003) was a lumberjack and later a factory worker, while his foster mother, Iris Melander (née Söderlund, 1929–2020), worked as an in-home caregiver.",
               "links": [
                 {
                   "text": "in-home",
@@ -2942,7 +2951,7 @@
           "template": "s-ttl"
         },
         {
-          "after": "Incumbent",
+          "after": "Magdalena Andersson",
           "template": "s-aft"
         },
         {
