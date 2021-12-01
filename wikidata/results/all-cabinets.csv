@@ -15,8 +15,8 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q4907240,Carlsson III Cabinet,1994-10-07,11,,,1996-03-22,11,,,Q930729,Government of Sweden,,,Q4907653,Bildt Cabinet,Q4570330,Persson Cabinet,Q4907653,Bildt Cabinet,Q4570330,Persson Cabinet
 ,Q4570330,Persson Cabinet,1996-03-22,11,,,2006-10-06,11,,,Q930729,Government of Sweden,,,Q4907240,Carlsson III Cabinet,Q3046743,Reinfeldt Cabinet,Q4907240,Carlsson III Cabinet,Q3046743,Reinfeldt Cabinet
 ,Q3046743,Reinfeldt Cabinet,2006-10-06,11,,,2014-10-03,11,,,Q930729,Government of Sweden,,,Q4570330,Persson Cabinet,Q18176361,Löfven I Cabinet,Q4570330,Persson Cabinet,Q18176361,Löfven I Cabinet
-,Q18176361,Löfven I Cabinet,2014-10-03,11,,,,,,,Q930729,Government of Sweden,,,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II
+,Q18176361,Löfven I Cabinet,2014-10-03,11,,,2019-01-19,11,,,Q930729,Government of Sweden,,,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II
 ,Q60736270,Cabinet Löfven II,2019-01-21,11,,,2021-07-09,11,,,Q930729,Government of Sweden,,,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III
 ,Q60736270,Cabinet Löfven II,2019-01-21,11,,,2021-07-09,11,,,Q59281,provisional government,,,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III
 ,Q107443672,Cabinet Löfven III,2021-07-09,11,,,2021-11-30,11,,,Q930729,Government of Sweden,,,Q60736270,Cabinet Löfven II,Q109705067,Andersson Cabinet,Q60736270,Cabinet Löfven II,Q109705067,Andersson Cabinet
-,Q109705067,Andersson Cabinet,2021-11-30,11,,,,,,,Q930729,Government of Sweden,,,,,,,,,,
+,Q109705067,Andersson Cabinet,2021-11-30,11,,,,,,,Q930729,Government of Sweden,,,Q107443672,Cabinet Löfven III,,,Q107443672,Cabinet Löfven III,,
