@@ -33,7 +33,7 @@
               }
             },
             {
-              "text": "She has served as Minister for Financial Markets since February 2021 and previously served as Minister for Gender Equality from 2019 to 2021.",
+              "text": "She served as Minister for Financial Markets from February to November 2021 and previously served as Minister for Gender Equality from 2019 to 2021.",
               "links": [
                 {
                   "text": "Minister for Financial Markets",
@@ -129,12 +129,24 @@
           "term_start": {
             "text": "5 February 2021"
           },
+          "term_end": {
+            "text": "30 November 2021"
+          },
           "predecessor": {
             "text": "Per Bolund",
             "links": [
               {
                 "type": "internal",
                 "page": "Per Bolund"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Max Elger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Max Elger"
               }
             ]
           },

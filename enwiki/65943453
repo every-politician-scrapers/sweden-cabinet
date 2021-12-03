@@ -33,7 +33,7 @@
               }
             },
             {
-              "text": "She has served as Minister for Gender Equality and as Minister for Housing since February 2021, and as co-spokesperson for the Green Party since January 2021.",
+              "text": "She served as Minister for Gender Equality and as Minister for Housing from February to November 2021, and as co-spokesperson for the Green Party since January 2021.",
               "links": [
                 {
                   "text": "Minister for Gender Equality",
@@ -150,6 +150,9 @@
           "term_start": {
             "text": "5 February 2021"
           },
+          "term_end": {
+            "text": "30 November 2021"
+          },
           "predecessor": {
             "text": "Åsa Lindhagen",
             "links": [
@@ -157,6 +160,15 @@
                 "text": "Åsa Lindhagen",
                 "type": "internal",
                 "page": "Åsa Lindhagen"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Eva Nordmark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eva Nordmark"
               }
             ]
           },
@@ -182,12 +194,24 @@
           "term_start1": {
             "text": "5 February 2021"
           },
+          "term_end1": {
+            "text": "30 November 2021"
+          },
           "predecessor1": {
             "text": "Per Bolund",
             "links": [
               {
                 "type": "internal",
                 "page": "Per Bolund"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Johan Danielsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Johan Danielsson"
               }
             ]
           },

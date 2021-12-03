@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "He serves as Minister for International Development Cooperation since February 2021.",
+              "text": "He served as Minister for International Development Cooperation from February to November 2021.",
               "links": [
                 {
                   "text": "Minister for International Development Cooperation",
@@ -131,12 +131,24 @@
           "term_start": {
             "text": "5 February 2021"
           },
+          "term_end": {
+            "text": "30 November 2021"
+          },
           "predecessor": {
             "text": "Isabella Lövin (acting)",
             "links": [
               {
                 "type": "internal",
                 "page": "Isabella Lövin"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Matilda Ernkrans",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matilda Ernkrans"
               }
             ]
           },

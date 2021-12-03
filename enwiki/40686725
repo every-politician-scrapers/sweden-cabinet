@@ -37,7 +37,7 @@
               }
             },
             {
-              "text": "He has served as Deputy Prime Minister of Sweden (in a strictly ceremonial role) and as Minister for the Environment since February 2021, and has been co-spokesperson of the Green Party since May 2019.",
+              "text": "He served as Deputy Prime Minister of Sweden (in a strictly ceremonial role) and as Minister for the Environment from February to November 2021, and has been co-spokesperson of the Green Party since May 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -198,6 +198,9 @@
           "term_start": {
             "text": "5 February 2021"
           },
+          "term_end": {
+            "text": "30 November 2021"
+          },
           "primeminister": {
             "text": "Stefan Löfven",
             "links": [
@@ -247,6 +250,9 @@
           "term_start1": {
             "text": "5 February 2021"
           },
+          "term_end1": {
+            "text": "30 November 2021"
+          },
           "primeminister1": {
             "text": "Stefan Löfven",
             "links": [
@@ -271,6 +277,15 @@
               {
                 "type": "internal",
                 "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Annika Strandhäll",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Annika Strandhäll"
               }
             ]
           },
@@ -473,8 +488,12 @@
             "text": "July 3, 1971"
           },
           "birth_place": {
-            "text": "Stockholm, Sweden",
+            "text": "Hässelby-Vällingby, Stockholm, Sweden",
             "links": [
+              {
+                "type": "internal",
+                "page": "Hässelby-Vällingby"
+              },
               {
                 "type": "internal",
                 "page": "Stockholm"

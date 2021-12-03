@@ -64,18 +64,13 @@
               ]
             },
             {
-              "text": "He has been Member of the Riksdag since 1994.",
+              "text": "He has been Member of the Riksdag since 1994, representing Kronoberg County.",
               "links": [
                 {
                   "text": "Member of the Riksdag",
                   "type": "internal",
                   "page": "Riksdag"
-                }
-              ]
-            },
-            {
-              "text": "representing Kronoberg County.",
-              "links": [
+                },
                 {
                   "text": "Kronoberg County",
                   "type": "internal",
@@ -125,6 +120,10 @@
           "template": "short description"
         },
         {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1966",
           "month": "12",
           "day": "4",
@@ -154,11 +153,15 @@
             ]
           },
           "primeminister": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },

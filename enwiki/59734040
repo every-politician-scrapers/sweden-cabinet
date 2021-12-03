@@ -31,7 +31,7 @@
               }
             },
             {
-              "text": "He has served as Minister for European Union Affairs in the second Löfven cabinet since 21 January 2019.",
+              "text": "He has served as Minister for European Union Affairs since January 2019 under Prime Minister Stefan Löfven ; he retained the position in the Andersson Cabinet.",
               "links": [
                 {
                   "text": "Minister for European Union Affairs",
@@ -39,9 +39,12 @@
                   "page": "Minister for EU Affairs (Sweden)"
                 },
                 {
-                  "text": "second Löfven cabinet",
                   "type": "internal",
-                  "page": "Löfven II Cabinet"
+                  "page": "Stefan Löfven"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andersson Cabinet"
                 }
               ]
             }
@@ -84,11 +87,15 @@
             ]
           },
           "primeminister": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },
@@ -154,6 +161,15 @@
           "language": "sv",
           "publisher": "Government of Sweden",
           "date": "2019-01-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thelocal.se/20211130/key-points-everything-you-need-to-know-about-swedens-new-government/",
+          "title": "KEY POINTS: Everything you need to know about Sweden’s new government",
+          "date": "30 November 2021",
+          "accessdate": "30 November 2021",
+          "agency": "The Local",
           "template": "citation",
           "type": "web"
         }
