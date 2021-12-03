@@ -63,6 +63,10 @@
           "template": "short description"
         },
         {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1958",
           "month": "12",
           "day": "31",
@@ -95,11 +99,15 @@
             "text": "3 October 2014"
           },
           "primeminister": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },

@@ -43,7 +43,7 @@
               }
             },
             {
-              "text": "She has served the Löfven cabinet as Minister of Public Administration since 2019.",
+              "text": "She served the Löfven cabinet as Minister of Public Administration from 2019 to 2021.",
               "links": [
                 {
                   "text": "Löfven cabinet",
@@ -168,8 +168,20 @@
               }
             ]
           },
+          "successor": {
+            "text": "Ida Karkiainen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ida Karkiainen"
+              }
+            ]
+          },
           "termstart": {
             "text": "1 October 2019"
+          },
+          "termend": {
+            "text": "30 November 2021"
           },
           "office1": {
             "text": "Chairman of the Swedish Association of Local Authorities and Regions",

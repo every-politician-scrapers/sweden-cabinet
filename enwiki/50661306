@@ -95,6 +95,10 @@
           "template": "distinguish"
         },
         {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1961",
           "month": "12",
           "day": "4",
@@ -127,11 +131,15 @@
             "text": "10 September 2019"
           },
           "primeminister": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },

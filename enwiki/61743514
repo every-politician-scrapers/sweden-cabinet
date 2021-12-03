@@ -134,11 +134,15 @@
             ]
           },
           "primeminister": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },
@@ -151,7 +155,47 @@
               }
             ]
           },
-          "office1": {
+          "office2": {
+            "text": "Minister for Gender Equality",
+            "links": [
+              {
+                "text": "Minister for Gender Equality",
+                "type": "internal",
+                "page": "Minister for Gender Equality (Sweden)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "30 November 2021"
+          },
+          "monarch2": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Märta Stenevi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Märta Stenevi"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of the Riksdag",
             "links": [
               {
@@ -160,13 +204,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start3": {
             "text": "10 January 1995"
           },
-          "term_end1": {
+          "term_end3": {
             "text": "5 October 1998"
           },
-          "constituency1": {
+          "constituency3": {
             "text": "Norrbotten County",
             "links": [
               {

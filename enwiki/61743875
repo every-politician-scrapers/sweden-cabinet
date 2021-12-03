@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "Since September 2019, she is the Minister for Foreign Trade and Minister for Nordic Cooperation in the Löfven II Cabinet run by Stefan Löfven.",
+              "text": "Since September 2019, she is the Minister for Foreign Trade and Minister for Nordic Cooperation.",
               "links": [
                 {
                   "text": "Minister for Foreign Trade",
@@ -45,14 +45,6 @@
                   "text": "Minister for Nordic Cooperation",
                   "type": "internal",
                   "page": "Minister for Nordic Cooperation (Sweden)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Löfven II Cabinet"
-                },
-                {
-                  "type": "internal",
-                  "page": "Stefan Löfven"
                 }
               ]
             }
@@ -90,6 +82,10 @@
           "template": "short description"
         },
         {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1963",
           "month": "11",
           "day": "19",
@@ -122,11 +118,15 @@
             "text": "10 September 2019"
           },
           "primeminister": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },
@@ -159,11 +159,15 @@
             ]
           },
           "primeminister1": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },

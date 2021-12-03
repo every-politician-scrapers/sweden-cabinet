@@ -19,14 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Ardalan Shekarabi (born 28 November 1978) is an Iranian-Swedish politician and former chairman.",
-              "links": [
-                {
-                  "text": "Iranian-Swedish",
-                  "type": "internal",
-                  "page": "Swedish Iranians"
-                }
-              ],
+              "text": "Ardalan Shekarabi (born 28 November 1978) is a Swedish politician and former chairman.",
               "formatting": {
                 "bold": [
                   "Ardalan Shekarabi"
@@ -121,6 +114,19 @@
               {
                 "type": "internal",
                 "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Stefan Löfven Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },

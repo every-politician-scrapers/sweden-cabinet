@@ -22,10 +22,10 @@
         {
           "sentences": [
             {
-              "text": "Lars Mikael Damberg (born 13 October 1971) is a Swedish politician of the Social Democrats.",
+              "text": "Lars Mikael Damberg (born 13 October 1971) is a Swedish politician of the Social Democratic Party.",
               "links": [
                 {
-                  "text": "Social Democrats",
+                  "text": "Social Democratic Party",
                   "type": "internal",
                   "page": "Swedish Social Democratic Party"
                 }
@@ -37,15 +37,34 @@
               }
             },
             {
-              "text": "He has been Minister of the Interior since 2019.",
+              "text": "He has served as Minister for Finance since November 2021.",
               "links": [
+                {
+                  "text": "Minister for Finance",
+                  "type": "internal",
+                  "page": "Minister for Finance (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Minister for Enterprise from October 2014 to January 2019 and as Minister of the Interior from January 2019 to November 2021.",
+              "links": [
+                {
+                  "text": "Minister for Enterprise",
+                  "type": "internal",
+                  "page": "Ministry of Enterprise, Energy and Communications (Sweden)"
+                },
                 {
                   "text": "Minister of the Interior",
                   "type": "internal",
                   "page": "Minister of the Interior (Sweden)"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He has been Member of the Riksdag since 2002, representing Stockholm County, and was leader of the Social Democrats in the Riksdag from 2012 to 2014.",
               "links": [
@@ -83,6 +102,9 @@
           "day": "13",
           "df": "yes",
           "template": "birth date and age"
+        },
+        {
+          "template": "pronunciation needed"
         }
       ],
       "infoboxes": [
@@ -91,36 +113,15 @@
             "text": "Mikael Damberg"
           },
           "image": {
-            "text": "Socialdemokrat.Mikael Damberg 1c301 5892.jpg"
+            "text": "Mikael damberg.riksmotet2016.16d759.1340379.jpg"
           },
           "office": {
-            "text": "Minister for the Interior",
+            "text": "Minister for Finance",
             "links": [
               {
-                "text": "Minister for the Interior",
+                "text": "Minister for Finance",
                 "type": "internal",
-                "page": "Minister of the Interior (Sweden)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "21 January 2019"
-          },
-          "predecessor": {
-            "text": "Morgan Johansson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Morgan Johansson"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Stefan Löfven",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Löfven"
+                "page": "Minister for Finance (Sweden)"
               }
             ]
           },
@@ -133,7 +134,68 @@
               }
             ]
           },
-          "office1": {
+          "term_start": {
+            "text": "30 November 2021"
+          },
+          "primeminister": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Magdalena Andersson"
+          },
+          "office2": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Minister of the Interior (Sweden)"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "21 January 2019"
+          },
+          "term_end2": {
+            "text": "30 November 2021"
+          },
+          "predecessor2": {
+            "text": "Morgan Johansson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morgan Johansson"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Morgan Johansson"
+          },
+          "primeminister2": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "office3": {
             "text": "Minister for Enterprise",
             "links": [
               {
@@ -143,40 +205,7 @@
               }
             ]
           },
-          "term_start1": {
-            "text": "3 October 2014"
-          },
-          "term_end1": {
-            "text": "21 January 2019"
-          },
-          "predecessor1": {
-            "text": "Annie Lööf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Annie Lööf"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Ibrahim Baylan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ibrahim Baylan"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Stefan Löfven",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Löfven"
-              }
-            ]
-          },
-          "monarch1": {
+          "monarch3": {
             "text": "Carl XVI Gustaf",
             "links": [
               {
@@ -185,7 +214,40 @@
               }
             ]
           },
-          "office2": {
+          "term_start3": {
+            "text": "3 October 2014"
+          },
+          "term_end3": {
+            "text": "21 January 2019"
+          },
+          "predecessor3": {
+            "text": "Annie Lööf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Annie Lööf"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Ibrahim Baylan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Baylan"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "office4": {
             "text": "Leader of the Social Democrats in the Swedish Riksdag",
             "links": [
               {
@@ -199,13 +261,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start4": {
             "text": "23 February 2012"
           },
-          "term_end2": {
+          "term_end4": {
             "text": "3 October 2014"
           },
-          "predecessor2": {
+          "predecessor4": {
             "text": "Carina Moberg",
             "links": [
               {
@@ -214,7 +276,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor4": {
             "text": "Tomas Eneroth",
             "links": [
               {
@@ -223,7 +285,7 @@
               }
             ]
           },
-          "office3": {
+          "office5": {
             "text": "Member of the Riksdag",
             "links": [
               {
@@ -232,13 +294,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start5": {
             "text": "30 September 2002"
           },
-          "term_end3": {
+          "term_end5": {
             "text": "3 October 2014"
           },
-          "constituency3": {
+          "constituency5": {
             "text": "Stockholm County",
             "links": [
               {
@@ -266,10 +328,10 @@
             ]
           },
           "party": {
-            "text": "Social Democrats",
+            "text": "Social Democratic Party",
             "links": [
               {
-                "text": "Social Democrats",
+                "text": "Social Democratic Party",
                 "type": "internal",
                 "page": "Swedish Social Democratic Party"
               }

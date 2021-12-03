@@ -44,22 +44,22 @@
               }
             },
             {
-              "text": "He has served as Minister of the Interior since 2017 and as Minister for Justice since 2014.",
+              "text": "He has served as Minister for Justice since 2014 and as Minister of the Interior since 2021, having previously served in that position from 2017 to 2019.",
               "links": [
-                {
-                  "text": "Minister of the Interior",
-                  "type": "internal",
-                  "page": "Minister of the Interior (Sweden)"
-                },
                 {
                   "text": "Minister for Justice",
                   "type": "internal",
                   "page": "Minister for Justice (Sweden)"
+                },
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Minister of the Interior (Sweden)"
                 }
               ]
             },
             {
-              "text": "He served as Minister for Migration and Asylum Policy from 2014 to 2017.",
+              "text": "He served as Minister for Migration and Asylum Policy from 2014 to 2017 and again from 2019 to 2021.",
               "links": [
                 {
                   "text": "Minister for Migration and Asylum Policy",
@@ -101,160 +101,16 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Johansson worked as a journalist and editorial writer for the social democratic daily newspaper Arbetet Nyheterna 1994-1997 and as a political expert in the Prime Minister's Office from 1997 to 1998.",
-              "formatting": {
-                "italic": [
-                  "Arbetet Nyheterna"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2010 author Christer Isaksson described Johansson as a member of the left-leaning faction of the Social Democratic Party."
-            },
-            {
-              "text": "He is also a member of the Swedish Humanist Association and has previously served on the association board.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Swedish Humanist Association"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 23 March 2015 Johansson was attacked at the Broby hospital asylum center in Broby, Östra Göinge Municipality, Skåne.",
-              "links": [
-                {
-                  "text": "Broby",
-                  "type": "internal",
-                  "page": "Broby, Sweden"
-                },
-                {
-                  "text": "Östra Göinge Municipality",
-                  "type": "internal",
-                  "page": "Östra Göinge Municipality"
-                }
-              ]
-            },
-            {
-              "text": "A 25-year-old man charged at Johansson and sprayed him with a fire extinguisher."
-            },
-            {
-              "text": "The attacker was quickly apprehended and Johansson was not injured in what was referred to as a premeditated assault."
-            }
-          ]
-        },
-        {
-          "sentences": []
-        },
-        {
-          "sentences": [
-            {
-              "text": "In November 2019, the Sweden Democrats issued a vote of no confidence at Johansson due to the escalating gang crime and the ongoing bombing campaign.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sweden Democrats"
-                },
-                {
-                  "text": "gang crime",
-                  "type": "internal",
-                  "page": "Crime in Sweden",
-                  "anchor": "Gun violence"
-                },
-                {
-                  "text": "the ongoing bombing campaign",
-                  "type": "internal",
-                  "page": "Bombings in Sweden"
-                }
-              ]
-            },
-            {
-              "text": "The no confidence vote was supported by Moderate Party and the Christian Democrats but at 151 votes against the needed 175, did not have enough votes in the Riksdag to carry.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Moderate Party"
-                },
-                {
-                  "text": "Christian Democrats",
-                  "type": "internal",
-                  "page": "Christian Democrats (Sweden)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Riksdag"
-                }
-              ]
-            },
-            {
-              "text": "The no confidence vote was interpreted as a signal from those three opposition parties that the government was losing control of the situation."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On the 26 December 2020, during the COVID-19 pandemic, Johansson was seen shopping at Nova Lund, a small shopping mall in Lund.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "COVID-19 pandemic"
-                },
-                {
-                  "type": "internal",
-                  "page": "Lund"
-                }
-              ]
-            },
-            {
-              "text": "He was accompanied with several bodyguards."
-            },
-            {
-              "text": "This was criticised, because he violated the recommendations from the Public Health Agency of Sweden.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Public Health Agency of Sweden"
-                }
-              ]
-            },
-            {
-              "text": "The Prime Minister, Stefan Löfven, condemned the act, saying it was “careless”.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Stefan Löfven"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:The Minister for Justice & Migration of Sweden, Mr. Morgan Johansson meeting the Minister of State for Home Affairs, Shri Kiren Rijiju, in New Delhi on May 12, 2016.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Minister_for_Justice_%26_Migration_of_Sweden%2C_Mr._Morgan_Johansson_meeting_the_Minister_of_State_for_Home_Affairs%2C_Shri_Kiren_Rijiju%2C_in_New_Delhi_on_May_12%2C_2016.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Minister_for_Justice_%26_Migration_of_Sweden%2C_Mr._Morgan_Johansson_meeting_the_Minister_of_State_for_Home_Affairs%2C_Shri_Kiren_Rijiju%2C_in_New_Delhi_on_May_12%2C_2016.jpg",
-          "caption": "The Minister for Justice & Migration of Sweden, Mr. Morgan Johansson meeting the Minister of State for Home Affairs in India, Shri Kiren Rijiju, in New Delhi on May 12, 2016.",
-          "links": []
         }
       ],
       "templates": [
         {
           "description": "Swedish politician",
           "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
         },
         {
           "year": "1970",
@@ -276,7 +132,7 @@
             "text": "Johansson in 2017"
           },
           "office": {
-            "text": "Acting Deputy Prime Minister of Sweden",
+            "text": "Deputy Prime Minister of Sweden",
             "links": [
               {
                 "type": "internal",
@@ -297,16 +153,20 @@
             ]
           },
           "primeminister": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },
           "alongside": {
-            "text": "Isabella Lövin (2019–2020)\nPer Bolund (2021)",
+            "text": "Isabella Lövin (2019–2021)\nPer Bolund (2021)",
             "links": [
               {
                 "type": "internal",
@@ -350,11 +210,15 @@
             ]
           },
           "primeminister1": {
-            "text": "Stefan Löfven",
+            "text": "Stefan Löfven Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
                 "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
               }
             ]
           },
@@ -367,7 +231,7 @@
               }
             ]
           },
-          "office2": {
+          "office4": {
             "text": "Minister for Migration and Asylum Policy",
             "links": [
               {
@@ -377,93 +241,11 @@
               }
             ]
           },
-          "term_start2": {
-            "text": "21 January 2019"
-          },
-          "monarch2": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Stefan Löfven",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Löfven"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Heléne Fritzon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heléne Fritzon"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "3 October 2014"
-          },
-          "term_end3": {
-            "text": "27 July 2017"
-          },
-          "monarch3": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Stefan Löfven",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Löfven"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Tobias Billström",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tobias Billström"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Heléne Fritzon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heléne Fritzon"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of the Interior",
-            "links": [
-              {
-                "text": "Minister of the Interior",
-                "type": "internal",
-                "page": "Minister of the Interior (Sweden)"
-              }
-            ]
-          },
           "term_start4": {
-            "text": "27 July 2017"
+            "text": "21 January 2019"
           },
           "term_end4": {
-            "text": "21 January 2019"
+            "text": "30 November 2021"
           },
           "monarch4": {
             "text": "Carl XVI Gustaf",
@@ -484,6 +266,15 @@
             ]
           },
           "predecessor4": {
+            "text": "Heléne Fritzon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heléne Fritzon"
+              }
+            ]
+          },
+          "successor4": {
             "text": "Anders Ygeman",
             "links": [
               {
@@ -492,7 +283,122 @@
               }
             ]
           },
-          "successor4": {
+          "term_start5": {
+            "text": "3 October 2014"
+          },
+          "term_end5": {
+            "text": "27 July 2017"
+          },
+          "monarch5": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Tobias Billström",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tobias Billström"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Heléne Fritzon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heléne Fritzon"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Minister of the Interior (Sweden)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "30 November 2021"
+          },
+          "primeminister2": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Mikael Damberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mikael Damberg"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "27 July 2017"
+          },
+          "term_end3": {
+            "text": "21 January 2019"
+          },
+          "monarch3": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Anders Ygeman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anders Ygeman"
+              }
+            ]
+          },
+          "successor3": {
             "text": "Mikael Damberg",
             "links": [
               {
@@ -540,42 +446,6 @@
           "accessdate": "4 October 2014",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://sverigesradio.se/sida/artikel.aspx?programid=101&artikel=6123944",
-          "title": "Minister attackerad på asylboende - P4 Kristianstad",
-          "first": "Sveriges",
-          "last": "Radio",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.svt.se/nyheter/inrikes/misstroendeomrostning-i-riksdagen-mot-justitieminister-morgan-johansson-s",
-          "title": "Misstroendeomröstning i riksdagen mot justitieminister Morgan Johansson (S)",
-          "last": "Hamidi-Nia",
-          "first": "Gilda",
-          "date": "2019-11-15",
-          "access-date": "2019-11-17",
-          "language": "sv",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.svt.se/nyheter/lokalt/skane/minister-shoppade-julklapp-pa-mellandagsrean",
-          "title": "Morgan Johansson (S) gick på mellandagsrean – trots Löfvens skarpa uppmaning",
-          "last": "Hangasmaa",
-          "first": "Karin Selåker",
-          "date": "2020-12-27",
-          "access-date": "2020-12-28",
-          "language": "sv",
-          "template": "citation",
-          "type": "news"
         }
       ]
     }

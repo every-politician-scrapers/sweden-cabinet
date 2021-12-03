@@ -6,17 +6,18 @@
     "1967 births",
     "Living people",
     "People from Uppsala",
+    "Prime Ministers of Sweden",
     "Swedish Social Democratic Party politicians",
     "Swedish Ministers for Finance",
     "Swedish economists",
     "Swedish women economists",
     "Stockholm School of Economics alumni",
-    "Harvard College alumni",
     "Women government ministers of Sweden",
     "Women prime ministers",
     "Female finance ministers",
     "21st-century Swedish women politicians",
-    "21st-century Swedish economists"
+    "21st-century Swedish economists",
+    "Female heads of government"
   ],
   "sections": [
     {
@@ -26,10 +27,14 @@
         {
           "sentences": [
             {
-              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish politician and economist serving as the leader of the Social Democratic Party since 4 November 2021.",
+              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish politician and economist serving as prime minister of Sweden since 30 November 2021, and as leader of the Swedish Social Democratic Party since 4 November 2021.",
               "links": [
                 {
-                  "text": "Social Democratic Party",
+                  "text": "prime minister of Sweden",
+                  "type": "internal",
+                  "page": "Prime Minister of Sweden"
+                },
+                {
                   "type": "internal",
                   "page": "Swedish Social Democratic Party"
                 }
@@ -45,20 +50,21 @@
         {
           "sentences": [
             {
-              "text": "Andersson joined the Social Democratic Youth League in 1983, and in 1992 she graduated with a degree in economics.",
+              "text": "Andersson joined the Swedish Social Democratic Youth League in 1983.",
               "links": [
                 {
-                  "text": "Social Democratic Youth League",
                   "type": "internal",
                   "page": "Swedish Social Democratic Youth League"
                 }
               ]
             },
             {
-              "text": "She served as an adviser and director of planning in Göran Persson's government and as an adviser to Mona Sahlin.",
+              "text": "In 1992 she earned a degree in economics from the."
+            },
+            {
+              "text": "She served as an adviser and director of planning in Göran Persson's administration and as an adviser to Mona Sahlin.",
               "links": [
                 {
-                  "text": "Göran Persson's",
                   "type": "internal",
                   "page": "Göran Persson"
                 },
@@ -69,7 +75,7 @@
               ]
             },
             {
-              "text": "After the 2014 election, Andersson was elected into the Riksdag and became the finance minister in Stefan Löfven's government.",
+              "text": "After the 2014 election, Andersson was elected to the Riksdag and became finance minister in Stefan Löfven's administration.",
               "links": [
                 {
                   "text": "2014 election",
@@ -92,49 +98,46 @@
               ]
             },
             {
-              "text": "After Löfven announced his plans to step down in August 2021, she was regarded by most as the candidate to succeed him."
+              "text": "When Löfven announced his plans to step down in August 2021, she was regarded as the main candidate to succeed him."
             },
             {
-              "text": "Soon after, Andersson was elected as the leader of the Social Democratic Party on 4 November 2021."
+              "text": "Soon after that, she was elected leader of the Social Democratic Party."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Andersson was elected by the Riksdag as the prime minister of Sweden on 29 November 2021.",
+              "text": "Andersson was elected prime minister of Sweden by the Riksdag on 29 November 2021."
+            },
+            {
+              "text": "Previously, on 24 November, Andersson had been elected to that position but resigned after an announcement by her coalition partner, the Green Party, that they were leaving the government in response to losing the annual budget vote in the Riksdag to the conservative opposition.",
               "links": [
                 {
+                  "text": "Green Party",
                   "type": "internal",
-                  "page": "Riksdag"
-                },
-                {
-                  "text": "prime minister of Sweden",
-                  "type": "internal",
-                  "page": "Prime Minister of Sweden"
+                  "page": "Green Party (Sweden)"
                 }
               ]
             },
             {
-              "text": "This followed a previous vote on 24 November, where Andersson was elected, but chose to resign after her coalition's own budget was not supported by the Riksdag."
-            },
-            {
-              "text": "She is set to assume the office on 30 November, when she will become Sweden's first elected female head of government."
+              "text": "Andersson assumed the office of Prime Minister on 30 November and was then confirmed as Sweden's first elected female head of government."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Swedish Social Democratic politician (born 1967)",
+          "description": "Prime Minister of Sweden",
           "template": "short description"
         },
         {
           "list": [
+            "the prime minister",
             "the Moderate Party politician",
             "Magdalena Andersson (Moderate)"
           ],
-          "template": "for"
+          "template": "about"
         },
         {
           "date": "November 2021",
@@ -155,13 +158,6 @@
           "spouse": "Richard Friberg",
           "from": "1997",
           "template": "marriage"
-        },
-        {
-          "list": [
-            "Stockholm School of Economics",
-            "Harvard University"
-          ],
-          "template": "ubl"
         }
       ],
       "infoboxes": [
@@ -170,16 +166,15 @@
             "text": "Magdalena Andersson"
           },
           "image": {
-            "text": "Budgetpropositionen för 2022 (1 av 8) (cropped) (1).jpg"
+            "text": "Magdalena Andersson - 2021Nov29 (Sq.Cropped).jpg"
           },
           "caption": {
             "text": "Andersson in 2021"
           },
           "office": {
-            "text": "Prime Minister-elect of Sweden",
+            "text": "Prime Minister of Sweden",
             "links": [
               {
-                "text": "Prime Minister-elect of Sweden",
                 "type": "internal",
                 "page": "Prime Minister of Sweden"
               }
@@ -194,10 +189,19 @@
               }
             ]
           },
+          "deputy": {
+            "text": "Morgan Johansson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morgan Johansson"
+              }
+            ]
+          },
           "term_start": {
             "text": "30 November 2021"
           },
-          "succeeding": {
+          "predecessor": {
             "text": "Stefan Löfven",
             "links": [
               {
@@ -262,12 +266,24 @@
           "term_start2": {
             "text": "3 October 2014"
           },
+          "term_end2": {
+            "text": "30 November 2021"
+          },
           "predecessor2": {
             "text": "Anders Borg",
             "links": [
               {
                 "type": "internal",
                 "page": "Anders Borg"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mikael Damberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mikael Damberg"
               }
             ]
           },
@@ -325,8 +341,32 @@
             "number": 2
           },
           "education": {
-            "text": "Stockholm School of Economics\n\nHarvard University"
+            "text": "Stockholm School of Economics",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stockholm School of Economics"
+              }
+            ]
           }
+        }
+      ],
+      "references": [
+        {
+          "title": "Sweden's lawmakers elect the country's first female prime minister—again",
+          "url": "https://www.cnn.com/2021/11/29/europe/sweden-magdalena-andersson-prime-minister-vote-intl/index.html",
+          "website": "CNN",
+          "access-date": "1 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sweden elects Andersson as first female PM for second time in a week",
+          "url": "https://www.france24.com/en/europe/20211129-sweden-elects-andersson-as-first-female-pm-for-second-time-in-a-week",
+          "website": "France 24",
+          "access-date": "1 December 2021",
+          "template": "citation",
+          "type": "web"
         }
       ]
     }

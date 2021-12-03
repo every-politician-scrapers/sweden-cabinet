@@ -12,7 +12,8 @@
     "Swedish trade unionists",
     "Umeå University alumni",
     "Welders",
-    "21st-century Swedish politicians"
+    "21st-century Swedish politicians",
+    "Swedish Air Force personnel"
   ],
   "sections": [
     {
@@ -22,15 +23,14 @@
         {
           "sentences": [
             {
-              "text": "Kjell Stefan Löfven (officially Löfvén; born 21 July 1957) is a Swedish politician who has been serving as the prime minister of Sweden since 2014, and was leader of the Social Democratic Party from 2012 to 2021.",
+              "text": "Kjell Stefan Löfven (officially Löfvén; born 21 July 1957) is a Swedish politician who served as the Prime Minister of Sweden from October 2014 to November 2021 and Leader of the Social Democratic Party from 2012 to 2021.",
               "links": [
                 {
-                  "text": "prime minister of Sweden",
                   "type": "internal",
-                  "page": "prime minister of Sweden"
+                  "page": "Prime Minister of Sweden"
                 },
                 {
-                  "text": "leader of the Social Democratic Party",
+                  "text": "Leader of the Social Democratic Party",
                   "type": "internal",
                   "page": "Swedish Social Democratic Party",
                   "anchor": "Party leaders"
@@ -217,7 +217,7 @@
               "text": "Andersson was elected party leader on 4 November."
             },
             {
-              "text": "Löfven officially resigned as prime minister on 10 November 2021, though he continued to lead a caretaker government.",
+              "text": "Löfven officially resigned as prime minister on 10 November 2021, though he continued to lead a caretaker government until his successor took office on 30 November 2021.",
               "links": [
                 {
                   "text": "caretaker government",
@@ -231,7 +231,7 @@
       ],
       "templates": [
         {
-          "description": "33rd Prime Minister of Sweden",
+          "description": "former Prime Minister of Sweden",
           "template": "short description"
         },
         {
@@ -324,6 +324,9 @@
           "term_start": {
             "text": "3 October 2014"
           },
+          "term_end": {
+            "text": "30 November 2021"
+          },
           "predecessor": {
             "text": "Fredrik Reinfeldt",
             "links": [
@@ -334,7 +337,7 @@
             ]
           },
           "successor": {
-            "text": "Magdalena Andersson (designate)",
+            "text": "Magdalena Andersson",
             "links": [
               {
                 "type": "internal",
@@ -488,13 +491,7 @@
             ]
           },
           "successor3": {
-            "text": "Anna-Belle Strömberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anna-Belle Strömberg"
-              }
-            ]
+            "text": "Anna-Belle Strömberg"
           },
           "birth_name": {
             "text": "Kjell Stefan Löfvén"

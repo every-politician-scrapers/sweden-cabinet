@@ -38,7 +38,7 @@
               }
             },
             {
-              "text": "Since 2019, she has been the Minister for Culture and Democracy, with responsibility for sport and national minorities in the cabinet of Prime Minister Stefan Löfven.",
+              "text": "From 2019 to 2021, she was the Minister for Culture and Democracy, with responsibility for sport and national minorities in the cabinet of Prime Minister Stefan Löfven.",
               "links": [
                 {
                   "text": "Minister for Culture and Democracy, with responsibility for sport and national minorities",
@@ -97,6 +97,9 @@
           "term_start": {
             "text": "21 January 2019"
           },
+          "term_end": {
+            "text": "30 November 2021"
+          },
           "monarch": {
             "text": "Carl XVI Gustaf",
             "links": [
@@ -124,6 +127,15 @@
               }
             ]
           },
+          "successor": {
+            "text": "Jeanette Gustafsdotter",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeanette Gustafsdotter"
+              }
+            ]
+          },
           "office1": {
             "text": "Minister for Democracy",
             "links": [
@@ -136,6 +148,9 @@
           },
           "term_start1": {
             "text": "21 January 2019"
+          },
+          "term_end1": {
+            "text": "30 November 2021"
           },
           "monarch1": {
             "text": "Carl XVI Gustaf",
@@ -162,6 +177,15 @@
               {
                 "type": "internal",
                 "page": "Alice Bah Kuhnke"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Jeanette Gustafsdotter",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeanette Gustafsdotter"
               }
             ]
           },

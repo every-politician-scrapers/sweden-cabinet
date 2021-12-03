@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Ibrahim Baylan (born 15 March 1972) is a Swedish politician who has been Minister for Enterprise since 2019.",
+              "text": "Ibrahim Baylan (born 15 March 1972) is a Swedish politician who served as Minister for Schools from 2004 to 2006, as Minister for Energy from 2014 to 2019, Minister for Policy Coordination from 2016 to 2019 and as Minister for Business, Industry and Innovation from 2019 to 2021.",
               "links": [
                 {
                   "text": "Swedish",
@@ -33,20 +33,10 @@
                   "page": "politician"
                 },
                 {
-                  "text": "Minister for Enterprise",
+                  "text": "Minister for Schools",
                   "type": "internal",
-                  "page": "Minister for Enterprise (Sweden)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ibrahim Baylan"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Minister for Energy and Minister for Policy Coordination in the Swedish Government.",
-              "links": [
+                  "page": "Ministry of Education (Sweden)"
+                },
                 {
                   "text": "Minister for Energy",
                   "type": "internal",
@@ -58,10 +48,16 @@
                   "page": "Rosenbad"
                 },
                 {
+                  "text": "Minister for Business, Industry and Innovation",
                   "type": "internal",
-                  "page": "Swedish Government"
+                  "page": "Minister for Enterprise (Sweden)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Ibrahim Baylan"
+                ]
+              }
             }
           ]
         },
@@ -93,16 +89,6 @@
                 {
                   "type": "internal",
                   "page": "Swedish Social Democratic Party"
-                }
-              ]
-            },
-            {
-              "text": "From 2004–2006 he served as Minister for Schools.",
-              "links": [
-                {
-                  "text": "Minister for Schools",
-                  "type": "internal",
-                  "page": "Ministry of Education (Sweden)"
                 }
               ]
             }
@@ -138,10 +124,10 @@
             "text": "Ibrahim Baylan in October 2012"
           },
           "office": {
-            "text": "Minister for Enterprise",
+            "text": "Minister for Business, Industry and Innovation",
             "links": [
               {
-                "text": "Minister for Enterprise",
+                "text": "Minister for Business, Industry and Innovation",
                 "type": "internal",
                 "page": "Minister for Enterprise (Sweden)"
               }
@@ -149,6 +135,9 @@
           },
           "term_start": {
             "text": "21 January 2019"
+          },
+          "term_end": {
+            "text": "30 November 2021"
           },
           "monarch": {
             "text": "Carl XVI Gustaf",
@@ -174,6 +163,15 @@
               {
                 "type": "internal",
                 "page": "Mikael Damberg"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Karl-Petter Thorwaldsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karl-Petter Thorwaldsson"
               }
             ]
           },
@@ -377,10 +375,10 @@
             ]
           },
           "party": {
-            "text": "Social Democrats",
+            "text": "Social Democratic Party",
             "links": [
               {
-                "text": "Social Democrats",
+                "text": "Social Democratic Party",
                 "type": "internal",
                 "page": "Social Democrats (Sweden)"
               }

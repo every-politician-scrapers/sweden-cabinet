@@ -44,7 +44,27 @@
               }
             },
             {
-              "text": "Since 2019 serving in the Swedish Government as Minister for Energy and Minister for Digital Development.",
+              "text": "He has served as Minister for Migration and Asylum Policy, Minister for Integration and Minister for Sports since November 2021.",
+              "links": [
+                {
+                  "text": "Minister for Migration and Asylum Policy",
+                  "type": "internal",
+                  "page": "Minister for Migration (Sweden)"
+                },
+                {
+                  "text": "Minister for Integration",
+                  "type": "internal",
+                  "page": "Minister for Integration (Sweden)"
+                },
+                {
+                  "text": "Minister for Sports",
+                  "type": "internal",
+                  "page": "Minister for Sports (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "He previously served in the Swedish Government as Minister for Energy and Minister for Digital Development from 2019 to 2021 and as Minister of the Interior from 2014 to 2017.",
               "links": [
                 {
                   "type": "internal",
@@ -59,20 +79,11 @@
                   "text": "Minister for Digital Development",
                   "type": "internal",
                   "page": "Minister for Digital Development (Sweden)"
-                }
-              ]
-            },
-            {
-              "text": "He served as Minister of the Interior in the Swedish Government from 2014 to 2017.",
-              "links": [
+                },
                 {
                   "text": "Minister of the Interior",
                   "type": "internal",
                   "page": "Minister of the Interior (Sweden)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Swedish Government"
                 }
               ]
             },
@@ -126,7 +137,127 @@
           "caption": {
             "text": "Ygeman during the Almedalen week in 2016."
           },
-          "office": {
+          "office2": {
+            "text": "Minister for Migration and Asylum Policy",
+            "links": [
+              {
+                "text": "Minister for Migration and Asylum Policy",
+                "type": "internal",
+                "page": "Minister for Migration (Sweden)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "30 November 2021"
+          },
+          "monarch2": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Morgan Johansson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morgan Johansson"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Integration",
+            "links": [
+              {
+                "text": "Minister for Integration",
+                "type": "internal",
+                "page": "Minister for Integration (Sweden)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "30 November 2021"
+          },
+          "monarch3": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Erik Ullenhag (2014)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Erik Ullenhag"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for Sports",
+            "links": [
+              {
+                "text": "Minister for Sports",
+                "type": "internal",
+                "page": "Minister for Sports (Sweden)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "30 November 2021"
+          },
+          "monarch4": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Amanda Lind",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amanda Lind"
+              }
+            ]
+          },
+          "office5": {
             "text": "Minister for Energy",
             "links": [
               {
@@ -136,10 +267,13 @@
               }
             ]
           },
-          "term_start": {
+          "term_start5": {
             "text": "21 January 2019"
           },
-          "monarch": {
+          "term_end5": {
+            "text": "30 November 2021"
+          },
+          "monarch5": {
             "text": "Carl XVI Gustaf",
             "links": [
               {
@@ -148,7 +282,7 @@
               }
             ]
           },
-          "primeminister": {
+          "primeminister5": {
             "text": "Stefan Löfven",
             "links": [
               {
@@ -157,7 +291,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor5": {
             "text": "Ibrahim Baylan",
             "links": [
               {
@@ -166,7 +300,16 @@
               }
             ]
           },
-          "office1": {
+          "successor5": {
+            "text": "Khashayar Farmanbar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khashayar Farmanbar"
+              }
+            ]
+          },
+          "office6": {
             "text": "Minister for Digital Development",
             "links": [
               {
@@ -176,10 +319,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start6": {
             "text": "21 January 2019"
           },
-          "monarch1": {
+          "term_end6": {
+            "text": "30 November 2021"
+          },
+          "monarch6": {
             "text": "Carl XVI Gustaf",
             "links": [
               {
@@ -188,7 +334,7 @@
               }
             ]
           },
-          "primeminister1": {
+          "primeminister6": {
             "text": "Stefan Löfven",
             "links": [
               {
@@ -197,7 +343,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor6": {
             "text": "Peter Eriksson",
             "links": [
               {
@@ -207,7 +353,16 @@
               }
             ]
           },
-          "office2": {
+          "successor6": {
+            "text": "Khashayar Farmanbar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khashayar Farmanbar"
+              }
+            ]
+          },
+          "office7": {
             "text": "Parliamentary Group Leader of the Social Democratic Party in the Riksdag",
             "links": [
               {
@@ -221,13 +376,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start7": {
             "text": "27 July 2017"
           },
-          "term_end2": {
+          "term_end7": {
             "text": "21 January 2019"
           },
-          "monarch2": {
+          "monarch7": {
             "text": "Carl XVI Gustaf",
             "links": [
               {
@@ -236,7 +391,7 @@
               }
             ]
           },
-          "primeminister2": {
+          "primeminister7": {
             "text": "Stefan Löfven",
             "links": [
               {
@@ -245,7 +400,7 @@
               }
             ]
           },
-          "predecessor2": {
+          "predecessor7": {
             "text": "Tomas Eneroth",
             "links": [
               {
@@ -254,7 +409,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor7": {
             "text": "Annelie Karlsson",
             "links": [
               {
@@ -263,7 +418,7 @@
               }
             ]
           },
-          "office3": {
+          "office8": {
             "text": "Minister of the Interior",
             "links": [
               {
@@ -273,13 +428,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start8": {
             "text": "3 October 2014"
           },
-          "term_end3": {
+          "term_end8": {
             "text": "27 July 2017"
           },
-          "monarch3": {
+          "monarch8": {
             "text": "Carl XVI Gustaf",
             "links": [
               {
@@ -288,7 +443,7 @@
               }
             ]
           },
-          "primeminister3": {
+          "primeminister8": {
             "text": "Stefan Löfven",
             "links": [
               {
@@ -297,10 +452,10 @@
               }
             ]
           },
-          "predecessor3": {
+          "predecessor8": {
             "text": "Office created"
           },
-          "successor3": {
+          "successor8": {
             "text": "Morgan Johansson",
             "links": [
               {
@@ -313,8 +468,12 @@
             "text": "June 17, 1970"
           },
           "birth_place": {
-            "text": "Stockholm, Sweden",
+            "text": "Hagsätra, Stockholm, Sweden",
             "links": [
+              {
+                "type": "internal",
+                "page": "Hagsätra"
+              },
               {
                 "type": "internal",
                 "page": "Stockholm"
@@ -337,6 +496,10 @@
           },
           "spouse": {
             "text": "Elisabeth Brandt-Ygeman"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
           },
           "profession": {
             "text": "Politician"
