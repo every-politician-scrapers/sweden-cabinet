@@ -5,19 +5,20 @@
     "Magdalena Andersson",
     "1967 births",
     "Living people",
-    "People from Uppsala",
+    "21st-century Swedish economists",
+    "21st-century Swedish women politicians",
+    "Female finance ministers",
+    "Female heads of government",
+    "Politicians from Uppsala",
     "Prime Ministers of Sweden",
-    "Swedish Social Democratic Party politicians",
-    "Swedish Ministers for Finance",
-    "Swedish economists",
-    "Swedish women economists",
     "Stockholm School of Economics alumni",
+    "Swedish Ministers for Finance",
+    "Swedish Social Democratic Party politicians",
+    "Swedish women economists",
     "Women government ministers of Sweden",
     "Women prime ministers",
-    "Female finance ministers",
-    "21st-century Swedish women politicians",
-    "21st-century Swedish economists",
-    "Female heads of government"
+    "Swedish female swimmers",
+    "Sportspeople from Uppsala"
   ],
   "sections": [
     {
@@ -59,7 +60,13 @@
               ]
             },
             {
-              "text": "In 1992 she earned a degree in economics from the."
+              "text": "In 1992 she earned a masters degree in economics from the Stockholm School of Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stockholm School of Economics"
+                }
+              ]
             },
             {
               "text": "She served as an adviser and director of planning in Göran Persson's administration and as an adviser to Mona Sahlin.",
@@ -144,10 +151,6 @@
           "template": "use dmy dates"
         },
         {
-          "date": "November 2021",
-          "template": "current person"
-        },
-        {
           "year": "1967",
           "month": "1",
           "day": "23",
@@ -166,10 +169,10 @@
             "text": "Magdalena Andersson"
           },
           "image": {
-            "text": "Magdalena Andersson - 2021Nov29 (Sq.Cropped).jpg"
+            "text": "Magdalena Andersson 2017 (cropped).jpg"
           },
           "caption": {
-            "text": "Andersson in 2021"
+            "text": "Andersson in 2017"
           },
           "office": {
             "text": "Prime Minister of Sweden",
@@ -303,8 +306,9 @@
             "text": "Stockholm County",
             "links": [
               {
+                "text": "Stockholm County",
                 "type": "internal",
-                "page": "Stockholm County"
+                "page": "Stockholm County (Riksdag constituency)"
               }
             ]
           },

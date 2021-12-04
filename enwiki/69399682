@@ -1,0 +1,122 @@
+{
+  "title": "Lina Axelsson Kihlblom",
+  "pageID": 69399682,
+  "categories": [
+    "Swedish politicians",
+    "Living people",
+    "1970 births",
+    "Transgender and transsexual politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lina Axelsson Kihlblom (born 24 June 1970) is a Swedish politician for the Social Democratic party.",
+              "formatting": {
+                "bold": [
+                  "Lina Axelsson Kihlblom"
+                ]
+              }
+            },
+            {
+              "text": "Since 30 November 2021 she is the minister for schooling in Magdalena Andersson's cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Magdalena Andersson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is the first transgender cabinet minister in Swedish history.",
+              "links": [
+                {
+                  "text": "transgender",
+                  "type": "internal",
+                  "page": "transgender"
+                }
+              ]
+            },
+            {
+              "text": "She transitioned in 1995.",
+              "links": [
+                {
+                  "text": "transitioned",
+                  "type": "internal",
+                  "page": "Gender_transitioning"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "Image:Lina Axelsson Kihlblom Porträtt bokomslag Foto Anna-Lena Ahlström.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lina_Axelsson_Kihlblom_Portr%C3%A4tt_bokomslag_Foto_Anna-Lena_Ahlstr%C3%B6m.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lina_Axelsson_Kihlblom_Portr%C3%A4tt_bokomslag_Foto_Anna-Lena_Ahlstr%C3%B6m.jpg",
+          "caption": "Lina Axelsson Kihlblom",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.aftonbladet.se/a/BjzXMQ",
+          "title": "Nya ministern blir första transpersonen i en svensk regering",
+          "journal": "Aftonbladet",
+          "accessdate": "30 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thelocal.se/20211130/key-points-everything-you-need-to-know-about-swedens-new-government/",
+          "title": "KEY POINTS: Everything you need to know about Sweden’s new government",
+          "date": "30 November 2021",
+          "accessdate": "30 November 2021",
+          "agency": "The Local",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.expressen.se/nyheter/forsta-transperson-att-bli-minister-i-regeringen/",
+          "title": "Första transperson att bli minister i regeringen",
+          "agency": "Expressen",
+          "accessdate": "30 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.hemtrevligt.se/icakuriren/artiklar/aktuellt/20180704/jag-foddes-i-fel-kropp/",
+          "title": "Lina Axelsson Kihlblom: \"Jag föddes i fel kropp\"",
+          "first": "Hanna",
+          "last": "Nolin",
+          "work": "Icakuriren",
+          "accessdate": "30 November 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
