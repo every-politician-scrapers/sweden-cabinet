@@ -4,7 +4,8 @@
   "categories": [
     "Living people",
     "1982 births",
-    "MEPs for Sweden 2019–2024"
+    "MEPs for Sweden 2019–2024",
+    "Government ministers of Sweden"
   ],
   "sections": [
     {
@@ -14,11 +15,30 @@
         {
           "sentences": [
             {
-              "text": "Johan Danielsson (born 30 June 1982) is a Swedish politician for the Social Democratic Party.",
+              "text": "Johan Danielsson (born 30 June 1982) is a Swedish trade unionist and politician of the Social Democratic Party who has been serving as Minister for Housing and Deputy Minister for Employment in cabinet of Prime Minister Magdalena Andersson since 30 November 2021.",
               "links": [
+                {
+                  "text": "trade unionist",
+                  "type": "internal",
+                  "page": "trade unionist"
+                },
                 {
                   "type": "internal",
                   "page": "Social Democratic Party"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Andersson Cabinet"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Magdalena Andersson"
                 }
               ],
               "formatting": {
@@ -26,42 +46,6 @@
                   "Johan Danielsson"
                 ]
               }
-            },
-            {
-              "text": "Since 30 November 2021 he is minister for housing and deputy minister for employment in Magdalena Andersson's Cabinet.",
-              "links": [
-                {
-                  "text": "Magdalena Andersson's Cabinet",
-                  "type": "internal",
-                  "page": "Andersson Cabinet"
-                }
-              ]
-            },
-            {
-              "text": "He was voted into the European Parliament in 2019 He has since been serving on the Committee on Transport and Tourism.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Committee on Transport and Tourism"
-                }
-              ]
-            },
-            {
-              "text": "In addition to his committee assignments, he is part of the Parliament's delegation for Northern cooperation and for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Switzerland"
-                },
-                {
-                  "type": "internal",
-                  "page": "Norway"
-                },
-                {
-                  "type": "internal",
-                  "page": "European Economic Area"
-                }
-              ]
             }
           ]
         }
@@ -248,12 +232,6 @@
           "via": "SVT Nyheter",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         }
       ]
     }
