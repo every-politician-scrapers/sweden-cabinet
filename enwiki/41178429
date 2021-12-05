@@ -361,6 +361,9 @@
           "url": "https://www.cnn.com/2021/11/29/europe/sweden-magdalena-andersson-prime-minister-vote-intl/index.html",
           "website": "CNN",
           "access-date": "1 December 2021",
+          "archive-date": "30 November 2021",
+          "archive-url": "https://web.archive.org/web/20211130184005/https://www.cnn.com/2021/11/29/europe/sweden-magdalena-andersson-prime-minister-vote-intl/index.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -368,7 +371,11 @@
           "title": "Sweden elects Andersson as first female PM for second time in a week",
           "url": "https://www.france24.com/en/europe/20211129-sweden-elects-andersson-as-first-female-pm-for-second-time-in-a-week",
           "website": "France 24",
+          "date": "29 November 2021",
           "access-date": "1 December 2021",
+          "archive-date": "1 December 2021",
+          "archive-url": "https://web.archive.org/web/20211201024832/https://www.france24.com/en/europe/20211129-sweden-elects-andersson-as-first-female-pm-for-second-time-in-a-week",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
