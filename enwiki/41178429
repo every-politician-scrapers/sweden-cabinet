@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish politician and economist serving as prime minister of Sweden since 30 November 2021, and as leader of the Swedish Social Democratic Party since 4 November 2021.",
+              "text": "Eva Magdalena Andersson (born 23 January 1967), is a Swedish politician and economist serving as prime minister of Sweden since 30 November 2021, and as leader of the Swedish Social Democratic Party since 4 November 2021.",
               "links": [
                 {
                   "text": "prime minister of Sweden",
@@ -118,7 +118,7 @@
               "text": "Andersson was elected prime minister of Sweden by the Riksdag on 29 November 2021."
             },
             {
-              "text": "Previously, on 24 November, Andersson had been elected to that position but resigned after an announcement by her coalition partner, the Green Party, that they were leaving the government in response to losing the annual budget vote in the Riksdag to the conservative opposition.",
+              "text": "Previously, on 24 November 2021, Andersson had been elected to that position but resigned after an announcement by her coalition partner, the Green Party, that they were leaving the government in response to losing the annual budget vote in the Riksdag to the conservative opposition.",
               "links": [
                 {
                   "text": "Green Party",
@@ -128,7 +128,7 @@
               ]
             },
             {
-              "text": "Andersson assumed the office of Prime Minister on 30 November and was then confirmed as Sweden's first elected female head of government."
+              "text": "Andersson assumed the office of Prime Minister on 30 November 2021 and was then confirmed as Sweden's first elected female head of government."
             }
           ]
         }
@@ -357,9 +357,15 @@
       ],
       "references": [
         {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
           "title": "Sweden's lawmakers elect the country's first female prime minister—again",
           "url": "https://www.cnn.com/2021/11/29/europe/sweden-magdalena-andersson-prime-minister-vote-intl/index.html",
-          "website": "CNN",
+          "publisher": "CNN",
           "access-date": "1 December 2021",
           "archive-date": "30 November 2021",
           "archive-url": "https://web.archive.org/web/20211130184005/https://www.cnn.com/2021/11/29/europe/sweden-magdalena-andersson-prime-minister-vote-intl/index.html",
@@ -370,7 +376,7 @@
         {
           "title": "Sweden elects Andersson as first female PM for second time in a week",
           "url": "https://www.france24.com/en/europe/20211129-sweden-elects-andersson-as-first-female-pm-for-second-time-in-a-week",
-          "website": "France 24",
+          "publisher": "France 24",
           "date": "29 November 2021",
           "access-date": "1 December 2021",
           "archive-date": "1 December 2021",
