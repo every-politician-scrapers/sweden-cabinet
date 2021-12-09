@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Khashayar Carl Farmanbar (born 21 September 1976 in Teheran) is a Swedish politician for the Social Democratic Party.",
+              "text": "Khashayar Carl Farmanbar (born 21 September 1976 in Teheran) is a Swedish entrepreneur and politician for the Social Democratic Party.",
               "links": [
                 {
                   "type": "internal",
@@ -54,6 +54,48 @@
                 {
                   "type": "internal",
                   "page": "Anders Ygeman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Farmanbar was born in Teheran but lived in Boden after coming to Sweden at twelve years of age.",
+              "links": [
+                {
+                  "text": "Boden",
+                  "type": "internal",
+                  "page": "Boden, Sweden"
+                }
+              ]
+            },
+            {
+              "text": "He studied computer engineering and marketing at Luleå University of Technology and has worked in the IT sector.",
+              "links": [
+                {
+                  "text": "computer engineering",
+                  "type": "internal",
+                  "page": "computer engineering"
+                },
+                {
+                  "text": "marketing",
+                  "type": "internal",
+                  "page": "marketing"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luleå University of Technology"
+                }
+              ]
+            },
+            {
+              "text": "Before becoming minister, he was oppositional municipal commissioner in Nacka, where has lived since 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nacka"
                 }
               ]
             }
@@ -166,28 +208,6 @@
       ],
       "references": [
         {
-          "last": "Flores",
-          "first": "Juan",
-          "last2": "Tanaka",
-          "first2": "Sofia",
-          "date": "30 November 2021",
-          "title": "Här är alla ministrarna i Magdalena Anderssons regering",
-          "work": "Dagens Nyheter",
-          "url": "https://www.dn.se/sverige/har-ar-alla-ministrarna-i-magdalena-anderssons-regering/",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2013-06-04",
-          "title": "Om Khashayar",
-          "url": "https://farmanbar.wordpress.com/about/",
-          "access-date": "2021-12-01",
-          "website": "Khashayar #Nacka #Sframtid",
-          "language": "sv-SE",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://www.thelocal.se/20211130/key-points-everything-you-need-to-know-about-swedens-new-government/",
           "title": "KEY POINTS: Everything you need to know about Sweden’s new government",
           "date": "30 November 2021",
@@ -208,6 +228,40 @@
           "date": "30 November 2021",
           "accessdate": "30 November 2021",
           "via": "SVT Nyheter",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Landén",
+          "first": "Markus",
+          "date": "2014-08-23",
+          "title": "Utrikesfödda underrepresenterade i lokalpolitiken",
+          "language": "sv",
+          "work": "Sveriges Radio",
+          "url": "https://sverigesradio.se/artikel/5945301",
+          "access-date": "2021-12-08",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Flores",
+          "first": "Juan",
+          "last2": "Tanaka",
+          "first2": "Sofia",
+          "date": "30 November 2021",
+          "title": "Här är alla ministrarna i Magdalena Anderssons regering",
+          "work": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/har-ar-alla-ministrarna-i-magdalena-anderssons-regering/",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2013-06-04",
+          "title": "Om Khashayar",
+          "url": "https://farmanbar.wordpress.com/about/",
+          "access-date": "2021-12-01",
+          "website": "Khashayar #Nacka #Sframtid",
+          "language": "sv-SE",
           "template": "citation",
           "type": "web"
         }
