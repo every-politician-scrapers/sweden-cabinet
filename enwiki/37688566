@@ -16,8 +16,13 @@
         {
           "sentences": [
             {
-              "text": "Karl-Petter \"Kålle\" Thorwaldsson (born 26 December 1964) is a Swedish union leader and politician who has served as Minister for Business, Industry and Innovation since November 2021.",
+              "text": "Karl-Petter \"Kålle\" Thorwaldsson (born 26 December 1964 in Kosta) is a Swedish union leader and politician who has served as Minister for Business, Industry and Innovation since November 2021.",
               "links": [
+                {
+                  "text": "Kosta",
+                  "type": "internal",
+                  "page": "Kosta, Sweden"
+                },
                 {
                   "text": "Minister for Business, Industry and Innovation",
                   "type": "internal",
@@ -125,7 +130,13 @@
             "text": "December 26, 1964"
           },
           "birth_place": {
-            "text": "Kosta, Sweden"
+            "text": "Kosta, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kosta, Sweden"
+              }
+            ]
           }
         }
       ],
