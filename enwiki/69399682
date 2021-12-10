@@ -19,6 +19,13 @@
           "sentences": [
             {
               "text": "Lina Axelsson Kihlblom (born 24 June 1970) is a Swedish politician for the Social Democratic party.",
+              "links": [
+                {
+                  "text": "Social Democratic party",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Party"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Lina Axelsson Kihlblom"
@@ -33,11 +40,7 @@
                   "page": "Magdalena Andersson"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "She is the first transgender cabinet minister in Swedish history.",
               "links": [
@@ -57,6 +60,48 @@
                   "page": "Gender_transitioning"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During her transition she studied and graduated with a Candidate of Law, and learned foreign languages.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Candidate of Law"
+                }
+              ]
+            },
+            {
+              "text": "She has worked in Brussels with European Union law, and in the Swedish school system.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brussels"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union law"
+                }
+              ]
+            },
+            {
+              "text": "After discussing her leadership of Ronna School in Södertälje on a Swedish Educational Broadcasting Company programme, she became known as the \"Super-principal\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Södertälje"
+                },
+                {
+                  "type": "internal",
+                  "page": "Swedish Educational Broadcasting Company"
+                }
+              ]
+            },
+            {
+              "text": "She was also a member of the 2015 governmental School Commission."
             }
           ]
         }
@@ -113,6 +158,32 @@
           "last": "Nolin",
           "work": "Icakuriren",
           "accessdate": "30 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Lund",
+          "first": "Lina",
+          "date": "2021-11-30",
+          "title": "”Superrektorn” är första transpersonen i regeringen",
+          "url": "https://www.dn.se/sverige/superrektorn-ar-forsta-transpersonen-i-regeringen/",
+          "url-status": "live",
+          "access-date": "2021-12-09",
+          "website": "Dagens Nyheter",
+          "language": "sv",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Malmgren",
+          "first": "Kim",
+          "date": "25 September 2015",
+          "title": "Superrektorn berättar om könskorrigeringen",
+          "url": "https://www.expressen.se/nyheter/superrektorn-berattar-om-konskorrigeringen/",
+          "url-status": "live",
+          "access-date": "2021-12-09",
+          "website": "Expressen",
+          "language": "sv",
           "template": "citation",
           "type": "web"
         }
