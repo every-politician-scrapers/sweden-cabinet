@@ -49,27 +49,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Karkiainen has since she was a teenager been the partner of musician Mattias \"Buffeln\" Lind of successful Haparanda based industrial metal band Raubtier.",
-              "links": [
-                {
-                  "text": "industrial metal",
-                  "type": "internal",
-                  "page": "industrial metal"
-                },
-                {
-                  "type": "internal",
-                  "page": "Raubtier"
-                }
-              ]
-            },
-            {
-              "text": "Her connection to the band and their violent and nationalistic lyrics and hard partying lifestyle has created some controversy in Swedish media."
-            }
-          ]
         }
       ],
       "templates": [
@@ -186,15 +165,6 @@
           "date": "30 November 2021",
           "accessdate": "30 November 2021",
           "agency": "The Local",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Nya ministern ser ut att göra Hitlerhälsning – talar ut om sin okända bakgrund",
-          "url": "https://www.expressen.se/nyheter/nya-ministern-ser-ut-att--gora-hitlerhalsning-talar--ut-om-sin-okanda-bakgrund/",
-          "access-date": "2021-12-07",
-          "website": "Expressen",
-          "language": "sv",
           "template": "citation",
           "type": "web"
         }
