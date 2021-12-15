@@ -142,10 +142,16 @@
       ],
       "references": [
         {
+          "url": "https://www.svt.se/nyheter/inrikes/regeringsbildningen-borjade-med-lofte-slutade-pa-slottet",
+          "title": "Regeringsbildningen: Började med löfte – slutade på slottet",
+          "newspaper": "SVT Nyheter",
+          "date": "30 November 2021",
+          "last1": "Nyheter",
+          "first1": "S. V. T.",
+          "last2": "Fallenius",
+          "first2": "Karin",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
           "url": "https://www.svt.se/nyheter/inrikes/lo-s-ordforande-karl-petter-thorwaldsson-avgar",
