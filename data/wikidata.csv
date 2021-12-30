@@ -1,30 +1,30 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q109828321,Jeanette Gustafsdotter,Jeanette Gustafsdotter,female,1965-12-24,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q18176984,Kulturminister,Q109828321-a6c7c7ab-40f3-6f9a-d0da-38f7d175e899
-Q18202413,Anna-Caren Sätherberg,Anna-Caren Sätherberg,female,1964-10-05,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686194,Landsbygdsminister,Q18202413-080D996F-C27E-4907-83A9-A76F2B79D45A
-Q18243775,Ann Linde,Ann Linde,female,1961-12-04,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q1749063,Utrikesminister,Q18243775-9bfb706a-43e3-ef81-d758-57436bebce9b
-Q18451082,Ida Karkiainen,Ida Karkiainen,female,1988-05-10,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686046,Civilminister,Q18451082-4832BEDE-9196-4FEB-B6FF-496BED8553FA
-Q19976668,Max Elger,Max Elger,male,1973-11-24,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q17103474,Finansmarknadsminister,Q19976668-F2D77A60-D1C3-465A-815D-1134922E0EF4
-Q23915324,Lina Axelsson Kihlblom,Lina Axelsson Kihlblom,female,1970-06-24,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10670469,Skolminister,Q23915324-04C3C14A-CEFD-40C6-99E3-7F1474581FB9
-Q2494607,Karl-Petter Thorwaldsson,Karl-Petter Thorwaldsson,male,1964-12-26,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686220,Näringsminister,Q2494607-F2A0A867-CFA4-4924-AC61-8B157C1E1012
-Q3370162,Peter Hultqvist,Peter Hultqvist,male,1958-12-31,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q920108,Försvarsminister,Q3370162-73F8DB2F-E3E2-45A5-8036-E602F4E071CC
-Q3372917,Mikael Damberg,Mikael Damberg,male,1971-10-13,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q6865835,Finansminister,Q3372917-08BA08BE-8DF4-4FE4-A8DC-C75EB689810C
-Q3373058,Matilda Ernkrans,Matilda Ernkrans,female,1973-03-12,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686038,Biståndsminister,Q3373058-C26E226E-9A0D-4B71-9BEC-4B1D3930071B
-Q3375050,Anders Ygeman,Anders Ygeman,male,1970-06-17,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q6865890,Integrationsminister,Q3375050-48F980B2-351C-4929-B522-0341CBF76331
-Q3375050,Anders Ygeman,Anders Ygeman,male,1970-06-17,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q18183298,Migrationsminister,Q3375050-C2438758-FE7D-41AB-94BC-D0C9CC6636C9
-Q3431836,Lena Hallengren,Lena Hallengren,female,1973-12-25,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q10686247,Socialminister,Q3431836-b66ce43c-4800-691b-06c7-40ef8dbabdde
-Q4787806,Ardalan Shekarabi,Ardalan Shekarabi,male,1978-11-28,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q18246318,Socialförsäkringsminister,Q4787806-dc5e2b25-4865-1ec6-843f-9fc1866ba1d7
-Q4935873,Magdalena Andersson,Magdalena Andersson,female,1967-01-23,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q687075,Statsminister,Q4935873-6c58c423-4747-4c12-5f85-b78fc4aa672d
-Q4946204,Anna Ekström,Anna Ekström,female,1959-06-23,11,https://www.regeringen.se/sveriges-regering/utbildningsdepartementet/anna-ekstrom/cv-anna-ekstrom/,2020-06-14,Q10686263,Utbildningsminister,Q4946204-4a7aa1d2-4b3d-3608-dd0c-720f29e20df8
-Q4970111,Eva Nordmark,Eva Nordmark,female,1971-02-21,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q10686032,Arbetsmarknadsminister,Q4970111-074b6d87-4b3d-da94-f1ad-d0810133ec89
-Q4970111,Eva Nordmark,Eva Nordmark,female,1971-02-21,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q6865858,Jämställdhetsminister,Q4970111-C014E67F-BED5-49C2-916F-9279A60A6DAA
-Q4980750,Annika Strandhäll,Annika Strandhäll,female,1975-04-30,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q39074196,Klimatminister,Q4980750-7861400E-4D97-4422-87A7-E17F614167F2
-Q4980750,Annika Strandhäll,Annika Strandhäll,female,1975-04-30,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686216,Miljöminister,Q4980750-C558BABE-AECA-4B75-866E-657DB5B23BD6
-Q5615474,Hans Dahlgren,Hans Dahlgren,male,1948-03-16,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q6865819,EU-minister,Q5615474-68e23b98-4cf7-6341-3998-059b44e5f230
-Q5711551,Tomas Eneroth,Tomas Eneroth,male,1966-12-04,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q10686169,Infrastrukturminister,Q5711551-364f647a-47ea-6c44-a3e1-ae9d399c6c6a
-Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686171,Inrikesminister,Q5887217-F839055A-05F0-4AC4-9F32-EE5CC272B10C
-Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q3315958,Justitieminister,Q5887217-f2433fc4-401c-30ab-58df-89798df449e5
-Q63533075,Khashayar Farmanbar,Khashayar Farmanbar,male,1976-09-21,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q19975875,Digitaliseringsminister,Q63533075-8D8EB2DA-05B4-4F33-B6B4-2F3E3246CA2C
-Q63533075,Khashayar Farmanbar,Khashayar Farmanbar,male,1976-09-21,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q3612254,Energiminister,Q63533075-E7C5CBDA-CC49-4840-8950-06608EF11554
-Q63975305,Johan Danielsson,Johan Danielsson,male,1982-06-30,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686041,Bostadsminister och biträdande arbetsmarknadsminister,Q63975305-4C0F39FA-FA02-4C9B-B771-3910E8624835
-Q67207189,Anna Hallberg,Anna Hallberg,female,1963-11-19,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q10686108,Utrikeshandelsminister,Q67207189-43d08653-4f1d-346b-26ac-36d0ddb7c7a2
-Q67207189,Anna Hallberg,Anna Hallberg,female,1963-11-19,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q4806239,Minister med ansvar för nordiska frågor,Q67207189-D75DFB3E-B434-4431-A5F0-BEAF41F42305
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q109828321,Jeanette Gustafsdotter,Jeanette Gustafsdotter,female,1965-12-24,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q18176984,Kulturminister,2021-11-30,Q109828321-a6c7c7ab-40f3-6f9a-d0da-38f7d175e899
+Q18202413,Anna-Caren Sätherberg,Anna-Caren Sätherberg,female,1964-10-05,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686194,Landsbygdsminister,2021-11-30,Q18202413-080D996F-C27E-4907-83A9-A76F2B79D45A
+Q18243775,Ann Linde,Ann Linde,female,1961-12-04,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q1749063,Utrikesminister,2019-09-10,Q18243775-9bfb706a-43e3-ef81-d758-57436bebce9b
+Q18451082,Ida Karkiainen,Ida Karkiainen,female,1988-05-10,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686046,Civilminister,2021-11-30,Q18451082-4832BEDE-9196-4FEB-B6FF-496BED8553FA
+Q19976668,Max Elger,Max Elger,male,1973-11-24,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q17103474,Finansmarknadsminister,2021-11-30,Q19976668-F2D77A60-D1C3-465A-815D-1134922E0EF4
+Q23915324,Lina Axelsson Kihlblom,Lina Axelsson Kihlblom,female,1970-06-24,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10670469,Skolminister,2021-11-30,Q23915324-04C3C14A-CEFD-40C6-99E3-7F1474581FB9
+Q2494607,Karl-Petter Thorwaldsson,Karl-Petter Thorwaldsson,male,1964-12-26,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686220,Näringsminister,2021-11-30,Q2494607-F2A0A867-CFA4-4924-AC61-8B157C1E1012
+Q3370162,Peter Hultqvist,Peter Hultqvist,male,1958-12-31,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q920108,Försvarsminister,2014-10-03,Q3370162-73F8DB2F-E3E2-45A5-8036-E602F4E071CC
+Q3372917,Mikael Damberg,Mikael Damberg,male,1971-10-13,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q6865835,Finansminister,2021-11-30,Q3372917-08BA08BE-8DF4-4FE4-A8DC-C75EB689810C
+Q3373058,Matilda Ernkrans,Matilda Ernkrans,female,1973-03-12,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686038,Biståndsminister,2021-11-30,Q3373058-C26E226E-9A0D-4B71-9BEC-4B1D3930071B
+Q3375050,Anders Ygeman,Anders Ygeman,male,1970-06-17,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q6865890,Integrationsminister,2021-11-30,Q3375050-48F980B2-351C-4929-B522-0341CBF76331
+Q3375050,Anders Ygeman,Anders Ygeman,male,1970-06-17,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q18183298,Migrationsminister,2021-11-30,Q3375050-C2438758-FE7D-41AB-94BC-D0C9CC6636C9
+Q3431836,Lena Hallengren,Lena Hallengren,female,1973-12-25,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q10686247,Socialminister,2019-01-21,Q3431836-b66ce43c-4800-691b-06c7-40ef8dbabdde
+Q4787806,Ardalan Shekarabi,Ardalan Shekarabi,male,1978-11-28,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q18246318,Socialförsäkringsminister,2019-10-01,Q4787806-dc5e2b25-4865-1ec6-843f-9fc1866ba1d7
+Q4935873,Magdalena Andersson,Magdalena Andersson,female,1967-01-23,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q687075,Statsminister,2021-11-30,Q4935873-6c58c423-4747-4c12-5f85-b78fc4aa672d
+Q4946204,Anna Ekström,Anna Ekström,female,1959-06-23,11,https://www.regeringen.se/sveriges-regering/utbildningsdepartementet/anna-ekstrom/cv-anna-ekstrom/,2020-06-14,Q10686263,Utbildningsminister,2019-01-21,Q4946204-4a7aa1d2-4b3d-3608-dd0c-720f29e20df8
+Q4970111,Eva Nordmark,Eva Nordmark,female,1971-02-21,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q10686032,Arbetsmarknadsminister,2019-09-10,Q4970111-074b6d87-4b3d-da94-f1ad-d0810133ec89
+Q4970111,Eva Nordmark,Eva Nordmark,female,1971-02-21,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q6865858,Jämställdhetsminister,2021-11-30,Q4970111-C014E67F-BED5-49C2-916F-9279A60A6DAA
+Q4980750,Annika Strandhäll,Annika Strandhäll,female,1975-04-30,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q39074196,Klimatminister,2021-11-30,Q4980750-7861400E-4D97-4422-87A7-E17F614167F2
+Q4980750,Annika Strandhäll,Annika Strandhäll,female,1975-04-30,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686216,Miljöminister,2021-11-30,Q4980750-C558BABE-AECA-4B75-866E-657DB5B23BD6
+Q5615474,Hans Dahlgren,Hans Dahlgren,male,1948-03-16,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q6865819,EU-minister,2021-07-09,Q5615474-68e23b98-4cf7-6341-3998-059b44e5f230
+Q5711551,Tomas Eneroth,Tomas Eneroth,male,1966-12-04,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q10686169,Infrastrukturminister,2017-07-27,Q5711551-364f647a-47ea-6c44-a3e1-ae9d399c6c6a
+Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686171,Inrikesminister,2021-11-30,Q5887217-F839055A-05F0-4AC4-9F32-EE5CC272B10C
+Q5887217,Morgan Johansson,Morgan Johansson,male,1970-05-14,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q3315958,Justitieminister,2014-10-03,Q5887217-f2433fc4-401c-30ab-58df-89798df449e5
+Q63533075,Khashayar Farmanbar,Khashayar Farmanbar,male,1976-09-21,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q19975875,Digitaliseringsminister,2021-11-30,Q63533075-8D8EB2DA-05B4-4F33-B6B4-2F3E3246CA2C
+Q63533075,Khashayar Farmanbar,Khashayar Farmanbar,male,1976-09-21,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q3612254,Energiminister,2021-11-30,Q63533075-E7C5CBDA-CC49-4840-8950-06608EF11554
+Q63975305,Johan Danielsson,Johan Danielsson,male,1982-06-30,11,https://www.regeringen.se/sveriges-regering/,2021-12-03,Q10686041,Bostadsminister och biträdande arbetsmarknadsminister,2021-11-30,Q63975305-4C0F39FA-FA02-4C9B-B771-3910E8624835
+Q67207189,Anna Hallberg,Anna Hallberg,female,1963-11-19,11,https://www.regeringen.se/sveriges-regering/,2021-08-13,Q10686108,Utrikeshandelsminister,2019-09-10,Q67207189-43d08653-4f1d-346b-26ac-36d0ddb7c7a2
+Q67207189,Anna Hallberg,Anna Hallberg,female,1963-11-19,11,https://www.regeringen.se/sveriges-regering/,2021-11-13,Q4806239,Minister med ansvar för nordiska frågor,2019-09-10,Q67207189-D75DFB3E-B434-4431-A5F0-BEAF41F42305
