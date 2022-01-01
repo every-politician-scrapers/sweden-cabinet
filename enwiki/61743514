@@ -31,7 +31,7 @@
               }
             },
             {
-              "text": "She has served as Minister for Employment in the Löfven cabinet since September 2019.",
+              "text": "She has served as Minister for Employment in the Löfven cabinet aswell as the Andersson Cabinet since September 2019.",
               "links": [
                 {
                   "text": "Minister for Employment",
@@ -42,6 +42,10 @@
                   "text": "Löfven cabinet",
                   "type": "internal",
                   "page": "Löfven II Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andersson Cabinet"
                 }
               ]
             },

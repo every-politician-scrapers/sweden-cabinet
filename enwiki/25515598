@@ -42,6 +42,16 @@
                   "Stefan Nils Magnus Ingves"
                 ]
               }
+            },
+            {
+              "text": "Also, currently serves as the Vice-Chairman of the Bank for International Settlements (BIS), since November 2021.",
+              "links": [
+                {
+                  "text": "Bank for International Settlements (BIS)",
+                  "type": "internal",
+                  "page": "Bank for International Settlements"
+                }
+              ]
             }
           ]
         }
@@ -138,6 +148,14 @@
         }
       ],
       "references": [
+        {
+          "date": "2021-11-08",
+          "title": "BIS Board of Directors announces leadership appointments",
+          "url": "https://www.bis.org/press/p211108a.htm",
+          "language": "en",
+          "template": "citation",
+          "type": "journal"
+        },
         {
           "template": "citation",
           "type": "inline",
