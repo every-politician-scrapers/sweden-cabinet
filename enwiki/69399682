@@ -124,69 +124,6 @@
           "date": "November 2021",
           "template": "use dmy dates"
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.aftonbladet.se/a/BjzXMQ",
-          "title": "Nya ministern blir första transpersonen i en svensk regering",
-          "journal": "Aftonbladet",
-          "accessdate": "30 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thelocal.se/20211130/key-points-everything-you-need-to-know-about-swedens-new-government/",
-          "title": "KEY POINTS: Everything you need to know about Sweden’s new government",
-          "date": "30 November 2021",
-          "accessdate": "30 November 2021",
-          "agency": "The Local",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.expressen.se/nyheter/forsta-transperson-att-bli-minister-i-regeringen/",
-          "title": "Första transperson att bli minister i regeringen",
-          "agency": "Expressen",
-          "accessdate": "30 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.hemtrevligt.se/icakuriren/artiklar/aktuellt/20180704/jag-foddes-i-fel-kropp/",
-          "title": "Lina Axelsson Kihlblom: \"Jag föddes i fel kropp\"",
-          "first": "Hanna",
-          "last": "Nolin",
-          "work": "Icakuriren",
-          "accessdate": "30 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Lund",
-          "first": "Lina",
-          "date": "2021-11-30",
-          "title": "”Superrektorn” är första transpersonen i regeringen",
-          "url": "https://www.dn.se/sverige/superrektorn-ar-forsta-transpersonen-i-regeringen/",
-          "url-status": "live",
-          "access-date": "2021-12-09",
-          "website": "Dagens Nyheter",
-          "language": "sv",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Malmgren",
-          "first": "Kim",
-          "date": "25 September 2015",
-          "title": "Superrektorn berättar om könskorrigeringen",
-          "url": "https://www.expressen.se/nyheter/superrektorn-berattar-om-konskorrigeringen/",
-          "url-status": "live",
-          "access-date": "2021-12-09",
-          "website": "Expressen",
-          "language": "sv",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

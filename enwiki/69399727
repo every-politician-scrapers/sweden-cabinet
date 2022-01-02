@@ -86,32 +86,6 @@
           "date": "November 2021",
           "template": "use dmy dates"
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.miun.se/en/contact/Press/News-archive/2021-11/our-alumni-is-the-new-minister-of-culture/",
-          "title": "Our alumni is the new Minister of Culture",
-          "website": "Mittuniversitetet",
-          "accessdate": "30 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.svt.se/nyheter/inrikes/anderssons-overraskning-damberg-anderssons-eftertradare",
-          "title": "Här är alla ministrar i Anderssons regering",
-          "first1": "S. V. T.",
-          "last1": "Nyheter",
-          "first2": "Jonas",
-          "last2": "Ekman",
-          "first3": "Josefin",
-          "last3": "Silverberg",
-          "date": "30 November 2021",
-          "accessdate": "30 November 2021",
-          "via": "SVT Nyheter",
-          "lang": "sv",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

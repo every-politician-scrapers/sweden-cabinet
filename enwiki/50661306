@@ -375,43 +375,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.channelnewsasia.com/news/world/swedish-pm-appoints-trade-minister-linde-as-new-foreign-minister-11892060",
-          "title": "Swedish PM appoints trade minister Linde as new foreign minister",
-          "website": "CNA",
-          "accessdate": "September 10, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.dn.se/nyheter/politik/ann-linde-s-ar-ny-eu-och-handelsminister/",
-          "title": "Ann Linde, S, är ny EU- och handelsminister",
-          "date": "25 May 2016",
-          "work": "Dagens Nyheter",
-          "accessdate": "28 May 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

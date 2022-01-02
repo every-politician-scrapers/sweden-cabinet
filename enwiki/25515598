@@ -146,22 +146,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2021-11-08",
-          "title": "BIS Board of Directors announces leadership appointments",
-          "url": "https://www.bis.org/press/p211108a.htm",
-          "language": "en",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

@@ -396,40 +396,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.government.se/sb/d/2061",
-          "title": "Ministry of Health and Social Affairs",
-          "first": "Regeringen och",
-          "last": "Regeringskansliet",
-          "date": "24 November 2014",
-          "website": "Regeringskansliet",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.government.se/sb/d/19188/a/248003",
-          "title": "Archived copy",
-          "accessdate": "2014-10-16",
-          "url-status": "dead",
-          "archiveurl": "https://web.archive.org/web/20141018094419/http://www.government.se/sb/d/19188/a/248003",
-          "archivedate": "2014-10-18",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
