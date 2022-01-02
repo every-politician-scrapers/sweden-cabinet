@@ -147,32 +147,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.regeringen.se/pressmeddelanden/2019/01/sveriges-nya-regering/",
-          "title": "Sveriges nya regering",
-          "language": "sv",
-          "publisher": "Government of Sweden",
-          "date": "2019-01-21",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thelocal.se/20211130/key-points-everything-you-need-to-know-about-swedens-new-government/",
-          "title": "KEY POINTS: Everything you need to know about Sweden’s new government",
-          "date": "30 November 2021",
-          "accessdate": "30 November 2021",
-          "agency": "The Local",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

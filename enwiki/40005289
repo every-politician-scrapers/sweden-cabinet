@@ -277,30 +277,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.affarsvarlden.se/hem/nyheter/article554839.ece",
-          "title": "Archived copy",
-          "access-date": "2013-07-18",
-          "archive-url": "https://web.archive.org/web/20141006070228/http://www.affarsvarlden.se/hem/nyheter/article554839.ece",
-          "archive-date": "2014-10-06",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

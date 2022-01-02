@@ -275,26 +275,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://sverigesradio.se/sida/artikel.aspx?programid=2054&artikel=6516218",
-          "title": "Education chief appointed new government minister - Radio Sweden",
-          "first": "Sveriges",
-          "last": "Radio",
-          "publisher": "Sveriges Radio",
-          "accessdate": "13 September 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.gp.se/g%C3%B6ran-h%C3%A4gglund-i-p%C3%A5-sp%C3%A5ret-1.144523",
-          "title": "Göran Hägglund i På spåret",
-          "publisher": "Göteborgsposten",
-          "accessdate": "13 September 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

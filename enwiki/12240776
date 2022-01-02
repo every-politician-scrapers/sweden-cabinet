@@ -234,33 +234,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Åberg",
-          "first": "Mikael",
-          "date": "2019-01-21",
-          "title": "Matilda Ernkrans (S) blir minister i nya regeringen",
-          "language": "sv",
-          "work": "SVT Nyheter",
-          "url": "https://www.svt.se/nyheter/lokalt/orebro/matilda-ernkrans-s-blir-minister-i-nya-regeringen",
-          "access-date": "2021-04-16",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Thurfjell",
-          "first": "Karin",
-          "date": "2019-01-21",
-          "title": "Här är alla ministrar i Sveriges nya regering",
-          "language": "sv",
-          "work": "Svenska Dagbladet",
-          "url": "https://www.svd.se/regeringsforklaring-och-nya-ministrar",
-          "access-date": "2021-04-16",
-          "issn": "1101-2412",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

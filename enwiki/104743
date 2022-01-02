@@ -392,22 +392,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.thelocal.se/20180426/king-carl-xvi-gustaf-now-swedens-longest-reigning-monarch",
-          "title": "King Carl XVI Gustaf now Sweden's longest-reigning monarch",
-          "date": "26 April 2018",
-          "access-date": "29 May 2018",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
