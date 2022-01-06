@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Lena Ingeborg Hallengren (born 25 December 1973) is a Swedish politician of the Social Democratic Party who has been serving as Minister for Health and Social Affairs in the cabinet of Prime Minister Stefan Löfven since 21 January 2019.",
+              "text": "Lena Ingeborg Hallengren (born 25 December 1973) is a Swedish politician of the Social Democratic Party who has been served as Minister for Health and Social Affairs in the cabinet of Prime Minister Stefan Löfven from 21 January 2019 until he left office in November 2020.",
               "links": [
                 {
                   "text": "Swedish",
@@ -62,6 +62,15 @@
                   "Lena Ingeborg Hallengren"
                 ]
               }
+            },
+            {
+              "text": "Hallengren then continued in the same role in the Andersson Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andersson Cabinet"
+                }
+              ]
             }
           ]
         }
