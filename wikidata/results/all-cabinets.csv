@@ -1,22 +1,25 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q10650420,Edén Cabinet,1917-10-19,11,,,1920-03-10,11,,,Q930729,Government of Sweden,,,,,Q4570354,Branting I Cabinet,Q10650471,Q10650471,Q4570354,Branting I Cabinet
-,Q4957676,Branting III Cabinet,1924-10-14,11,,,1925-01-24,11,,,Q930729,Government of Sweden,,,,,,,Q10650474,Q10650474,Q10650459,Sandler cabinet
-,Q10650438,Hansson II cabinet,1936-09-28,11,,,1939-12-13,11,,,Q930729,Government of Sweden,,,,,Q4570967,Hansson III Cabinet,Q10650454,Pehrsson-Bramstorp cabinet,Q4570967,Hansson III Cabinet
-,Q10650424,Erlander I Cabinet,1946-10-11,11,,,1951-10-01,11,,,Q930729,Government of Sweden,,,Q4570314,Hansson IV Cabinet,,,Q4570314,Hansson IV Cabinet,Q10650425,Erlander II Cabinet
-,Q10650456,Palme I Cabinet,1969-10-14,11,,,1976-10-08,11,,,Q930729,Government of Sweden,,,,,Q5306200,Fälldin I Cabinet,Q10650426,Erlander III Cabinet,Q5306200,Fälldin I Cabinet
-,Q5306200,Fälldin I Cabinet,1976-10-08,11,,,1978-10-18,11,,,Q930729,Government of Sweden,,,Q10650456,Palme I Cabinet,Q5306179,Ullsten Cabinet,Q10650456,Palme I Cabinet,Q5306179,Ullsten Cabinet
-,Q5306179,Ullsten Cabinet,1978-10-18,11,,,1979-10-12,11,,,Q930729,Government of Sweden,,,Q5306200,Fälldin I Cabinet,Q5306190,Fälldin II Cabinet,Q5306200,Fälldin I Cabinet,Q5306190,Fälldin II Cabinet
-,Q5306190,Fälldin II Cabinet,1979-10-12,11,,,1981-05-22,11,,,Q930729,Government of Sweden,,,Q5306179,Ullsten Cabinet,Q5306186,Fälldin III Cabinet,Q5306179,Ullsten Cabinet,Q5306186,Fälldin III Cabinet
-,Q5306186,Fälldin III Cabinet,1981-05-22,11,,,1982-10-08,11,,,Q930729,Government of Sweden,,,Q5306190,Fälldin II Cabinet,Q5217837,Palme II Cabinet,Q5306190,Fälldin II Cabinet,Q5217837,Palme II Cabinet
-,Q5217837,Palme II Cabinet,1982-10-08,11,,,1986-03-12,11,,,Q930729,Government of Sweden,,,Q5306186,Fälldin III Cabinet,Q4570153,Carlsson I Cabinet,Q5306186,Fälldin III Cabinet,Q4570153,Carlsson I Cabinet
-,Q4570153,Carlsson I Cabinet,1986-03-12,11,,,1990-02-27,11,,,Q930729,Government of Sweden,,,Q5217837,Palme II Cabinet,Q10650416,Carlsson II Cabinet,Q5217837,Palme II Cabinet,Q10650416,Carlsson II Cabinet
-,Q10650416,Carlsson II Cabinet,1990-02-27,11,,,1991-10-04,11,,,Q930729,Government of Sweden,,,Q4570153,Carlsson I Cabinet,Q4907653,Bildt Cabinet,Q4570153,Carlsson I Cabinet,Q4907653,Bildt Cabinet
-,Q4907653,Bildt Cabinet,1991-10-04,11,,,1994-10-07,11,,,Q930729,Government of Sweden,,,Q10650416,Carlsson II Cabinet,Q4907240,Carlsson III Cabinet,Q10650416,Carlsson II Cabinet,Q4907240,Carlsson III Cabinet
-,Q4907240,Carlsson III Cabinet,1994-10-07,11,,,1996-03-22,11,,,Q930729,Government of Sweden,,,Q4907653,Bildt Cabinet,Q4570330,Persson Cabinet,Q4907653,Bildt Cabinet,Q4570330,Persson Cabinet
-,Q4570330,Persson Cabinet,1996-03-22,11,,,2006-10-06,11,,,Q930729,Government of Sweden,,,Q4907240,Carlsson III Cabinet,Q3046743,Reinfeldt Cabinet,Q4907240,Carlsson III Cabinet,Q3046743,Reinfeldt Cabinet
-,Q3046743,Reinfeldt Cabinet,2006-10-06,11,,,2014-10-03,11,,,Q930729,Government of Sweden,,,Q4570330,Persson Cabinet,Q18176361,Löfven I Cabinet,Q4570330,Persson Cabinet,Q18176361,Löfven I Cabinet
-,Q18176361,Löfven I Cabinet,2014-10-03,11,,,2019-01-19,11,,,Q930729,Government of Sweden,,,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II
-,Q60736270,Cabinet Löfven II,2019-01-21,11,,,2021-07-09,11,,,Q930729,Government of Sweden,,,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III
-,Q60736270,Cabinet Löfven II,2019-01-21,11,,,2021-07-09,11,,,Q59281,provisional government,,,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III
-,Q107443672,Cabinet Löfven III,2021-07-09,11,,,2021-11-30,11,,,Q930729,Government of Sweden,,,Q60736270,Cabinet Löfven II,Q109705067,Andersson Cabinet,Q60736270,Cabinet Löfven II,Q109705067,Andersson Cabinet
-,Q109705067,Andersson Cabinet,2021-11-30,11,,,,,,,Q930729,Government of Sweden,,,Q107443672,Cabinet Löfven III,,,Q107443672,Cabinet Löfven III,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q10650420,Edén Cabinet,1917-10-19,11,,,1920-03-10,11,,,,,Q4570354,Branting I Cabinet,Q10650471,Q10650471,Q4570354,Branting I Cabinet
+,Q4570354,Branting I Cabinet,1920-03-10,11,,,1920-10-27,11,,,,,,,Q10650420,Edén Cabinet,Q10650417,Q10650417
+,Q4570378,Branting II Cabinet,1921-10-13,11,,,1923-04-19,11,,,,,,,Q10650479,von Sydow cabinet,Q10650474,Q10650474
+,Q4957676,Branting III Cabinet,1924-10-14,11,,,1925-01-24,11,,,,,,,Q10650474,Q10650474,Q10650459,Sandler cabinet
+,Q10650438,Hansson II cabinet,1936-09-28,11,,,1939-12-13,11,,,,,Q4570967,Hansson III Cabinet,Q10650454,Pehrsson-Bramstorp cabinet,Q4570967,Hansson III Cabinet
+,Q4570967,Hansson III Cabinet,1939-12-13,11,,,1945-07-31,11,,,,,,,Q10650438,Hansson II cabinet,Q4570314,Hansson IV Cabinet
+,Q4570314,Hansson IV Cabinet,1945-07-31,11,,,1946-10-06,11,,,,,,,Q4570967,Hansson III Cabinet,Q10650424,Erlander I Cabinet
+,Q10650424,Erlander I Cabinet,1946-10-11,11,,,1951-10-01,11,,,Q4570314,Hansson IV Cabinet,,,Q4570314,Hansson IV Cabinet,Q10650425,Erlander II Cabinet
+,Q10650456,Palme I Cabinet,1969-10-14,11,,,1976-10-08,11,,,,,Q5306200,Fälldin I Cabinet,Q10650426,Erlander III Cabinet,Q5306200,Fälldin I Cabinet
+,Q5306200,Fälldin I Cabinet,1976-10-08,11,,,1978-10-18,11,,,Q10650456,Palme I Cabinet,Q5306179,Ullsten Cabinet,Q10650456,Palme I Cabinet,Q5306179,Ullsten Cabinet
+,Q5306179,Ullsten Cabinet,1978-10-18,11,,,1979-10-12,11,,,Q5306200,Fälldin I Cabinet,Q5306190,Fälldin II Cabinet,Q5306200,Fälldin I Cabinet,Q5306190,Fälldin II Cabinet
+,Q5306190,Fälldin II Cabinet,1979-10-12,11,,,1981-05-22,11,,,Q5306179,Ullsten Cabinet,Q5306186,Fälldin III Cabinet,Q5306179,Ullsten Cabinet,Q5306186,Fälldin III Cabinet
+,Q5306186,Fälldin III Cabinet,1981-05-22,11,,,1982-10-08,11,,,Q5306190,Fälldin II Cabinet,Q5217837,Palme II Cabinet,Q5306190,Fälldin II Cabinet,Q5217837,Palme II Cabinet
+,Q5217837,Palme II Cabinet,1982-10-08,11,,,1986-03-12,11,,,Q5306186,Fälldin III Cabinet,Q4570153,Carlsson I Cabinet,Q5306186,Fälldin III Cabinet,Q4570153,Carlsson I Cabinet
+,Q4570153,Carlsson I Cabinet,1986-03-12,11,,,1990-02-27,11,,,Q5217837,Palme II Cabinet,Q10650416,Carlsson II Cabinet,Q5217837,Palme II Cabinet,Q10650416,Carlsson II Cabinet
+,Q10650416,Carlsson II Cabinet,1990-02-27,11,,,1991-10-04,11,,,Q4570153,Carlsson I Cabinet,Q4907653,Bildt Cabinet,Q4570153,Carlsson I Cabinet,Q4907653,Bildt Cabinet
+,Q4907653,Bildt Cabinet,1991-10-04,11,,,1994-10-07,11,,,Q10650416,Carlsson II Cabinet,Q4907240,Carlsson III Cabinet,Q10650416,Carlsson II Cabinet,Q4907240,Carlsson III Cabinet
+,Q4907240,Carlsson III Cabinet,1994-10-07,11,,,1996-03-22,11,,,Q4907653,Bildt Cabinet,Q4570330,Persson Cabinet,Q4907653,Bildt Cabinet,Q4570330,Persson Cabinet
+,Q4570330,Persson Cabinet,1996-03-22,11,,,2006-10-06,11,,,Q4907240,Carlsson III Cabinet,Q3046743,Reinfeldt Cabinet,Q4907240,Carlsson III Cabinet,Q3046743,Reinfeldt Cabinet
+,Q3046743,Reinfeldt Cabinet,2006-10-06,11,,,2014-10-03,11,,,Q4570330,Persson Cabinet,Q18176361,Löfven I Cabinet,Q4570330,Persson Cabinet,Q18176361,Löfven I Cabinet
+,Q18176361,Löfven I Cabinet,2014-10-03,11,,,2019-01-19,11,,,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II,Q3046743,Reinfeldt Cabinet,Q60736270,Cabinet Löfven II
+,Q60736270,Cabinet Löfven II,2019-01-21,11,,,2021-07-09,11,,,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III,Q18176361,Löfven I Cabinet,Q107443672,Cabinet Löfven III
+,Q107443672,Cabinet Löfven III,2021-07-09,11,,,2021-11-30,11,,,Q60736270,Cabinet Löfven II,Q109705067,Andersson Cabinet,Q60736270,Cabinet Löfven II,Q109705067,Andersson Cabinet
+,Q109705067,Andersson Cabinet,2021-11-30,11,,,,,,,Q107443672,Cabinet Löfven III,,,Q107443672,Cabinet Löfven III,,
