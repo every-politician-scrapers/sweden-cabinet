@@ -27,16 +27,15 @@
         {
           "sentences": [
             {
-              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish politician and economist serving as prime minister of Sweden since 30 November 2021, and as leader of the Swedish Social Democratic Party since 4 November 2021.",
+              "text": "Eva Magdalena Andersson (born 23 January 1967) is a Swedish politician and economist serving as leader of the Swedish Social Democratic Party and Prime Minister of Sweden since 2021.",
               "links": [
-                {
-                  "text": "prime minister of Sweden",
-                  "type": "internal",
-                  "page": "Prime Minister of Sweden"
-                },
                 {
                   "type": "internal",
                   "page": "Swedish Social Democratic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Sweden"
                 }
               ],
               "formatting": {
@@ -81,7 +80,7 @@
               ]
             },
             {
-              "text": "After the 2014 election, Andersson was elected to the Riksdag and became finance minister in Stefan Löfven's administration.",
+              "text": "After the 2014 election, Andersson was elected to the Riksdag and became Minister of Finance in Stefan Löfven's administration.",
               "links": [
                 {
                   "text": "2014 election",
@@ -93,7 +92,7 @@
                   "page": "Riksdag"
                 },
                 {
-                  "text": "finance minister",
+                  "text": "Minister of Finance",
                   "type": "internal",
                   "page": "Minister for Finance (Sweden)"
                 },
@@ -346,6 +345,15 @@
           "children": {
             "text": "2",
             "number": 2
+          },
+          "residence": {
+            "text": "Sager House",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sager House"
+              }
+            ]
           },
           "education": {
             "text": "Stockholm School of Economics",
