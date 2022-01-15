@@ -126,15 +126,6 @@
               }
             ]
           },
-          "monarch": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
-              }
-            ]
-          },
           "term_start": {
             "text": "30 November 2021"
           },
@@ -157,15 +148,6 @@
                 "text": "Minister of the Interior",
                 "type": "internal",
                 "page": "Minister of the Interior (Sweden)"
-              }
-            ]
-          },
-          "monarch2": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
               }
             ]
           },
@@ -203,15 +185,6 @@
                 "text": "Minister for Enterprise",
                 "type": "internal",
                 "page": "Ministry of Enterprise, Energy and Communications (Sweden)"
-              }
-            ]
-          },
-          "monarch3": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
               }
             ]
           },
