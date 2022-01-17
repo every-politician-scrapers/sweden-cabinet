@@ -16,13 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Ida Victoria Karkiainen (born 10 May 1988 in Haparanda) is a Swedish politician for the Social Democratic party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Haparanda"
-                }
-              ],
+              "text": "Ida Victoria Karkiainen (born 10 May 1988) is a Swedish politician for the Social Democratic party.",
               "formatting": {
                 "bold": [
                   "Ida Victoria Karkiainen"

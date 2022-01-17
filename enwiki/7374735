@@ -468,12 +468,8 @@
             "text": "June 17, 1970"
           },
           "birth_place": {
-            "text": "Hagsätra, Stockholm, Sweden",
+            "text": "Stockholm, Sweden",
             "links": [
-              {
-                "type": "internal",
-                "page": "Hagsätra"
-              },
               {
                 "type": "internal",
                 "page": "Stockholm"
