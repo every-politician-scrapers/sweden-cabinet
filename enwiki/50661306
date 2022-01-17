@@ -173,12 +173,24 @@
           "term_start1": {
             "text": "1 January 2021"
           },
+          "term_end1": {
+            "text": "1 January 2022"
+          },
           "predecessor1": {
             "text": "Edi Rama",
             "links": [
               {
                 "type": "internal",
                 "page": "Edi Rama"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Zbigniew Rau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zbigniew Rau"
               }
             ]
           },

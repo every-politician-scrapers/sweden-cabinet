@@ -15,12 +15,8 @@
         {
           "sentences": [
             {
-              "text": "Khashayar Carl Farmanbar (born 21 September 1976 in Teheran) is a Swedish entrepreneur and politician for the Social Democratic Party.",
+              "text": "Khashayar Carl Farmanbar (born 21 September 1976) is a Swedish entrepreneur and politician for the Social Democratic Party.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Teheran"
-                },
                 {
                   "text": "Social Democratic Party",
                   "type": "internal",
