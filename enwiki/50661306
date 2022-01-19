@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Ann Christin Linde (born 4 December 1961) is a Swedish politician of the Social Democratic Party who has been serving as Minister for Foreign Affairs in the government of Prime Minister Stefan Löfven since 10 September 2019.",
+              "text": "Ann Christin Linde (born 4 December 1961) is a Swedish politician of the Social Democratic Party who has been serving as Minister for Foreign Affairs in the government of Prime Minister Stefan Löfven and Magdalena Andersson since 10 September 2019.",
               "links": [
                 {
                   "text": "Social Democratic Party",
@@ -38,6 +38,10 @@
                 {
                   "type": "internal",
                   "page": "Stefan Löfven"
+                },
+                {
+                  "type": "internal",
+                  "page": "Magdalena Andersson"
                 }
               ],
               "formatting": {
