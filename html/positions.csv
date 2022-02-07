@@ -3,10 +3,11 @@ Q1268572,Monarch of Sweden,Q34,Q34,,Q182162,,,,,
 Q687075,Prime Minister of Sweden,Q34,Q34,Q4189744,Q11029090,1876-03-20,,Q10541572,,Prime Minister of Sweden
 Q105359146,Vice Prime Minister of Sweden,Q34,Q34,,,2014-10-03,,,,
 Q4189744,Deputy Prime Minister of Sweden,Q34,Q34,,,1975-01-01,,,,Deputy Prime Minister of Sweden
+Q110820075,Minister of Agriculture,Q34,Q34,,,1900-03-31,2010-10-05,,Q10686194,
 Q18589754,Minister for Church Affairs,,Q34,,,1968-01-01,,Q84566470,,
 Q10686046,Minister of Civil Affairs,Q34,Q34,,,1840-05-16,,,,
 Q39074196,Minister for the Climate,,,,,2014,,,,Minister for the Climate (Sweden)
-Q10686169,Minister for Communications and Regional Policy,Q34,Q34,,,1920-07-01,,,,Minister for Infrastructure (Sweden)
+Q110801943,Minister for Communications and Regional Policy,,,,,1920-07-01,1998-12-31,,Q10686169,
 Q18589796,Minister for Consumer Affairs,Q34,Q34,,,1954-06-04,,,,Minister for Consumer Affairs (Sweden)
 Q18176984,Minister for Culture of Sweden,Q34,Q34,,,1982-10-08,,,,Minister for Culture (Sweden)
 Q920108,Minister for Defence,Q34,Q34,,,1920-07-01,,Q83933561,,Minister of Defence (Sweden)
@@ -28,6 +29,7 @@ Q95187834,Minister of Health,,Q34,,,1976-10-08,,,,
 Q95983946,Minister for Higher Education and Science,,Q34,,,2007-09-12,,,,
 Q10686041,Minister for Housing,Q34,Q34,,,1974-01-01,,,,Minister for Housing (Sweden)
 Q19975875,Minister for Information Technology,Q34,Q34,,,2010-10-05,,,,Minister for Digital Development (Sweden)
+Q10686169,Minister for Infrastructure,Q34,Q34,,,2000,,Q110801943,,Minister for Infrastructure (Sweden)
 Q6865890,Minister for Integration,Q34,Q34,,,1996-03-22,,Q18242897,,Minister for Integration (Sweden)
 Q10686038,Minister for International Development Cooperation,Q34,Q34,,,1958-06-04,,,,Minister for International Development Cooperation (Sweden)
 Q3315958,Minister for Justice,Q34,Q34,,,1876-03-20,,Q10541572,,Minister for Justice (Sweden)
@@ -36,7 +38,7 @@ Q10547443,Minister of Municipalities,Q34,Q34,,,1974-01-01,2010-10-05,,,
 Q4806239,Minister for Nordic Cooperation,Q34,Q34,,,1970-10-03,,,,Minister for Nordic Cooperation (Sweden)
 Q10670469,Minister of Primary Education,Q34,Q34,,,1967-09-29,,,,
 Q39074308,Minister for Public Health,Q34,Q34,,,2002-10-21,,,,Minister for Public Health (Sweden)
-Q10686194,Minister for Rural Affairs,Q34,Q34,,,1900-03-31,,,,Minister for Rural Affairs (Sweden)
+Q10686194,Minister for Rural Affairs,Q34,Q34,,,2010-10-05,,Q110820075,,Minister for Rural Affairs (Sweden)
 Q10686247,Minister for Social Affairs,Q34,Q34,,,1920-07-01,,,,Minister for Health and Social Affairs (Sweden)
 Q18246318,Minister for Social Security,Q34,Q34,,,1991-10-04,,,,Minister for Social Security (Sweden)
 Q87748605,Minister of Sports,,Q34,,,1986-10-10,,,,
