@@ -1,397 +1,44 @@
 {
-  "title": "Ann Linde",
-  "pageID": 50661306,
-  "categories": [
-    "Living people",
-    "1961 births",
-    "Women government ministers of Sweden",
-    "Swedish Ministers for Trade",
-    "Swedish Ministers for Foreign Affairs",
-    "Female foreign ministers",
-    "Swedish Social Democratic Party politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ann Christin Linde (born 4 December 1961) is a Swedish politician of the Social Democratic Party who has been serving as Minister for Foreign Affairs in the government of Prime Minister Stefan Löfven and Magdalena Andersson since 10 September 2019.",
-              "links": [
-                {
-                  "text": "Social Democratic Party",
-                  "type": "internal",
-                  "page": "Swedish Social Democratic Party"
-                },
-                {
-                  "text": "government",
-                  "type": "internal",
-                  "page": "Löfven II Cabinet"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Sweden"
-                },
-                {
-                  "type": "internal",
-                  "page": "Stefan Löfven"
-                },
-                {
-                  "type": "internal",
-                  "page": "Magdalena Andersson"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ann Christin Linde"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Linde previously served as Minister for Foreign Trade and Minister for Nordic Cooperation.",
-              "links": [
-                {
-                  "text": "Minister for Foreign Trade",
-                  "type": "internal",
-                  "page": "Minister for Foreign Trade (Sweden)"
-                },
-                {
-                  "text": "Minister for Nordic Cooperation",
-                  "type": "internal",
-                  "page": "Minister for Nordic Cooperation (Sweden)"
-                }
-              ]
-            },
-            {
-              "text": "Before that she was the Minister for European Union Affairs and Trade for Löfven Cabinet since 25 May 2016.",
-              "links": [
-                {
-                  "text": "Minister for European Union Affairs",
-                  "type": "internal",
-                  "page": "Minister for EU Affairs (Sweden)"
-                },
-                {
-                  "text": "Löfven Cabinet",
-                  "type": "internal",
-                  "page": "Löfven I Cabinet"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Swedish politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Anna Lindh"
-          ],
-          "template": "distinguish"
-        },
-        {
-          "date": "November 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1961",
-          "month": "12",
-          "day": "4",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ann Linde"
-          },
-          "image": {
-            "text": "Annlindecropped.jpg"
-          },
-          "caption": {
-            "text": "Ann Linde in September 2016"
-          },
-          "office": {
-            "text": "Minister for Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister for Foreign Affairs",
-                "type": "internal",
-                "page": "Minister for Foreign Affairs (Sweden)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 September 2019"
-          },
-          "primeminister": {
-            "text": "Stefan Löfven Magdalena Andersson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Löfven"
-              },
-              {
-                "type": "internal",
-                "page": "Magdalena Andersson"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Margot Wallström",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Margot Wallström"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chair of the Organization for Security and Co-operation in Europe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Organization for Security and Co-operation in Europe"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 January 2021"
-          },
-          "term_end1": {
-            "text": "1 January 2022"
-          },
-          "predecessor1": {
-            "text": "Edi Rama",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edi Rama"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Zbigniew Rau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zbigniew Rau"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Nordic Cooperation",
-            "links": [
-              {
-                "text": "Minister for Nordic Cooperation",
-                "type": "internal",
-                "page": "Minister for Nordic Cooperation (Sweden)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "21 January 2019"
-          },
-          "term_end2": {
-            "text": "10 September 2019"
-          },
-          "monarch2": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Stefan Löfven",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Löfven"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Margot Wallström"
-          },
-          "successor2": {
-            "text": "Anna Hallberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anna Hallberg"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister for Foreign Trade",
-            "links": [
-              {
-                "text": "Minister for Foreign Trade",
-                "type": "internal",
-                "page": "Minister for Foreign Trade (Sweden)"
-              }
-            ]
-          },
-          "monarch3": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Stefan Löfven",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Löfven"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "25 May 2016"
-          },
-          "term_end3": {
-            "text": "10 September 2019"
-          },
-          "predecessor3": {
-            "text": "Mikael Damberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mikael Damberg"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Anna Hallberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anna Hallberg"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister for EU Affairs",
-            "links": [
-              {
-                "text": "Minister for EU Affairs",
-                "type": "internal",
-                "page": "Minister for EU Affairs (Sweden)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "25 May 2016"
-          },
-          "term_end4": {
-            "text": "21 January 2019"
-          },
-          "monarch4": {
-            "text": "Carl XVI Gustaf",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carl XVI Gustaf"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Stefan Löfven",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stefan Löfven"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Birgitta Ohlsson (2010–14)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Birgitta Ohlsson"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Hans Dahlgren",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hans Dahlgren"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Ann Christin Linde"
-          },
-          "birth_date": {
-            "text": "December 4, 1961"
-          },
-          "birth_place": {
-            "text": "Helsingborg, Sweden",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Helsingborg"
-              },
-              {
-                "type": "internal",
-                "page": "Sweden"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Mats Eriksson (1989–present)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "nationality": {
-            "text": "Swedish"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "Social Democratic Party",
-            "links": [
-              {
-                "text": "Social Democratic Party",
-                "type": "internal",
-                "page": "Swedish Social Democratic Party"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ann Linde",
+  "image": "Annlindecropped.jpg",
+  "caption": "Ann Linde in September 2016",
+  "office": "Minister for Foreign Affairs",
+  "term_start": "10 September 2019",
+  "primeminister": "Stefan Löfven Magdalena Andersson",
+  "monarch": "Carl XVI Gustaf",
+  "predecessor": "Margot Wallström",
+  "office1": "Chair of the Organization for Security and Co-operation in Europe",
+  "term_start1": "1 January 2021",
+  "term_end1": "1 January 2022",
+  "predecessor1": "Edi Rama",
+  "successor1": "Zbigniew Rau",
+  "office2": "Minister for Nordic Cooperation",
+  "term_start2": "21 January 2019",
+  "term_end2": "10 September 2019",
+  "monarch2": "Carl XVI Gustaf",
+  "primeminister2": "Stefan Löfven",
+  "predecessor2": "Margot Wallström",
+  "successor2": "Anna Hallberg",
+  "office3": "Minister for Foreign Trade",
+  "monarch3": "Carl XVI Gustaf",
+  "primeminister3": "Stefan Löfven",
+  "term_start3": "25 May 2016",
+  "term_end3": "10 September 2019",
+  "predecessor3": "Mikael Damberg",
+  "successor3": "Anna Hallberg",
+  "office4": "Minister for EU Affairs",
+  "term_start4": "25 May 2016",
+  "term_end4": "21 January 2019",
+  "monarch4": "Carl XVI Gustaf",
+  "primeminister4": "Stefan Löfven",
+  "predecessor4": "Birgitta Ohlsson (2010–14)",
+  "successor4": "Hans Dahlgren",
+  "birth_name": "Ann Christin Linde",
+  "birth_date": "December 4, 1961",
+  "birth_place": "Helsingborg, Sweden",
+  "spouse": "Mats Eriksson (1989–present)",
+  "children": "2",
+  "nationality": "Swedish",
+  "occupation": "Politician",
+  "party": "Social Democratic Party"
 }
