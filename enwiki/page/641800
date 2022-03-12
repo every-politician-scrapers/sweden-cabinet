@@ -55,9 +55,9 @@
       ],
       "images": [
         {
-          "file": "Fil:Hogsta-domstolen-stockholm.jpg",
-          "thumb": "https://sv.wikipedia.org/wiki/Special:Redirect/file/Hogsta-domstolen-stockholm.jpg?width=300",
-          "url": "https://sv.wikipedia.org/wiki/Special:Redirect/file/Hogsta-domstolen-stockholm.jpg",
+          "file": "File:Fil:Hogsta-domstolen-stockholm.jpg",
+          "thumb": "https://sv.wikipedia.org/wiki/Special:Redirect/file/Fil%3AHogsta-domstolen-stockholm.jpg?width=300",
+          "url": "https://sv.wikipedia.org/wiki/Special:Redirect/file/Fil%3AHogsta-domstolen-stockholm.jpg",
           "caption": "Högsta domstolen i Stockholm.",
           "links": []
         }
@@ -1496,8 +1496,9 @@
             "text": "148. Eberhard Quensel, jr 1902–25",
             "links": [
               {
+                "text": "Eberhard Quensel",
                 "type": "internal",
-                "page": "Eberhard Quensel"
+                "page": "Eberhard Quensel (justitieråd)"
               }
             ]
           },
@@ -2922,7 +2923,7 @@
       "lists": [
         [
           {
-            "text": "''Från 2011 har även domare i Högsta förvaltningsdomstolen (förutvarande Regeringsrätten) titeln justitieråd. Denna lista tar dock enbart upp justitieråd i Högsta domstolen – för justitieråd i Högsta förvaltningsdomstolen, se Lista över ledamöter av Högsta förvaltningsdomstolen (Sverige).''",
+            "text": "Från 2011 har även domare i Högsta förvaltningsdomstolen (förutvarande Regeringsrätten) titeln justitieråd. Denna lista tar dock enbart upp justitieråd i Högsta domstolen – för justitieråd i Högsta förvaltningsdomstolen, se Lista över ledamöter av Högsta förvaltningsdomstolen (Sverige).",
             "links": [
               {
                 "text": "Högsta förvaltningsdomstolen",
@@ -2933,7 +2934,12 @@
                 "type": "internal",
                 "page": "Lista över ledamöter av Högsta förvaltningsdomstolen (Sverige)"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "Från 2011 har även domare i Högsta förvaltningsdomstolen (förutvarande Regeringsrätten) titeln justitieråd. Denna lista tar dock enbart upp justitieråd i Högsta domstolen – för justitieråd i Högsta förvaltningsdomstolen, se Lista över ledamöter av Högsta förvaltningsdomstolen (Sverige)."
+              ]
+            }
           }
         ],
         [
