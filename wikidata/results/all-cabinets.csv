@@ -7,6 +7,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q4570967,Hansson III Cabinet,1939-12-13,11,,,1945-07-31,11,,,,,,,Q10650438,Hansson II cabinet,Q4570314,Hansson IV Cabinet
 ,Q4570314,Hansson IV Cabinet,1945-07-31,11,,,1946-10-06,11,,,,,,,Q4570967,Hansson III Cabinet,Q10650424,Erlander I Cabinet
 ,Q10650424,Erlander I Cabinet,1946-10-11,11,,,1951-10-01,11,,,Q4570314,Hansson IV Cabinet,,,Q4570314,Hansson IV Cabinet,Q10650425,Erlander II Cabinet
+,Q10650426,Erlander III Cabinet,1957-10-31,11,,,1969-10-14,11,,,,,,,Q10650425,Erlander II Cabinet,Q10650456,Palme I Cabinet
 ,Q10650456,Palme I Cabinet,1969-10-14,11,,,1976-10-08,11,,,,,Q5306200,Fälldin I Cabinet,Q10650426,Erlander III Cabinet,Q5306200,Fälldin I Cabinet
 ,Q5306200,Fälldin I Cabinet,1976-10-08,11,,,1978-10-18,11,,,Q10650456,Palme I Cabinet,Q5306179,Ullsten Cabinet,Q10650456,Palme I Cabinet,Q5306179,Ullsten Cabinet
 ,Q5306179,Ullsten Cabinet,1978-10-18,11,,,1979-10-12,11,,,Q5306200,Fälldin I Cabinet,Q5306190,Fälldin II Cabinet,Q5306200,Fälldin I Cabinet,Q5306190,Fälldin II Cabinet
