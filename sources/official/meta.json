@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Sweden",
+      "id": "Q34"
+    },
+    "cabinet": {
+      "id": "Q109705067",
+      "start": "2021-11-30",
+      "parent": "Q930729"
+    },
+    "source": {
+        "url":   "https://www.regeringen.se/sveriges-regering/",
+        "title": "Sveriges regering - Regeringen.se",
+        "lang":  {
+            "code": "sv",
+            "wikidata": "Q9027"
+        }
+    },
+    "agent": "every-politican-scrapers/sweden-cabinet"
+}
