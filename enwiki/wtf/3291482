@@ -1,0 +1,880 @@
+{
+  "title": "Beatrice Ask",
+  "pageID": 3291482,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "People from Härjedalen Municipality",
+    "People from Härjedalen",
+    "Uppsala University alumni",
+    "Moderate Party politicians",
+    "Swedish Ministers for Schools",
+    "Swedish Ministers for Justice",
+    "Women members of the Riksdag",
+    "Swedish feminists",
+    "Women government ministers of Sweden",
+    "Members of the Riksdag 1988–1991",
+    "Members of the Riksdag 1991–1994",
+    "Members of the Riksdag 1994–1998",
+    "Members of the Riksdag 1998–2002",
+    "Members of the Riksdag 2002–2006",
+    "Members of the Riksdag 2006–2010",
+    "Members of the Riksdag 2010–2014",
+    "Members of the Riksdag 2014–2018",
+    "Members of the Riksdag 2018–2022",
+    "21st-century Swedish women politicians",
+    "Female justice ministers",
+    "Members of the Riksdag from the Moderate Party",
+    "20th-century Swedish women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eva Carin Beatrice Ask (born 20 April 1956) is a Swedish politician and a member of the Moderate Party.",
+              "links": [
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moderate Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eva Carin Beatrice Ask"
+                ]
+              }
+            },
+            {
+              "text": "She has served as Governor of Södermanland County since 1 January 2020.",
+              "links": [
+                {
+                  "text": "Governor of Södermanland County",
+                  "type": "internal",
+                  "page": "List of governors of Södermanland County"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ask served as member of the Swedish Riksdag for Stockholm Municipality from 1994 to 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Swedish Riksdag"
+                },
+                {
+                  "text": "Stockholm Municipality",
+                  "type": "internal",
+                  "page": "Stockholm Municipality (Riksdag constituency)"
+                }
+              ]
+            },
+            {
+              "text": "She was Minister for Schools from 1991 to 1994 and Minister for Justice from 2006 to 2014",
+              "links": [
+                {
+                  "text": "Minister for Schools",
+                  "type": "internal",
+                  "page": "Minister for Schools (Sweden)"
+                },
+                {
+                  "text": "Minister for Justice",
+                  "type": "internal",
+                  "page": "Minister for Justice (Sweden)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2014",
+          "template": "pov"
+        },
+        {
+          "year": "1956",
+          "month": "04",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Beatrice Ask"
+          },
+          "image": {
+            "text": "Sveriges justitieminister Beatrice Ask.jpg"
+          },
+          "office": {
+            "text": "Governor of Södermanland County",
+            "links": [
+              {
+                "text": "Governor of Södermanland County",
+                "type": "internal",
+                "page": "List of governors of Södermanland County"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2020"
+          },
+          "predecessor": {
+            "text": "Liselott Hagberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liselott Hagberg"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Alderman of the House",
+            "links": [
+              {
+                "text": "Alderman of the House",
+                "type": "internal",
+                "page": "Father of the House",
+                "anchor": "Sweden"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "24 September 2018"
+          },
+          "term_end2": {
+            "text": "31 December 2019"
+          },
+          "predecessor2": {
+            "text": "Krister Örnfjäder",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Krister Örnfjäder"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Tuve Skånberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tuve Skånberg"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Justice",
+            "links": [
+              {
+                "text": "Minister for Justice",
+                "type": "internal",
+                "page": "Minister for Justice (Sweden)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 October 2006"
+          },
+          "term_end3": {
+            "text": "3 October 2014"
+          },
+          "primeminister3": {
+            "text": "Fredrik Reinfeldt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fredrik Reinfeldt"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Thomas Bodström",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Thomas Bodström"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Morgan Johansson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Morgan Johansson"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for Schools",
+            "links": [
+              {
+                "text": "Minister for Schools",
+                "type": "internal",
+                "page": "Minister for Schools (Sweden)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "4 October 1991"
+          },
+          "term_end4": {
+            "text": "7 October 1994"
+          },
+          "primeminister4": {
+            "text": "Carl Bildt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl Bildt"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Göran Persson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Göran Persson"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Ylva Johansson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ylva Johansson"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Member of the Swedish Riksdag\nfor Stockholm Municipality",
+            "links": [
+              {
+                "text": "Member",
+                "type": "internal",
+                "page": "Member of Parliament"
+              },
+              {
+                "type": "internal",
+                "page": "Swedish Riksdag"
+              },
+              {
+                "text": "Stockholm Municipality",
+                "type": "internal",
+                "page": "Stockholm Municipality (Riksdag constituency)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "3 October 1994"
+          },
+          "term_end5": {
+            "text": "31 December 2019"
+          },
+          "term_start6": {
+            "text": "11 October 1988"
+          },
+          "term_end6": {
+            "text": "28 October 1988"
+          },
+          "birth_date": {
+            "text": "April 20, 1956"
+          },
+          "birth_place": {
+            "text": "Sveg, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sveg"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Eva Carin Beatrice Ask"
+          },
+          "party": {
+            "text": "Moderate Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moderate Party"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.lansstyrelsen.se/sodermanland/om-oss/nyheter-och-press/nyheter---sodermanland/2019-12-06-beatrice-ask-ny-landshovding-i-sodermanlands-lan.html",
+          "title": "Beatrice Ask ny landshövding i Södermanlands län {{!}} Länsstyrelsen Södermanland",
+          "website": "www.lansstyrelsen.se",
+          "language": "sv",
+          "access-date": "2020-01-04",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ask was born in Sveg, Jämtland County.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sveg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jämtland County"
+                }
+              ]
+            },
+            {
+              "text": "She earned a high school diploma in Akron, Ohio, United States, in 1974, and finished her upper secondary school in Sweden in 1976.",
+              "links": [
+                {
+                  "text": "high school diploma",
+                  "type": "internal",
+                  "page": "high school diploma"
+                },
+                {
+                  "type": "internal",
+                  "page": "Akron, Ohio"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                },
+                {
+                  "text": "upper secondary school",
+                  "type": "internal",
+                  "page": "upper secondary school"
+                }
+              ]
+            },
+            {
+              "text": "From 1978 to 1979, she studied international economics at Uppsala University but never graduated.",
+              "links": [
+                {
+                  "text": "international economics",
+                  "type": "internal",
+                  "page": "international economics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uppsala University"
+                }
+              ]
+            },
+            {
+              "text": "Instead, she began working for the Moderate Party and the Moderate Youth League, before being elected the first female chairman of the youth league in 1984.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moderate Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moderate Youth League"
+                }
+              ]
+            },
+            {
+              "text": "She was re-elected in 1986, and served a second term until 1988, when she was elected city commissioner with responsibility for schools (skolborgarråd) in the city council of Stockholm.",
+              "links": [
+                {
+                  "text": "city council",
+                  "type": "internal",
+                  "page": "city council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stockholm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 1991 election, after which Carl Bildt became Prime Minister, Ask was appointed Minister for Schools and Adult Education in the new cabinet.",
+              "links": [
+                {
+                  "text": "1991 election",
+                  "type": "internal",
+                  "page": "1991 Swedish general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Carl Bildt"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Sweden"
+                },
+                {
+                  "text": "Minister for Schools and Adult Education",
+                  "type": "internal",
+                  "page": "Minister for Schools (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "Together with Per Unckel, Minister for Education, she took part in shaking the very foundation of the Swedish education system.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Per Unckel"
+                },
+                {
+                  "text": "Minister for Education",
+                  "type": "internal",
+                  "page": "Minister for Education (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "Among other things, education vouchers were introduced which allowed children to choose independent schools without paying any fees.",
+              "links": [
+                {
+                  "text": "education vouchers",
+                  "type": "internal",
+                  "page": "education vouchers"
+                },
+                {
+                  "text": "independent schools",
+                  "type": "internal",
+                  "page": "independent schools"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since the loss in the 1994 election, Ask has served as party spokesman of several issues.",
+              "links": [
+                {
+                  "text": "1994 election",
+                  "type": "internal",
+                  "page": "1994 Swedish general election"
+                }
+              ]
+            },
+            {
+              "text": "From 1994 to 2006, she was member of the Swedish parliament.",
+              "links": [
+                {
+                  "text": "Swedish parliament",
+                  "type": "internal",
+                  "page": "Parliament of Sweden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2006 election, after which Fredrik Reinfeldt became Prime Minister, Ask was appointed Minister for Justice in the new cabinet.",
+              "links": [
+                {
+                  "text": "2006 election",
+                  "type": "internal",
+                  "page": "2006 Swedish general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fredrik Reinfeldt"
+                },
+                {
+                  "text": "Minister for Justice",
+                  "type": "internal",
+                  "page": "Minister for Justice (Sweden)"
+                },
+                {
+                  "text": "new cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of Fredrik Reinfeldt"
+                }
+              ]
+            },
+            {
+              "text": "Historically, she is one of very few non-jurists to hold the post of Minister for Justice in Sweden.",
+              "links": [
+                {
+                  "text": "jurists",
+                  "type": "internal",
+                  "page": "jurist"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has been criticized by newspapers and fellow politicians in her role as a Minister of Justice, most notably for her part in the change in legislation regulating the National Defence Radio Establishment, as well as her proposal to send lavender-colored envelopes to suspected purchasers of sexual acts, with the head of the Swedish Bar Association, Anne Ramberg, calling the latter \"an unacceptable view of human beings. It is a return to medieval times\".",
+              "links": [
+                {
+                  "text": "National Defence Radio Establishment",
+                  "type": "internal",
+                  "page": "National Defence Radio Establishment (Sweden)",
+                  "anchor": "Change in legislation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Swedish Bar Association"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anne Ramberg"
+                }
+              ]
+            },
+            {
+              "text": "After the news of the Swedish police controlling the citizenships of fare evaders in the Stockholm subway, Ask supported the REVA project and continuing in-country foreigner checks.",
+              "links": [
+                {
+                  "text": "in-country foreigner checks",
+                  "type": "internal",
+                  "page": "Schengen Area",
+                  "anchor": "Internal checks"
+                }
+              ]
+            },
+            {
+              "text": "An open letter to the minister describing the more recent public uproar has received worldwide attention, and was carried in the New York Times, written in opposition of police actions in Stockholm."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2014, she shared a link on Facebook to a satirical website article about marijuana killing 37 people in the US following the legalization in the state of Colorado, and tied it to her anti-drug stand as a youth politician.",
+              "links": [
+                {
+                  "text": "legalization in the state of Colorado",
+                  "type": "internal",
+                  "page": "Drug policy of Colorado",
+                  "anchor": "Cannabis"
+                }
+              ]
+            },
+            {
+              "text": "Her post was ridiculed and criticized after it spread on social media."
+            },
+            {
+              "text": "Her press secretary later told the Aftonbladet newspaper that the minister had all the time been aware that the article was satirical."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the end of her time in office as Minister for Justice, she was the fourth longest-serving person to the hold the office out of 41 individuals.",
+              "links": [
+                {
+                  "text": "Minister for Justice",
+                  "type": "internal",
+                  "page": "Minister for Justice (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "She was second deputy leader of the Moderate Party from 2009 to 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moderate Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.nytimes.com/2013/04/21/opinion/sunday/swedens-closet-racists.html?pagewanted=2&_r=1&ref=opinion",
+          "title": "Opinion &#124; Sweden's Closet Racists",
+          "newspaper": "The New York Times",
+          "date": "20 April 2013",
+          "last1": "Khemiri",
+          "first1": "Jonas Hassen",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.huffingtonpost.com/2014/01/07/sweden-marijuana-spoof_n_4555701.html",
+          "title": "Sweden's Justice Minister Beatrice Ask Ridiculed Over Spoof Marijuana Article",
+          "date": "7 January 2014",
+          "accessdate": "12 December 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.sweden.gov.se/sb/d/7567/a/70461",
+          "title": "Beatrice Ask - CV",
+          "accessdate": "17 December 2008",
+          "publisher": "Government Offices of Sweden",
+          "date": "24 January 2008",
+          "archiveurl": "https://web.archive.org/web/20081202053828/http://www.sweden.gov.se/sb/d/7567/a/70461",
+          "archivedate": "2 December 2008",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.thelocal.se/page/view/hitler-furious-at-swedish-ministers-satire-mishap",
+          "title": "'Hitler furious' at Swedish minister's satire mishap",
+          "accessdate": "7 January 2014",
+          "publisher": "Sweden's News in English",
+          "date": "7 January 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ask was formerly in a relationship with Moderate Party politician Christer G. Wennerholm, with whom she has one child.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Christer G. Wennerholm"
+                }
+              ]
+            },
+            {
+              "text": "She has a second child from another relationship."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "sv"
+          ],
+          "template": "in lang"
+        },
+        {
+          "list": [
+            "sv"
+          ],
+          "template": "in lang"
+        },
+        {
+          "list": [
+            "sv"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Gunnar Hökmark",
+          "title": "Chairman of the Moderate Youth League",
+          "years": "1984–1988",
+          "after": "Ulf Kristersson",
+          "template": "succession box"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Göran Persson",
+          "title": "Minister for Schools",
+          "years": "1991–1994",
+          "after": "Ylva Johansson",
+          "template": "succession box"
+        },
+        {
+          "before": "Thomas Bodström",
+          "title": "Minister for Justice",
+          "years": "2006–2014",
+          "after": "Morgan Johansson",
+          "template": "succession box"
+        },
+        {
+          "before": "Krister Örnfjäder",
+          "title": "Alderman of the House",
+          "years": "2018–2019",
+          "after": "Tuve Skånberg",
+          "template": "succession box"
+        },
+        {
+          "before": "Liselott Hagberg",
+          "title": "Governor of Södermanland County",
+          "years": "2020–",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "cabinet of fredrik reinfeldt"
+        },
+        {
+          "template": "moderate mp 2014–2018"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Beatrice Ask at the Government Offices of Sweden",
+            "links": [
+              {
+                "text": "Beatrice Ask",
+                "type": "external",
+                "site": "http://www.sweden.gov.se/sb/d/7567"
+              },
+              {
+                "text": "Government Offices of Sweden",
+                "type": "internal",
+                "page": "Government of Sweden"
+              }
+            ]
+          },
+          {
+            "text": "Beatrice Ask at the Parliament of Sweden",
+            "links": [
+              {
+                "text": "Beatrice Ask",
+                "type": "external",
+                "site": "http://www.riksdagen.se/webbnav/index.aspx?nid=1111&iid=0262017901513"
+              },
+              {
+                "type": "internal",
+                "page": "Parliament of Sweden"
+              }
+            ]
+          },
+          {
+            "text": "Beatrice Ask at the Moderate Party",
+            "links": [
+              {
+                "text": "Beatrice Ask",
+                "type": "external",
+                "site": "https://web.archive.org/web/20051220231851/http://www.beatriceask.moderat.se/"
+              },
+              {
+                "type": "internal",
+                "page": "Moderate Party"
+              }
+            ]
+          },
+          {
+            "text": "Beatrice Ask",
+            "links": [
+              {
+                "text": "Beatrice Ask",
+                "type": "external",
+                "site": "http://beatriceask.se/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

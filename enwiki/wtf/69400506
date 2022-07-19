@@ -1,0 +1,282 @@
+{
+  "title": "Khashayar Farmanbar",
+  "pageID": 69400506,
+  "categories": [
+    "21st-century Swedish engineers",
+    "Living people",
+    "1976 births",
+    "Swedish Ministers for Energy",
+    "Politicians from Tehran",
+    "Iranian expatriates in Sweden"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Khashayar Carl Farmanbar (born 21 September 1976) is a Swedish entrepreneur and politician for the Social Democratic Party.",
+              "links": [
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Khashayar Carl Farmanbar"
+                ]
+              }
+            },
+            {
+              "text": "Since 30 November 2021 he is the Minister for Energy and Minister for Digital Development in Magdalena Andersson's Cabinet, replacing Anders Ygeman.",
+              "links": [
+                {
+                  "text": "Minister for Energy",
+                  "type": "internal",
+                  "page": "Minister for Energy (Sweden)"
+                },
+                {
+                  "text": "Minister for Digital Development",
+                  "type": "internal",
+                  "page": "Minister for Digital Development (Sweden)"
+                },
+                {
+                  "text": "Magdalena Andersson's Cabinet",
+                  "type": "internal",
+                  "page": "Andersson Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anders Ygeman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Farmanbar was born in Teheran but lived in Boden after coming to Sweden at twelve years of age.",
+              "links": [
+                {
+                  "text": "Boden",
+                  "type": "internal",
+                  "page": "Boden, Sweden"
+                }
+              ]
+            },
+            {
+              "text": "He studied computer engineering and marketing at Luleå University of Technology and has worked in the IT sector.",
+              "links": [
+                {
+                  "text": "computer engineering",
+                  "type": "internal",
+                  "page": "computer engineering"
+                },
+                {
+                  "text": "marketing",
+                  "type": "internal",
+                  "page": "marketing"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luleå University of Technology"
+                }
+              ]
+            },
+            {
+              "text": "Before becoming minister, he was oppositional municipal commissioner in Nacka, where has lived since 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nacka"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1976",
+          "month": "09",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Khashayar Farmanbar"
+          },
+          "office": {
+            "text": "Minister for Energy\nMinister for Digital Development",
+            "links": [
+              {
+                "text": "Minister for Energy",
+                "type": "internal",
+                "page": "Minister for Energy (Sweden)"
+              },
+              {
+                "text": "Minister for Digital Development",
+                "type": "internal",
+                "page": "Minister for Digital Development (Sweden)"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Khashayar Carl Farmanbar"
+          },
+          "birth_date": {
+            "text": "September 21, 1976"
+          },
+          "birth_place": {
+            "text": "Teheran, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teheran"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Tora Maria Rebecka Hansjons"
+          },
+          "predecessor": {
+            "text": "Anders Ygeman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anders Ygeman"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "30 November 2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thelocal.se/20211130/key-points-everything-you-need-to-know-about-swedens-new-government/",
+          "title": "KEY POINTS: Everything you need to know about Sweden’s new government",
+          "date": "30 November 2021",
+          "accessdate": "30 November 2021",
+          "agency": "The Local",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.svt.se/nyheter/inrikes/anderssons-overraskning-damberg-anderssons-eftertradare",
+          "title": "Här är alla ministrar i Anderssons regering",
+          "first1": "SVT",
+          "last1": "Nyheter",
+          "first2": "Jonas",
+          "last2": "Ekman",
+          "first3": "Josefin",
+          "last3": "Silverberg",
+          "date": "30 November 2021",
+          "accessdate": "30 November 2021",
+          "via": "SVT Nyheter",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Landén",
+          "first": "Markus",
+          "date": "2014-08-23",
+          "title": "Utrikesfödda underrepresenterade i lokalpolitiken",
+          "language": "sv",
+          "work": "Sveriges Radio",
+          "url": "https://sverigesradio.se/artikel/5945301",
+          "access-date": "2021-12-08",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Flores",
+          "first": "Juan",
+          "last2": "Tanaka",
+          "first2": "Sofia",
+          "date": "30 November 2021",
+          "title": "Här är alla ministrarna i Magdalena Anderssons regering",
+          "work": "Dagens Nyheter",
+          "url": "https://www.dn.se/sverige/har-ar-alla-ministrarna-i-magdalena-anderssons-regering/",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2013-06-04",
+          "title": "Om Khashayar",
+          "url": "https://farmanbar.wordpress.com/about/",
+          "access-date": "2021-12-01",
+          "website": "Khashayar #Nacka #Sframtid",
+          "language": "sv-SE",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "December 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sweden-politician-stub"
+        }
+      ]
+    }
+  ]
+}

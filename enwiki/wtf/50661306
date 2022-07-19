@@ -1,0 +1,1114 @@
+{
+  "title": "Ann Linde",
+  "pageID": 50661306,
+  "categories": [
+    "Living people",
+    "1961 births",
+    "Women government ministers of Sweden",
+    "Swedish Ministers for Trade",
+    "Swedish Ministers for Foreign Affairs",
+    "Female foreign ministers",
+    "Swedish Social Democratic Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ann Christin Linde (born 4 December 1961) is a Swedish politician of the Social Democratic Party who has been serving as Minister for Foreign Affairs in the government of Prime Minister Stefan Löfven and Magdalena Andersson since 10 September 2019.",
+              "links": [
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Party"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Löfven II Cabinet"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stefan Löfven"
+                },
+                {
+                  "type": "internal",
+                  "page": "Magdalena Andersson"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ann Christin Linde"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Linde previously served as Minister for Foreign Trade and Minister for Nordic Cooperation.",
+              "links": [
+                {
+                  "text": "Minister for Foreign Trade",
+                  "type": "internal",
+                  "page": "Minister for Foreign Trade (Sweden)"
+                },
+                {
+                  "text": "Minister for Nordic Cooperation",
+                  "type": "internal",
+                  "page": "Minister for Nordic Cooperation (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "Before that she was the Minister for European Union Affairs and Trade for Löfven Cabinet since 25 May 2016.",
+              "links": [
+                {
+                  "text": "Minister for European Union Affairs",
+                  "type": "internal",
+                  "page": "Minister for EU Affairs (Sweden)"
+                },
+                {
+                  "text": "Löfven Cabinet",
+                  "type": "internal",
+                  "page": "Löfven I Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Anna Lindh"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1961",
+          "month": "12",
+          "day": "4",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ann Linde"
+          },
+          "image": {
+            "text": "Annlindecropped.jpg"
+          },
+          "caption": {
+            "text": "Ann Linde in September 2016"
+          },
+          "office": {
+            "text": "Minister for Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister for Foreign Affairs",
+                "type": "internal",
+                "page": "Minister for Foreign Affairs (Sweden)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 September 2019"
+          },
+          "primeminister": {
+            "text": "Stefan Löfven Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              },
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Margot Wallström",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Margot Wallström"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chairperson-in-Office of the Organization for Security and Co-operation in Europe",
+            "links": [
+              {
+                "text": "Chairperson-in-Office of the Organization for Security and Co-operation in Europe",
+                "type": "internal",
+                "page": "Organization for Security and Co-operation in Europe"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 January 2021"
+          },
+          "term_end1": {
+            "text": "1 January 2022"
+          },
+          "predecessor1": {
+            "text": "Edi Rama",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edi Rama"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Zbigniew Rau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zbigniew Rau"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Nordic Cooperation",
+            "links": [
+              {
+                "text": "Minister for Nordic Cooperation",
+                "type": "internal",
+                "page": "Minister for Nordic Cooperation (Sweden)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "21 January 2019"
+          },
+          "term_end2": {
+            "text": "10 September 2019"
+          },
+          "monarch2": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Margot Wallström"
+          },
+          "successor2": {
+            "text": "Anna Hallberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anna Hallberg"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Foreign Trade",
+            "links": [
+              {
+                "text": "Minister for Foreign Trade",
+                "type": "internal",
+                "page": "Minister for Foreign Trade (Sweden)"
+              }
+            ]
+          },
+          "monarch3": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "25 May 2016"
+          },
+          "term_end3": {
+            "text": "10 September 2019"
+          },
+          "predecessor3": {
+            "text": "Mikael Damberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mikael Damberg"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Anna Hallberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anna Hallberg"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for EU Affairs",
+            "links": [
+              {
+                "text": "Minister for EU Affairs",
+                "type": "internal",
+                "page": "Minister for EU Affairs (Sweden)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "25 May 2016"
+          },
+          "term_end4": {
+            "text": "21 January 2019"
+          },
+          "monarch4": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Birgitta Ohlsson (2010–14)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Birgitta Ohlsson"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Hans Dahlgren",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hans Dahlgren"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Ann Christin Linde"
+          },
+          "birth_date": {
+            "text": "December 4, 1961"
+          },
+          "birth_place": {
+            "text": "Helsingborg, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Helsingborg"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Mats Eriksson (1989–present)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "nationality": {
+            "text": "Swedish"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "party": {
+            "text": "Social Democratic Party",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.channelnewsasia.com/news/world/swedish-pm-appoints-trade-minister-linde-as-new-foreign-minister-11892060",
+          "title": "Swedish PM appoints trade minister Linde as new foreign minister",
+          "website": "CNA",
+          "accessdate": "10 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.dn.se/nyheter/politik/ann-linde-s-ar-ny-eu-och-handelsminister/",
+          "title": "Ann Linde, S, är ny EU- och handelsminister",
+          "date": "25 May 2016",
+          "work": "Dagens Nyheter",
+          "accessdate": "28 May 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Throughout the 1990s, Linde worked in government offices, including the Ministry Secretary of Civil Affairs and the political advisor of the EU and Trade Minister Mats Hellström of Foreign Affairs and of Defense Minister Björn von Sydow on Ministry of Defence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Civil Affairs"
+                },
+                {
+                  "text": "Trade Minister",
+                  "type": "internal",
+                  "page": "Minister for Foreign Trade (Sweden)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mats Hellström"
+                },
+                {
+                  "type": "internal",
+                  "page": "Björn von Sydow"
+                },
+                {
+                  "text": "Ministry of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Sweden)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Linde worked as international secretary at the Social Democratic Party in Sweden from 2000 to 2013."
+            },
+            {
+              "text": "From 2013 to 2014, she was the head of the International Department of the European Socialist Party (PES) in Brussels, an umbrella organization for all social-democratic parties in the EU.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Socialist Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2014 until 2016, Linde served as State Secretary for the Ministry of Justice In this capacity, she worked with Interior Minister Anders Ygeman.",
+              "links": [
+                {
+                  "text": "Ministry of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Sweden)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Interior Minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anders Ygeman"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2022",
+          "template": "fact"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://vlt.se/nyheter/omvarlden/1.3906995-statssekreterare-blir-eu-minister",
+          "title": "Statssekreterare blir EU-minister",
+          "work": "VLT",
+          "accessdate": "28 May 2016",
+          "archive-url": "https://web.archive.org/web/20160529002550/http://vlt.se/nyheter/omvarlden/1.3906995-statssekreterare-blir-eu-minister",
+          "archive-date": "29 May 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Minister for Foreign Affairs",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Linde was appointed minister for foreign affairs following Margot Wallström’s resignation on 10 September 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Margot Wallström"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Under Linde's leadership, Sweden's government decided in March 2020 to send a rapid reaction force of up to 150 troops and helicopters to Mali to join French-led Takuba task force in fighting militants linked to al Qaeda and Islamic State in the Sahel region of North Africa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mali"
+                },
+                {
+                  "text": "Takuba task force",
+                  "type": "internal",
+                  "page": "Operation Barkhane"
+                },
+                {
+                  "text": "al Qaeda",
+                  "type": "internal",
+                  "page": "al Qaeda"
+                },
+                {
+                  "text": "Islamic State",
+                  "type": "internal",
+                  "page": "Islamic State of Iraq and the Levant"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sahel"
+                }
+              ]
+            },
+            {
+              "text": "By early 2022, Linde announced that Sweden would withdraw troops from a European special forces mission to the Sahel region and will review its participation in the Takuba task force over the presence of private Russian military contractors."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When Sweden took over the rotating Chair of the Organization for Security and Co-operation in Europe (OSCE) in 2021, Linde became the organization's Chairperson-in-Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Organization for Security and Co-operation in Europe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 1 May 2022, she expressed that it was \"almost certain\" that Finland would join NATO.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Finland"
+                },
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                }
+              ]
+            },
+            {
+              "text": "While most current NATO members responded positively to the application, Turkish president Recep Tayyip Erdoğan voiced his opposition, accusing both Sweden and Finland of tolerating Kurdish militant groups PPK and the YPG, which Turkey classifies as terrorist organizations, and followers of Fethullah Gülen, whom Turkey accuses of orchestrating a failed 2016 Turkish coup d'état attempt.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Recep Tayyip Erdoğan"
+                },
+                {
+                  "text": "Kurdish",
+                  "type": "internal",
+                  "page": "Kurds"
+                },
+                {
+                  "text": "PPK",
+                  "type": "internal",
+                  "page": "Kurdistan Workers' Party"
+                },
+                {
+                  "text": "YPG",
+                  "type": "internal",
+                  "page": "People's Defense Units"
+                },
+                {
+                  "type": "internal",
+                  "page": "Turkey"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fethullah Gülen"
+                },
+                {
+                  "text": "2016 Turkish coup d'état attempt",
+                  "type": "internal",
+                  "page": "2016 Turkish coup d'état attempt"
+                }
+              ]
+            },
+            {
+              "text": "On 20 May, Linde pushed back against Erdoğan's claim they support PKK, calling it \"disinformation\", and pointing out Sweden listed PKK as a terrorist organization in 1984, while the EU followed suit in 2002."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Secretary_Blinken_Meets_with_Swedish_Foreign_Minister_Linde_(52049038672).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Swedish_Foreign_Minister_Linde_(52049038672).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_with_Swedish_Foreign_Minister_Linde_(52049038672).jpg",
+          "caption": "Linde with U.S. Secretary of State Antony Blinken in May 2022",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.abcnyheter.no/nyheter/verden/2022/05/01/195843016/sveriges-utenriksminister-tror-finland-kommer-til-a-bli-med-i-nato",
+          "title": "Sveriges utenriksminister tror Finland kommer til å bli med i NATO",
+          "publisher": "ABC Nyheter",
+          "date": "1 May 2022",
+          "access-date": "2 May 2022",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "13 May 2022",
+          "title": "Erdogan says Turkey not supportive of Finland, Sweden joining NATO",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/erdogan-says-turkey-not-positive-finland-sweden-joining-nato-2022-05-13/",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Erdogan says Swedish, Finnish delegations should not bother coming to Turkey",
+          "url": "https://www.reuters.com/world/middle-east/erdogan-says-swedish-finnish-delegations-should-not-bother-coming-turkey-2022-05-16/",
+          "work": "Reuters",
+          "date": "16 May 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "20 May 2022",
+          "title": "Sweden blasts Turkish 'disinformation' as Erdoğan delays NATO accession",
+          "url": "https://www.politico.eu/article/sweden-turkey-nato-erdogan-disinformation/",
+          "website": "Politico",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political positions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "When a parliamentary majority in favour of Sweden expressing the option of joining NATO emerged in 2020, Linde rejected such plans and reiterated her conviction that the country was best served by independence from alliances.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Controversies",
+      "depth": 0
+    },
+    {
+      "title": "Headscarf controversy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Linde attracted criticism for wearing a headscarf during a visit by a government delegation to Tehran in 2017 when she met president Hassan Rouhani.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hassan Rouhani"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2017-02-13",
+          "title": "Sweden defends officials wearing headscarves in Iran",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-europe-38956212",
+          "access-date": "2020-11-19",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Transport Agency security breaches",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Being State Secretary at the Ministry of Justice, Linde was one of the first politicians in the Government Offices who received information from the Security Department that there was a potential leak of sensitive information from the Transport Agency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Security Department"
+                },
+                {
+                  "text": "Transport Agency",
+                  "type": "internal",
+                  "page": "Swedish Transport Agency"
+                }
+              ]
+            },
+            {
+              "text": "The agency had outsourced parts of its IT services, including a data base with information about holders of driving licences, as well as about the Swedish road infrastructure."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Roger Haddad: Ann Linde kände till Transportstyrelsens IT-brister 2015",
+          "url": "https://www.svt.se/nyheter/inrikes/roger-haddad-ann-linde-kande-till-transportstyrelsens-it-brister-2015",
+          "work": "SVT Nyheter",
+          "agency": "Sveriges Television",
+          "date": "8 August 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Islamic revolution celebration",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "As minister for foreign trade, Linde took part in the celebration of the 40th anniversary of the Islamic Revolution in Iran.",
+              "links": [
+                {
+                  "text": "Islamic Revolution in Iran",
+                  "type": "internal",
+                  "page": "Iranian Revolution"
+                }
+              ]
+            },
+            {
+              "text": "Linde's participation was criticized by Iranian community organizations in Sweden, who argued that Linde's participation in the celebration was an insult to all Iranians living in Sweden who had to flee the Islamic regime.",
+              "links": [
+                {
+                  "text": "community organizations in Sweden",
+                  "type": "internal",
+                  "page": "Swedish Iranians"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2019-02-16",
+          "title": "Ann Lindes deltagande i firande av den \"Islamiska\" revolutionen är ett hån mot iranier",
+          "url": "https://www.fffi.se/2019/02/16/ann-lindes-deltagande-i-firande-av-den-islamiska-revolutionen-ar-ett-han-mot-iranier/",
+          "access-date": "2020-09-05",
+          "website": "FFFI",
+          "language": "sv-SE",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "European Council on Foreign Relations (ECFR), Member",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Council on Foreign Relations"
+              }
+            ]
+          },
+          {
+            "text": "Anna Lindh Memorial Fund, Member of the Board of Directors (since 2016)"
+          },
+          {
+            "text": "Olof Palme International Center, Member of the Board (2001–2013)"
+          },
+          {
+            "text": "Joint Committee of the Nordic Social Democratic Labour Movement (SAMAK), Member of the Working Group on Foreign Affairs and Security Policy (2001–2013)",
+            "links": [
+              {
+                "text": "Joint Committee of the Nordic Social Democratic Labour Movement",
+                "type": "internal",
+                "page": "SAMAK"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0
+    },
+    {
+      "title": "Recognition",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "2011 – \"Friend of Palestine of the Year\", awarded by a Palestinian community organization in Sweden (Palestinska föreningen)",
+            "formatting": {
+              "italic": [
+                "Palestinska föreningen"
+              ]
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "date": "2011-11-22",
+          "title": "Prisad Palestinavän",
+          "url": "https://www.dn.se/nyheter/sverige/prisad-palestinavan/",
+          "access-date": "2020-09-05",
+          "newspaper": "Dagens Nyheter",
+          "language": "sv",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Foreign honours",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "🇪🇸 Grand Cross of the Order of Isabella the Catholic (16 November 2021)",
+            "links": [
+              {
+                "text": "🇪🇸",
+                "type": "internal",
+                "page": "spain"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Isabella the Catholic"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.boe.es/boe/dias/2021/11/17/pdfs/BOE-A-2021-18860.pdf",
+          "title": "Royal Decree 1012/2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since 1989, Linde has been married to Mats Eriksson."
+            },
+            {
+              "text": "She has two children."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.folkbladet.se/nyheter/hon-blir-arets-1a-majtalare-i-finspang-2811606.aspx",
+          "title": "The 1st Politician of the Year",
+          "accessdate": "30 December 2017",
+          "archive-url": "https://web.archive.org/web/20170807235823/http://www.folkbladet.se/nyheter/hon-blir-arets-1a-majtalare-i-finspang-2811606.aspx",
+          "archive-date": "7 August 2017",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Ann Linde"
+          ],
+          "template": "commons category-inline"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "last": "Birgitta Ohlsson",
+          "template": "s-vac"
+        },
+        {
+          "title": "Minister for European Union Affairs",
+          "years": "2016–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Hans Dahlgren",
+          "template": "s-aft"
+        },
+        {
+          "before": "Mikael Damberg",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Foreign Trade",
+          "years": "2016–2019",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "after": "Anna Hallberg",
+          "template": "s-aft"
+        },
+        {
+          "rows": "2",
+          "before": "Margot Wallström",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Nordic Cooperation",
+          "years": "2019",
+          "template": "s-ttl"
+        },
+        {
+          "title": "Minister for Foreign Affairs",
+          "years": "2019–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "foreign ministers of the european union member states"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

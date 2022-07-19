@@ -1,0 +1,116 @@
+{
+  "title": "Berit Högman",
+  "pageID": 7374527,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Swedish Social Democratic Party politicians",
+    "Women members of the Riksdag",
+    "Members of the Riksdag 2002–2006",
+    "21st-century Swedish women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Berit Högman, born 1958, is a Swedish social democratic politician who has been a member of the Riksdag since 2002.",
+              "links": [
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "text": "social democratic",
+                  "type": "internal",
+                  "page": "Swedish Social Democratic Party"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "member",
+                  "type": "internal",
+                  "page": "List of members of the Swedish Riksdag, 2006-2010"
+                },
+                {
+                  "text": "Riksdag",
+                  "type": "internal",
+                  "page": "Parliament of Sweden"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Berit Högman"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Socialdemokrat.Berit_Hogman_1c301_5942.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Socialdemokrat.Berit_Hogman_1c301_5942.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Socialdemokrat.Berit_Hogman_1c301_5942.jpg",
+          "caption": "Berit Högman (2011)",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "social democratic mp 2010–2014"
+        },
+        {
+          "template": "social democratic mp 2014–2018"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sweden-socialdemocratic-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Berit Högman at the Riksdag website",
+            "links": [
+              {
+                "text": "Berit Högman",
+                "type": "external",
+                "site": "http://www.riksdagen.se/webbnav/index.aspx?nid=1811&iid=0552248175312"
+              },
+              {
+                "text": "Riksdag",
+                "type": "internal",
+                "page": "Parliament of Sweden"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

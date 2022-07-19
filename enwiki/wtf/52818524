@@ -1,0 +1,258 @@
+{
+  "title": "Göran Enander",
+  "pageID": 52818524,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Members of the Royal Swedish Academy of Agriculture and Forestry",
+    "Governors of Uppsala County"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Göran Enander, born in Gällstad, Älvsborg County on 1 September 1955, is the County Governor (landshövding) of Uppsala County, Sweden, since 1 November 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gällstad"
+                },
+                {
+                  "text": "Älvsborg County",
+                  "type": "internal",
+                  "page": "Älvsborg County"
+                },
+                {
+                  "text": "County Governor",
+                  "type": "internal",
+                  "page": "County Administrative Boards of Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uppsala County"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Göran Enander"
+                ],
+                "italic": [
+                  "landshövding"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Enander was Secretary of State at the Ministry of the Environment and Energy 2014-2015 and has previously had several executive positions, e.g. at the Swedish Research Council (Vetenskapsrådet) and the Forestry Council of Sweden (Skogsstyrelsen).",
+              "links": [
+                {
+                  "text": "Secretary of State",
+                  "type": "internal",
+                  "page": "State Secretary (Sweden)"
+                },
+                {
+                  "text": "Ministry of the Environment and Energy",
+                  "type": "internal",
+                  "page": "Ministry of the Environment and Energy (Sweden)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Swedish Research Council"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Vetenskapsrådet",
+                  "Skogsstyrelsen"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 1998 and 2000, Enander was chairman of the Swedish Society for Nature Conservation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Swedish Society for Nature Conservation"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Royal Swedish Academy of Agriculture and Forestry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Swedish Academy of Agriculture and Forestry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1955",
+          "month": "9",
+          "day": "01",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Göran Enander"
+          },
+          "image": {
+            "text": "Göran Enander.jpg"
+          },
+          "birth_date": {
+            "text": "September 1, 1955"
+          },
+          "birth_place": {
+            "text": "Gällstad, Älvsborg County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gällstad"
+              },
+              {
+                "text": "Älvsborg County",
+                "type": "internal",
+                "page": "Älvsborg County"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Uppsala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uppsala"
+              }
+            ]
+          },
+          "office": {
+            "text": "Governor of Uppsala County",
+            "links": [
+              {
+                "text": "Governor of Uppsala County",
+                "type": "internal",
+                "page": "List of Uppsala Governors"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2016",
+            "number": 2016
+          },
+          "predecessor": {
+            "text": "Peter Egardt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Egardt"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Incumbent"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.regeringen.se/pressmeddelanden/2016/10/goran-enander-blir-ny-landshovding-i-uppsala-lan/",
+          "title": "Göran Enander blir ny landshövding i Uppsala län",
+          "publisher": "Government of Sweden",
+          "language": "sv",
+          "date": "13 October 2016",
+          "accessdate": "9 January 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.regeringen.se/pressmeddelanden/2014/10/ny-statssekreterare-i-miljodepartemtentet/",
+          "title": "Ny statssekreterare i Miljödepartementet",
+          "publisher": "Government of Sweden",
+          "language": "sv",
+          "date": "4 October 2014",
+          "accessdate": "9 January 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.dn.se/arkiv/familj/personnytt-ny-planeringschef-pa-miljodepartementet/",
+          "title": "Ny planeringschef på miljödepartementet",
+          "newspaper": "Dagens Nyheter",
+          "date": "4 February 2001",
+          "accessdate": "9 January 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.ksla.se/ledamotsregister/e/page/3/",
+          "title": "Ledamotsregister KSLA",
+          "publisher": "Royal Swedish Academy of Agriculture and Forestry",
+          "accessdate": "9 January 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "List of governors of Uppsala County",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "List of governors of Uppsala County"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "before": "Peter Egardt",
+          "title": "Governor of Uppsala County",
+          "years": "2016-present",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sweden-bio-stub"
+        }
+      ]
+    }
+  ]
+}

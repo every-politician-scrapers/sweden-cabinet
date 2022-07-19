@@ -1,0 +1,514 @@
+{
+  "title": "Maria Arnholm",
+  "pageID": 38291018,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Stockholm University alumni",
+    "Liberals (Sweden) politicians",
+    "Swedish Ministers for Gender Equality",
+    "Women government ministers of Sweden",
+    "21st-century Swedish women politicians",
+    "People from Partille Municipality"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maria Elisabet Wallgren Arnholm (born 16 March 1958) is a Swedish politician who has served as Governor of Kronoberg County since 1 February 2020.",
+              "links": [
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Governor of Kronoberg County",
+                  "type": "internal",
+                  "page": "List of governors of Kronoberg County"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maria Elisabet Wallgren Arnholm"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Arnholm served as Minister for Gender Equality and as deputy Minister for Education in the Swedish Government from 2013 to 2014 and as Party Secretary of the Liberals from October 2014 to June 2019.",
+              "links": [
+                {
+                  "text": "Minister for Gender Equality",
+                  "type": "internal",
+                  "page": "Ministry of Integration and Gender Equality (Sweden)"
+                },
+                {
+                  "text": "Minister for Education",
+                  "type": "internal",
+                  "page": "Minister for Education (Sweden)"
+                },
+                {
+                  "text": "Swedish Government",
+                  "type": "internal",
+                  "page": "Government of Sweden"
+                },
+                {
+                  "text": "Party Secretary of the Liberals",
+                  "type": "internal",
+                  "page": "Liberals (Sweden)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1958",
+          "month": "3",
+          "day": "16",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Maria Arnholm"
+          },
+          "image": {
+            "text": "Maria Arnholm 2013.jpg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "birth_date": {
+            "text": "March 16, 1958"
+          },
+          "birth_place": {
+            "text": "Partille, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Partille"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "office": {
+            "text": "Governor of Kronoberg County",
+            "links": [
+              {
+                "text": "Governor of Kronoberg County",
+                "type": "internal",
+                "page": "List of governors of Kronoberg County"
+              }
+            ]
+          },
+          "appointed": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 February 2020"
+          },
+          "predecessor": {
+            "text": "Ingrid Burman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ingrid Burman"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Secretary of the Liberals",
+            "links": [
+              {
+                "text": "Secretary of the Liberals",
+                "type": "internal",
+                "page": "Liberals (Sweden)"
+              }
+            ]
+          },
+          "1blankname2": {
+            "text": "Party leader"
+          },
+          "1namedata2": {
+            "text": "Jan Björklund",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jan Björklund"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "3 October 2014"
+          },
+          "term_end2": {
+            "text": "28 June 2019"
+          },
+          "predecessor2": {
+            "text": "Nina Larsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nina Larsson"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Juno Blom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juno Blom"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Riksdag",
+            "links": [
+              {
+                "text": "Member of the Riksdag",
+                "type": "internal",
+                "page": "Riksdag"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "3 October 2014"
+          },
+          "term_end3": {
+            "text": "31 January 2020"
+          },
+          "constituency3": {
+            "text": "Stockholm County",
+            "links": [
+              {
+                "text": "Stockholm County",
+                "type": "internal",
+                "page": "Stockholm County (Riksdag constituency)"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for Gender Equality",
+            "links": [
+              {
+                "text": "Minister for Gender Equality",
+                "type": "internal",
+                "page": "Minister for Gender Equality (Sweden)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "21 January 2013"
+          },
+          "term_end4": {
+            "text": "3 October 2014"
+          },
+          "primeminister4": {
+            "text": "Fredrik Reinfeldt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fredrik Reinfeldt"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Nyamko Sabuni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nyamko Sabuni"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Åsa Regnér",
+            "links": [
+              {
+                "text": "Åsa Regnér",
+                "type": "internal",
+                "page": "Åsa Regnér"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberals",
+            "links": [
+              {
+                "text": "Liberals",
+                "type": "internal",
+                "page": "Liberals (Sweden)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Stockholm University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stockholm University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Education and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arnholm is an educated jurist, and studied at Stockholm University from 1978 to 1983.",
+              "links": [
+                {
+                  "text": "jurist",
+                  "type": "internal",
+                  "page": "jurist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stockholm University"
+                }
+              ]
+            },
+            {
+              "text": "Arnholm was chief of staff to Bengt Westerberg during his tenure as Minister for Health and Social Affairs from 1991 to 1994.",
+              "links": [
+                {
+                  "text": "chief of staff",
+                  "type": "internal",
+                  "page": "chief of staff"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bengt Westerberg"
+                },
+                {
+                  "text": "Minister for Health and Social Affairs",
+                  "type": "internal",
+                  "page": "Minister for Health and Social Affairs (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "She went on to be communications director for Coop Norden AB from 2002 to 2006, and was CEO for PR agency Springtime from 2006 to 2012.",
+              "links": [
+                {
+                  "text": "communications director",
+                  "type": "internal",
+                  "page": "Director of communications"
+                },
+                {
+                  "text": "Coop Norden AB",
+                  "type": "internal",
+                  "page": "Coop Norden"
+                },
+                {
+                  "type": "internal",
+                  "page": "CEO"
+                },
+                {
+                  "text": "PR agency",
+                  "type": "internal",
+                  "page": "Public relations"
+                },
+                {
+                  "text": "Springtime",
+                  "type": "internal",
+                  "page": "Springtime (company)"
+                }
+              ]
+            },
+            {
+              "text": "Arnholm was appointed to become Nyamko Sabuni's State Secretary on 25 May 2012 and served in that position until 21 January 2013.",
+              "links": [
+                {
+                  "text": "State Secretary",
+                  "type": "internal",
+                  "page": "State Secretary (Sweden)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the morning of 21 January 2013, Arnholm was appointed Minister for Gender Equality following the sudden resignation of Nyamko Sabuni.",
+              "links": [
+                {
+                  "text": "Minister for Gender Equality",
+                  "type": "internal",
+                  "page": "Minister for Gender Equality (Sweden)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nyamko Sabuni"
+                }
+              ]
+            },
+            {
+              "text": "She also took office as deputy Minister for Education.",
+              "links": [
+                {
+                  "text": "Minister for Education",
+                  "type": "internal",
+                  "page": "Minister for Education (Sweden)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the 2014 defeat, Arnholm was appointed Secretary of the Liberal People's Party, now the Liberals, as the cabinet of Reinfeldt left office on 3 October 2014.",
+              "links": [
+                {
+                  "text": "2014 defeat",
+                  "type": "internal",
+                  "page": "2014 Swedish general election"
+                },
+                {
+                  "text": "Secretary of the Liberal People's Party",
+                  "type": "internal",
+                  "page": "Liberals (Sweden)"
+                },
+                {
+                  "text": "cabinet of Reinfeldt",
+                  "type": "internal",
+                  "page": "Reinfeldt Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "rows": "2",
+          "before": "Nyamko Sabuni",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Gender Equality",
+          "years": "2013–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Åsa Regnér",
+          "template": "s-aft"
+        },
+        {
+          "title": "Deputy Minister for Education",
+          "years": "2013–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Helene Hellmark Knutsson",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Nina Larsson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of the Liberals",
+          "years": "2014–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Juno Blom",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-civ"
+        },
+        {
+          "before": "Ingrid Burman",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Kronoberg County",
+          "years": "2020–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "cabinet of fredrik reinfeldt"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

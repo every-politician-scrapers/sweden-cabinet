@@ -1,0 +1,191 @@
+{
+  "title": "Anders Eka",
+  "pageID": 59678954,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "Uppsala University alumni",
+    "Justices of the Supreme Court of Sweden",
+    "21st-century Swedish judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anders Bror Eka (born 6 September 1961) is a Swedish lawyer.",
+              "links": [
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Anders Bror Eka"
+                ]
+              }
+            },
+            {
+              "text": "Since 2013, he is a Justice of the Supreme Court.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Sweden"
+                }
+              ]
+            },
+            {
+              "text": "In 2018, he was appointed President of the Supreme Court."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Anders Eka graduated in law at Uppsala University in 1987 and did service as a law clerk at District Court in 1987–1990.",
+              "links": [
+                {
+                  "text": "law",
+                  "type": "internal",
+                  "page": "law"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uppsala University"
+                },
+                {
+                  "text": "District Court",
+                  "type": "internal",
+                  "page": "District courts of Sweden"
+                }
+              ]
+            },
+            {
+              "text": "He became a Legal Clerk at Svea Court of Appeal in 1991 and was appointed Associate Judge in 1995.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Svea Court of Appeal"
+                }
+              ]
+            },
+            {
+              "text": "In 1995–1997, Anders Eka worked as a Legal Adviser at the Ministry of Justice and was then Administrative Director in Svea Court of Appeal from 1997 to 2000.",
+              "links": [
+                {
+                  "text": "Ministry of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "Appointed Judge of Appeal at Svea Court of Appeal in 2000, he was an Administrative Director at the Chancellor of Justice's Office in 2000–2003.",
+              "links": [
+                {
+                  "text": "Chancellor of Justice's",
+                  "type": "internal",
+                  "page": "Chancellor of Justice (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "Anders Eka was appointed Senior Judge in Stockholm District Court in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stockholm District Court"
+                }
+              ]
+            },
+            {
+              "text": "In 2004–2008, he worked as Administrative Director and Chief Secreraty to the Working Committee on Constitutional Reform."
+            },
+            {
+              "text": "Eka was appointed Senior Judge of Appeal and Head of Division in Svea Court of Appeal in 2009 and Chief Judge in Stockholm District Court in 2010."
+            },
+            {
+              "text": "In 2013, the Government appointed him Justice of the Supreme Court (Swedish: justitieråd).",
+              "links": [
+                {
+                  "text": "Government",
+                  "type": "internal",
+                  "page": "Government of Sweden"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "justitieråd"
+                ]
+              }
+            },
+            {
+              "text": "In 2018, he was appointed Chairman of the Supreme Court."
+            },
+            {
+              "text": "He took office on 1 September 2018."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Justice of Swedish Supreme Court.",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://hogstadomstolen.se/Justitierad/Anders-Eka/",
+          "title": "Anders Eka",
+          "publisher": "Supreme Court of Sweden",
+          "accessdate": "15 January 2019",
+          "language": "Swedish",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-legal"
+        },
+        {
+          "title": "Chief Judge of the Stockholm District Court",
+          "years": "2010–2013",
+          "before": "Lena Berke",
+          "after": "Stefan Strömberg",
+          "template": "succession box"
+        },
+        {
+          "title": "President of the Supreme Court of Sweden",
+          "years": "2018–present",
+          "before": "Stefan Lindskog",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sweden-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

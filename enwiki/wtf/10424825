@@ -1,0 +1,272 @@
+{
+  "title": "Per Bill",
+  "pageID": 10424825,
+  "categories": [
+    "Moderate Party politicians",
+    "Living people",
+    "1958 births",
+    "Members of the Riksdag 2002–2006"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Per Anders Otto Bill (born 13 February 1958) is a Swedish politician of the Moderate Party who has been Governor of Gävleborg County since 1 August 2015.",
+              "links": [
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moderate Party"
+                },
+                {
+                  "text": "Governor of Gävleborg County",
+                  "type": "internal",
+                  "page": "List of governors of Gävleborg County"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Per Anders Otto Bill"
+                ]
+              }
+            },
+            {
+              "text": "He was a member of the Riksdag from 1994 to 2015.",
+              "links": [
+                {
+                  "text": "member",
+                  "type": "internal",
+                  "page": "List of members of the Swedish Riksdag"
+                },
+                {
+                  "text": "Riksdag",
+                  "type": "internal",
+                  "page": "Parliament of Sweden"
+                }
+              ]
+            },
+            {
+              "text": "Eisenhower Fellowships selected Per Bill in 1999 to represent Sweden.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eisenhower Fellowships"
+                }
+              ]
+            },
+            {
+              "text": "He is brother-in-law of Karin Enström, the former Minister for Defence.",
+              "links": [
+                {
+                  "text": "brother-in-law",
+                  "type": "internal",
+                  "page": "brother-in-law"
+                },
+                {
+                  "type": "internal",
+                  "page": "Karin Enström"
+                },
+                {
+                  "text": "Minister for Defence",
+                  "type": "internal",
+                  "page": "Minister for Defence (Sweden)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician of the Moderate Party",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "May 2017",
+          "template": "refimprove"
+        },
+        {
+          "year": "1958",
+          "month": "2",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Per Bill"
+          },
+          "image": {
+            "text": "Per Bill.jpg"
+          },
+          "birth_date": {
+            "text": "February 13, 1958"
+          },
+          "birth_place": {
+            "text": "Stockholm, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stockholm"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "office": {
+            "text": "Governor of Gävleborg County",
+            "links": [
+              {
+                "text": "Governor of Gävleborg County",
+                "type": "internal",
+                "page": "List of governors of Gävleborg County"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 August 2015"
+          },
+          "predecessor": {
+            "text": "Barbro Holmberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barbro Holmberg"
+              }
+            ]
+          },
+          "appointed": {
+            "text": "Stefan Löfven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Löfven"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Riksdag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Riksdag"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "3 October 1994"
+          },
+          "term_end2": {
+            "text": "31 July 2015"
+          },
+          "constituency2": {
+            "text": "Uppsala County",
+            "links": [
+              {
+                "text": "Uppsala County",
+                "type": "internal",
+                "page": "Uppsala County (Riksdag constituency)"
+              }
+            ]
+          },
+          "party": {
+            "text": "Moderate Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moderate Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Stockholm University Stockholm School of Economics",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stockholm University"
+              },
+              {
+                "type": "internal",
+                "page": "Stockholm School of Economics"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician, Major",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              },
+              {
+                "type": "internal",
+                "page": "Major"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "moderate mp 2006–2010"
+        },
+        {
+          "template": "moderate mp 2010–2014"
+        },
+        {
+          "template": "moderate mp 2014–2018"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sweden-moderate-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Riksdagen: Per Bill (m)",
+            "links": [
+              {
+                "text": "Riksdagen: Per Bill (m)",
+                "type": "external",
+                "site": "http://www.riksdagen.se/webbnav/index.aspx?nid=1111&iid=0658668232410"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

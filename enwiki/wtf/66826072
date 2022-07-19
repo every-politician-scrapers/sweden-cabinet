@@ -1,0 +1,222 @@
+{
+  "title": "Anna-Caren Sätherberg",
+  "pageID": 66826072,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "Place of birth missing (living people)",
+    "21st-century Swedish politicians",
+    "21st-century Swedish women politicians",
+    "Members of the Riksdag 2014–2018",
+    "Members of the Riksdag 2018–2022",
+    "Members of the Riksdag from the Social Democrats",
+    "Women members of the Riksdag",
+    "Government ministers of Sweden",
+    "Women government ministers of Sweden"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anna-Caren Sätherberg (born 5 October 1964) is a Swedish politician.",
+              "formatting": {
+                "bold": [
+                  "Anna-Caren Sätherberg"
+                ]
+              }
+            },
+            {
+              "text": "Since 30 November 2021, she serves as minister for rural affairs in Magdalena Andersson's Cabinet.",
+              "links": [
+                {
+                  "text": "Magdalena Andersson's Cabinet",
+                  "type": "internal",
+                  "page": "Andersson Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "Previously, she served as member of the Riksdag since 29 September 2014, representing the constituency of Jämtland County.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riksdag"
+                },
+                {
+                  "text": "Jämtland County",
+                  "type": "internal",
+                  "page": "Jämtland County (Riksdag constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1964",
+          "month": "10",
+          "day": "5",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Anna-Caren Sätherberg"
+          },
+          "image": {
+            "text": "Anna-Caren Sätherberg MP.jpg"
+          },
+          "office": {
+            "text": "Minister for Rural Affairs",
+            "links": [
+              {
+                "text": "Minister for Rural Affairs",
+                "type": "internal",
+                "page": "Minister for Rural Affairs (Sweden)"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Carl XVI Gustaf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl XVI Gustaf"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 November 2021"
+          },
+          "predecessor": {
+            "text": "Ibrahim Baylan (July 2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Baylan"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Riksdag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Riksdag"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Jämtland County",
+            "links": [
+              {
+                "text": "Jämtland County",
+                "type": "internal",
+                "page": "Jämtland County (Riksdag constituency)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "29 September 2014"
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 5, 1964"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.svt.se/nyheter/inrikes/anderssons-overraskning-damberg-anderssons-eftertradare",
+          "title": "Här är alla ministrar i Anderssons regering",
+          "first1": "SVT",
+          "last1": "Nyheter",
+          "first2": "Jonas",
+          "last2": "Ekman",
+          "first3": "Josefin",
+          "last3": "Silverberg",
+          "date": "30 November 2021",
+          "accessdate": "30 November 2021",
+          "via": "SVT Nyheter",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Anna-Caren Sätherberg",
+          "url": "https://www.riksdagen.se/sv/ledamoter-partier/ledamot/anna-caren-satherberg_c2917e84-a1f8-4de8-9c71-a492eee1f43f",
+          "url-status": "live",
+          "access-date": "18 February 2021",
+          "website": "Riksdagen.se",
+          "language": "sv",
+          "archive-url": "https://web.archive.org/web/20160531133951/http://www.riksdagen.se:80/sv/ledamoter-partier/ledamot/anna-caren-satherberg_c2917e84-a1f8-4de8-9c71-a492eee1f43f",
+          "archive-date": "31 May 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "List of members elected to the Riksdag in 2014",
+          "url": "https://www.altinget.se/misc/riksdag2014.pdf",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20190819023350/https://www.altinget.se/misc/riksdag2014.pdf",
+          "archive-date": "19 August 2019",
+          "access-date": "17 February 2021",
+          "website": "Altinget",
+          "language": "sv",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "social democratic mp 2014–2018"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sweden-socialdemocratic-politician-stub"
+        }
+      ]
+    }
+  ]
+}

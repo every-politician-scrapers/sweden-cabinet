@@ -1,0 +1,120 @@
+{
+  "title": "Mikaela Kumlin Granit",
+  "pageID": 65140543,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "International Atomic Energy Agency officials",
+    "Ambassadors of Sweden to Austria",
+    "Ambassadors of Sweden to Slovakia",
+    "Ambassadors of Sweden to Slovenia",
+    "Ambassadors of Sweden to the United Kingdom",
+    "Swedish women ambassadors",
+    "Stockholm University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": " Mikaela Ruth Gunilla Kumlin Granit (born November 1, 1967) is a Swedish diplomat who is the Chairperson of the IAEA’s Board of Governors for 2019–2020.",
+              "links": [
+                {
+                  "text": "IAEA’s",
+                  "type": "internal",
+                  "page": "International Atomic Energy Agency"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  " Mikaela Ruth Gunilla Kumlin Granit"
+                ]
+              }
+            },
+            {
+              "text": "She is also Sweden’s Resident Representative to the Agency and Permanent Representative to the United Nations and other international organizations in Vienna, as well as Ambassador to Austria, Slovakia and Slovenia."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1993, she earned a B.Sc."
+            },
+            {
+              "text": "in Economics from Stockholm University."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Mikaela_Kumlin_Granit_(2018).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Mikaela_Kumlin_Granit_(2018).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Mikaela_Kumlin_Granit_(2018).jpg",
+          "caption": "Mikaela Kumlin Granit, 2018",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Mikaela Kumlin Granit"
+          ],
+          "date": "August 2020",
+          "template": "expand swedish"
+        }
+      ],
+      "references": [
+        {
+          "title": "MIKAELA KUMLIN GRANIT SVERIGES NYA AMBASSADÖR I WIEN",
+          "url": "https://www.svenskakyrkan.se/filer/99fb7d9d-0b11-4393-b96f-d2569808dc83.pdf",
+          "accessdate": "28 August 2020",
+          "publisher": "Widnbladet",
+          "date": "2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Board of Governors: Chair for 2019–2020",
+          "url": "https://www.iaea.org/newscenter/news/board-of-governors-chair-for-2019-2020",
+          "website": "IAEA",
+          "accessdate": "28 August 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ambassador Mikaela Kumlin Granit Takes Over as New Chairperson of IAEA Board of Governors",
+          "url": "https://www.iaea.org/newscenter/news/ambassador-mikaela-kumlin-granit-takes-over-as-new-chairperson-of-iaea-board-of-governors",
+          "website": "IAEA",
+          "accessdate": "28 August 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "sweden-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

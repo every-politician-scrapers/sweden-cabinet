@@ -1,0 +1,170 @@
+{
+  "title": "Anders Thornberg",
+  "pageID": 37461357,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Swedish civil servants",
+    "Swedish police officers",
+    "People from Halmstad"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bengt Anders Ingvar Thornberg (born 1959) is the former Director-General and Head of the Swedish Security Service (Säpo), appointed on 5 July 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Swedish Security Service"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bengt Anders Ingvar Thornberg"
+                ]
+              }
+            },
+            {
+              "text": "Thornberg has been an employee of the security service since 1990, notably serving as deputy chief of the security service (from July 1, 2011)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 1 February 2018, Thornberg was appointed National Police Commissioner, effective 15 February 2018.",
+              "links": [
+                {
+                  "text": "National Police Commissioner",
+                  "type": "internal",
+                  "page": "National Police Commissioner (Sweden)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "birth_year": "1959",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Anders Thornberg"
+          },
+          "image": {
+            "text": "Anders Thornberg - Chef för SÄPO under Almedalsveckan 2015.jpg"
+          },
+          "office": {
+            "text": "National Police Commissioner",
+            "links": [
+              {
+                "text": "National Police Commissioner",
+                "type": "internal",
+                "page": "National Police Commissioner (Sweden)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2018",
+            "number": 2018
+          },
+          "predecessor": {
+            "text": "Dan Eliasson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dan Eliasson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Director-General and Head of the Swedish Security Service"
+          },
+          "term_start1": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end1": {
+            "text": "2018",
+            "number": 2018
+          },
+          "predecessor1": {
+            "text": "Anders Danielsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anders Danielsson"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Klas Friberg"
+          },
+          "birth_date": {
+            "text": "1959 (age 63)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "Anders Thornberg"
+          ],
+          "template": "commonscat"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-civ"
+        },
+        {
+          "before": "Anders Danielsson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Director-General and Head of the Swedish Security Service",
+          "years": "2012–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Klas Friberg",
+          "template": "s-aft"
+        },
+        {
+          "before": "Dan Eliasson",
+          "template": "s-bef"
+        },
+        {
+          "title": "National Police Commissioner",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ]
+    }
+  ]
+}

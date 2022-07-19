@@ -1,0 +1,217 @@
+{
+  "title": "Dag Hartelius",
+  "pageID": 18748706,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "People from Härnösand",
+    "Uppsala University alumni",
+    "Ambassadors of Sweden to Estonia",
+    "Ambassadors of Sweden to Poland",
+    "Recipients of the Order of the Cross of Terra Mariana, 1st Class"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dag Hartelius (born 8 November 1955 in Härnösand) is a Swedish diplomat and the former Director-General of The National Defence Radio Establishment, assuming office 1 November 2013, and leaving office June 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Härnösand"
+                },
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "text": "The National Defence Radio Establishment",
+                  "type": "internal",
+                  "page": "National Defence Radio Establishment (Sweden)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dag Hartelius"
+                ]
+              }
+            },
+            {
+              "text": "In September 2019 he became the Swedish Ambassador to Hungary."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hartelius has previously been ambassador to Poland 2008–2010, Estonia 2003–2008, stationed in Saint Petersburg, Moscow, Berlin and London, vice president and director for the programme for European security at the EastWest Institute in New York, and a Permanent Representative of Sweden to the European Union.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Poland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Estonia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Petersburg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moscow"
+                },
+                {
+                  "type": "internal",
+                  "page": "Berlin"
+                },
+                {
+                  "type": "internal",
+                  "page": "London"
+                },
+                {
+                  "type": "internal",
+                  "page": "EastWest Institute"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2007, Hartelius participated as a celebrity contestant on the second season of Tantsud tähtedega, an Estonian version of Dancing with the Stars.",
+              "links": [
+                {
+                  "text": "second season",
+                  "type": "internal",
+                  "page": "Tantsud tähtedega 2007"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tantsud tähtedega"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dancing with the Stars"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Tantsud tähtedega",
+                  "Dancing with the Stars"
+                ]
+              }
+            },
+            {
+              "text": "His professional dancing partner was Kristina Tennokese."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Dag_Hartelius.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dag_Hartelius.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dag_Hartelius.jpg",
+          "caption": "Dag Hartelius, Swedish diplomat",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Ambassadör Dag Hartelius utses till ny generaldirektör för Försvarets Radioanstalt",
+          "url": "http://www.government.se/sb/d/17017/a/223461",
+          "publisher": "The Swedish Government Offices",
+          "accessdate": "12 March 2014",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20140313001213/http://www.government.se/sb/d/17017/a/223461",
+          "archivedate": "13 March 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Elisabet Borsiin Bonnier",
+          "title": "Ambassador of Sweden to Estonia",
+          "years": "2003–2008",
+          "after": "Jan Palmstierna",
+          "template": "succession box"
+        },
+        {
+          "before": "Tomas Bertelman",
+          "title": "Ambassador of Sweden to Poland",
+          "years": "2008–2010",
+          "after": "Staffan Herrström",
+          "template": "succession box"
+        },
+        {
+          "before": "Niclas Trouvé",
+          "title": "Ambassador of Sweden to Hungary",
+          "years": "2019",
+          "template": "succession box"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "CV for Dag Hartelius, Swedish embassy in Warsaw",
+            "links": [
+              {
+                "text": "CV for Dag Hartelius, Swedish embassy in Warsaw",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120229144730/http://www.swedenabroad.com/Page____86234.aspx"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

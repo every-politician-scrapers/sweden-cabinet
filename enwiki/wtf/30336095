@@ -1,0 +1,515 @@
+{
+  "title": "Sven-Erik Österberg",
+  "pageID": 30336095,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Governors of Stockholm County",
+    "Swedish Social Democratic Party politicians",
+    "Government ministers of Sweden",
+    "County governors of Sweden",
+    "Members of the Riksdag 2002–2006"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sven-Erik Österberg (born 10 March 1955 in Munktorp, Västmanland, Sweden) is a Swedish official and former social-democratic politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Munktorp"
+                },
+                {
+                  "type": "internal",
+                  "page": "Västmanland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sweden"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sven-Erik Österberg"
+                ]
+              }
+            },
+            {
+              "text": "He is Governor of Stockholm County since 1 February 2018 and previously served as Governor of Norrbotten County from 1 October 2012 to 31 January 2018.",
+              "links": [
+                {
+                  "text": "Governor of",
+                  "type": "internal",
+                  "page": "County governor (Sweden)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stockholm County"
+                },
+                {
+                  "text": "Governor of Norrbotten County",
+                  "type": "internal",
+                  "page": "Norrbotten County"
+                }
+              ]
+            },
+            {
+              "text": "Österberg was Minister for Financial Markets from 2004 to 2006.",
+              "links": [
+                {
+                  "text": "Minister for Financial Markets",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Sweden)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1955",
+          "month": "3",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sven-Erik Österberg"
+          },
+          "image": {
+            "text": "Sven-Erik Österberg 27 januari 2012.jpg"
+          },
+          "caption": {
+            "text": "Österberg in January 2012"
+          },
+          "office": {
+            "text": "Governor of Stockholm County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Stockholm County"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 February 2018"
+          },
+          "appointed": {
+            "text": "Cabinet of Löfven",
+            "links": [
+              {
+                "text": "Cabinet of Löfven",
+                "type": "internal",
+                "page": "Löfven I Cabinet"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Chris Heister",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Heister"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Norrbotten County",
+            "links": [
+              {
+                "text": "Governor of",
+                "type": "internal",
+                "page": "County governor (Sweden)"
+              },
+              {
+                "type": "internal",
+                "page": "Norrbotten County"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 October 2012"
+          },
+          "term_end2": {
+            "text": "31 January 2018"
+          },
+          "appointed2": {
+            "text": "Cabinet of Reinfeldt",
+            "links": [
+              {
+                "text": "Cabinet of Reinfeldt",
+                "type": "internal",
+                "page": "Reinfeldt cabinet"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Per-Ola Eriksson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Per-Ola Eriksson"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Björn O. Nilsson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Björn O. Nilsson"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for Financial Markets",
+            "links": [
+              {
+                "text": "Minister for Financial Markets",
+                "type": "internal",
+                "page": "Ministry of Finance (Sweden)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "21 October 2004"
+          },
+          "term_end3": {
+            "text": "6 October 2006"
+          },
+          "primeminister3": {
+            "text": "Göran Persson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Göran Persson"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Gunnar Lund",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gunnar Lund"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Mats Odell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mats Odell"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 10, 1955"
+          },
+          "birth_place": {
+            "text": "Munktorp, Sweden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Munktorp"
+              },
+              {
+                "type": "internal",
+                "page": "Sweden"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Ombudsman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ombudsman"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democrats",
+            "links": [
+              {
+                "text": "Social Democrats",
+                "type": "internal",
+                "page": "Swedish Social Democratic Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During ten years have worked first as farm worker and then as a forest worker for the Domänverket in Skinnskatteberg's territory became Österberg in 1984 local ombudsman for the Swedish Forest and Wood Workers' Union in Fagersta.",
+              "links": [
+                {
+                  "text": "Skinnskatteberg's",
+                  "type": "internal",
+                  "page": "Skinnskatteberg"
+                },
+                {
+                  "text": "ombudsman",
+                  "type": "internal",
+                  "page": "ombudsman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Swedish Forest and Wood Workers' Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fagersta"
+                }
+              ]
+            },
+            {
+              "text": "At the same time, he also seemed like leisure politicians in Skinnskatteberg's Municipality with assignments as a city council and chairman of the Social Committee 1988-1991.",
+              "links": [
+                {
+                  "text": "Skinnskatteberg's Municipality",
+                  "type": "internal",
+                  "page": "Skinnskatteberg Municipality"
+                },
+                {
+                  "text": "city council",
+                  "type": "internal",
+                  "page": "city council"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1991, he became municipal commissioner in Skinnskatteberg Municipality.",
+              "links": [
+                {
+                  "text": "municipal commissioner",
+                  "type": "internal",
+                  "page": "municipal commissioner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Skinnskatteberg Municipality"
+                }
+              ]
+            },
+            {
+              "text": "In 1994, he became a member of the Parliament of Sweden.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Sweden"
+                }
+              ]
+            },
+            {
+              "text": "In the Riksdag, he has mainly worked with financial and labor market issues.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riksdag"
+                }
+              ]
+            },
+            {
+              "text": "He sat in the Committee on Finance as deputy 1996-1998, member 1998-2000.",
+              "links": [
+                {
+                  "text": "Committee on Finance",
+                  "type": "internal",
+                  "page": "Committee on Finance (Sweden)"
+                }
+              ]
+            },
+            {
+              "text": "2004 to 2006, he was Deputy Minister of Finance in the Cabinet of Göran Persson, with responsibility for municipal and financial market issues.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Göran Persson"
+                }
+              ]
+            },
+            {
+              "text": "After the Social Democrat's defeat in the 2006 election, Österberg returned to being a member of parliament.",
+              "links": [
+                {
+                  "text": "2006 election",
+                  "type": "internal",
+                  "page": "2006 Swedish general election"
+                }
+              ]
+            },
+            {
+              "text": "He has also been deputy in the Committee on Environment and Agriculture, Committee on Taxation and Committee on European Union Affairs, member of the Foreign Board and the War Delegation and was the chairman of the Riksdag's Nomination Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Committee on Environment and Agriculture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Committee on Taxation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Committee on European Union Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "War Delegation"
+                }
+              ]
+            },
+            {
+              "text": "From 2008 to 2011, he functioned as the group leader of the Social Democratic group in parliament.",
+              "links": [
+                {
+                  "text": "group leader",
+                  "type": "internal",
+                  "page": "Parliamentary group leader"
+                }
+              ]
+            },
+            {
+              "text": "From 2011 to 2012, he was a member of the Committee on the Constitution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Committee on the Constitution"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Within the party, Österberg has been the district chairman of the Västmanland County party district since 1995.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Västmanland County"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On July 5, 2012, Österberg was appointed governor in Norrbotten County.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norrbotten County"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 9, 2017, the Swedish government appointed Sven-Erik Österberg as new governor and head of the County Administrative Board in Stockholm County."
+            },
+            {
+              "text": "He will take office on February 1, 2018."
+            },
+            {
+              "text": "The appointment is for four years and expires on February 28, 2022."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sven-Erik Österberg succeeds Chris Heister, whose appointment expired on 31 August 2017, after the government on 14 October withdrew the former appointment of Thomas Bodström as governor in Stockholm County."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Österberg is married and has three children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "swedish social democratic party"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Sven-Erik Österberg at socialdemokraterna.se",
+            "links": [
+              {
+                "text": "Sven-Erik Österberg",
+                "type": "external",
+                "site": "http://www.socialdemokraterna.se/sven-erikosterberg"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

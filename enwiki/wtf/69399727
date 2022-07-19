@@ -1,0 +1,130 @@
+{
+  "title": "Jeanette Gustafsdotter",
+  "pageID": 69399727,
+  "categories": [
+    "Swedish Social Democratic Party politicians",
+    "Women government ministers of Sweden",
+    "Swedish Ministers for Culture",
+    "21st-century Swedish women politicians",
+    "Living people",
+    "1965 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Eva Jeanette Gustafsdotter (born 24 December 1965) is a Swedish politician for the Social Democratic party.",
+              "links": [
+                {
+                  "text": "Social Democratic party",
+                  "type": "internal",
+                  "page": "Social Democrats (Sweden)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eva Jeanette Gustafsdotter"
+                ]
+              }
+            },
+            {
+              "text": "Since 30 November 2021 she is the Minister of Culture in Magdalena Andersson's cabinet, replacing Amanda Lind.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Magdalena Andersson"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Andersson Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Amanda Lind"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before being appointed as Minister of Culture, Gustafsdotter was the secretary-general of the Swedish Museums Association.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Swedish Museums Association"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "Image:_Kulturminister_Jeanette_Gustafsdotter.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/_Kulturminister_Jeanette_Gustafsdotter.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/_Kulturminister_Jeanette_Gustafsdotter.jpg",
+          "caption": "Jeanette Gustafsdotter",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.miun.se/en/contact/Press/News-archive/2021-11/our-alumni-is-the-new-minister-of-culture/",
+          "title": "Our alumni is the new Minister of Culture",
+          "website": "Mittuniversitetet",
+          "accessdate": "30 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.svt.se/nyheter/inrikes/anderssons-overraskning-damberg-anderssons-eftertradare",
+          "title": "Här är alla ministrar i Anderssons regering",
+          "first1": "S. V. T.",
+          "last1": "Nyheter",
+          "first2": "Jonas",
+          "last2": "Ekman",
+          "first3": "Josefin",
+          "last3": "Silverberg",
+          "date": "30 November 2021",
+          "accessdate": "30 November 2021",
+          "via": "SVT Nyheter",
+          "lang": "sv",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "sweden-politician-stub"
+        }
+      ]
+    }
+  ]
+}

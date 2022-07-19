@@ -1,0 +1,110 @@
+{
+  "title": "Malena Mard",
+  "pageID": 68253202,
+  "categories": [
+    "Ambassadors of the European Union",
+    "Swedish women ambassadors",
+    "Ambassadors of Sweden to Russia",
+    "Uppsala University alumni",
+    "1969 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Malena Mard (born 1969) is a Swedish diplomat who served as the Head of the European Union Delegation in Azerbaijan from 2014 until 2017.",
+              "links": [
+                {
+                  "text": "European Union Delegation",
+                  "type": "internal",
+                  "page": "List of ambassadors of the European Union"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Malena Mard"
+                ]
+              }
+            },
+            {
+              "text": "She became the Swedish Ambassador to the Russian Federation when she presented her credentials, on September 3, 2019, to Deputy Minister of Foreign Affairs of Russia Vladimir Titov."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mard graduated from Uppsala University and earned a MSc in Business Administration and Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Uppsala University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Malena_Mård.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Malena_M%C3%A5rd.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Malena_M%C3%A5rd.jpg",
+          "caption": "Malena Mard",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "langcode": "ru",
+          "otherarticle": "Мард, Малена",
+          "date": "July 2021",
+          "template": "expand language"
+        }
+      ],
+      "references": [
+        {
+          "title": "New Head of EU Delegation in Baku, Malena Mard, outlines work priorities.",
+          "url": "https://www.commonspace.eu/index.php/new-head-eu-delegation-baku-malena-mard-outlines-work-priorities",
+          "website": "Commonspace.eu",
+          "access-date": "16 July 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "New Ambassador of Sweden to the Russian Federation Ms. Malena Mard",
+          "url": "https://www.swedenabroad.se/ru/embassies/россия-москва/актуальная-информация/новости/новый-посол-швеции-в-рф-г-жа-малена-мард/",
+          "website": "Embassy of Sweden in Moscow",
+          "access-date": "16 July 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "sweden-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

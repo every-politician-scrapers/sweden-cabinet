@@ -1,0 +1,136 @@
+{
+  "title": "Helena Sångeland",
+  "pageID": 65141185,
+  "categories": [
+    "Living people",
+    "Ambassadors of Sweden to Iran",
+    "Ambassadors of Sweden to China",
+    "Ambassadors of Sweden to Mongolia",
+    "Swedish women ambassadors",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Helena Sångeland is the Swedish Ambassador to China.",
+              "links": [
+                {
+                  "text": "Swedish Ambassador to China",
+                  "type": "internal",
+                  "page": "List of ambassadors of Sweden to China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Helena Sångeland"
+                ]
+              }
+            },
+            {
+              "text": "Sångeland presented her credentials on May 16, 2019."
+            },
+            {
+              "text": "She had been Ambassador to Iran until she replaced Anna Lindstedt who was recalled to Stockholm.",
+              "links": [
+                {
+                  "text": "Ambassador to Iran",
+                  "type": "internal",
+                  "page": "Embassy of Sweden, Tehran"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anna Lindstedt"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish diplomat",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Helena Sångeland"
+          ],
+          "date": "August 2020",
+          "template": "expand swedish"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "Deputy Director-General of the Protocol Department and Director of the Office of Foreign Missions of the Foreign Ministry Wang Lutong Accepts the Copy of Credentials from the Newly-appointed Swedish Ambassador to China",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/wjbxw/t1664749.shtml",
+          "website": "Ministry of Foreign Affairs of the People’s Republic of China",
+          "accessdate": "29 August 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sweden sends new ambassador to China in wake of diplomatic scandal",
+          "url": "https://www.thelocal.se/20190418/sweden-appoints-new-ambassador-to-china-in-wake-of-diplomatic-scandal",
+          "accessdate": "28 August 2020",
+          "work": "The Local",
+          "date": "April 18, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Swedish ambassador to China recalled after bizarre meeting over detained bookseller",
+          "url": "https://www.washingtonpost.com/world/asia_pacific/swedish-ambassador-to-china-recalled-after-bizarre-meeting-over-detained-bookseller/2019/02/14/b910692c-3026-11e9-ac6c-14eea99d5e24_story.html",
+          "work": "Washington Post",
+          "date": "2019-02-14",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Peter Tejler",
+          "title": "Ambassador of Sweden to Iran",
+          "years": "2016–2019",
+          "after": "Mattias Lentz",
+          "template": "succession box"
+        },
+        {
+          "before": "Anna Lindstedt",
+          "title": "Ambassador of Sweden to China",
+          "years": "2019–present",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "before": "Anna Lindstedt",
+          "title": "Ambassador of Sweden to Mongolia",
+          "years": "2019–present",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "sweden-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

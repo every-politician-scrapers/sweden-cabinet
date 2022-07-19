@@ -1,0 +1,147 @@
+{
+  "title": "Johanna Teague",
+  "pageID": 69358955,
+  "categories": [
+    "Ambassadors of Sweden to Rwanda",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Johanna Teague is a Swedish Diplomat who currently serves as Swedish Ambassador in Rwanda with residency in Kigali since August 2020.",
+              "links": [
+                {
+                  "text": "Swedish",
+                  "type": "internal",
+                  "page": "Sweden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Diplomat"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rwanda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kigali"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Johanna Teague"
+                ]
+              }
+            },
+            {
+              "text": "Before her appointment she served as Group Manager at the Swedish Ministry for Foreign Affairs' International Development Cooperation Agency.",
+              "links": [
+                {
+                  "text": "International Development Cooperation Agency",
+                  "type": "internal",
+                  "page": "Swedish International Development Cooperation Agency"
+                }
+              ]
+            },
+            {
+              "text": "Previously she had served as an Advisor to the Minister for Development at Sida in Stockholm and Bolivia, as well as for the UN's Populations Fund in La Paz (UNFPA)",
+              "links": [
+                {
+                  "text": "Sida",
+                  "type": "internal",
+                  "page": "Swedish International Development Cooperation Agency"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stockholm"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bolivia"
+                },
+                {
+                  "type": "internal",
+                  "page": "UN"
+                },
+                {
+                  "type": "internal",
+                  "page": "La Paz"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is the second Swedish ambassador in Rwanda after opening of the embassy and replaced Jenny Ohlsson in August 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jenny Ohlsson"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Swedish diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "Ministry of Infrastructure",
+          "url": "https://www.mininfra.gov.rw/",
+          "access-date": "2021-11-25",
+          "website": "www.mininfra.gov.rw",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Regeringskansliet",
+          "first": "Regeringen och",
+          "date": "2020-06-25",
+          "title": "Ny ambassadör i Rwanda",
+          "url": "https://www.regeringen.se/pressmeddelanden/2020/06/ny-ambassador-i-rwanda/",
+          "access-date": "2021-11-25",
+          "website": "Regeringskansliet",
+          "language": "sv",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Meet our new ambassador",
+          "url": "https://www.swedenabroad.se/en/embassies/rwanda-kigali/current/news/meet-our-new-ambassador/",
+          "access-date": "2021-11-25",
+          "website": "Sweden Abroad",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
