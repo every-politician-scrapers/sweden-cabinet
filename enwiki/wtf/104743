@@ -3651,22 +3651,6 @@
       ],
       "templates": [
         {
-          "template": "wikiquote"
-        },
-        {
-          "list": [
-            "Carl XVI Gustaf of Sweden"
-          ],
-          "template": "commons"
-        },
-        {
-          "list": [
-            "Biography",
-            "Sweden"
-          ],
-          "template": "portal"
-        },
-        {
           "template": "s-start"
         },
         {
@@ -3739,6 +3723,16 @@
         },
         {
           "template": "members of the order of the garter"
+        },
+        {
+          "template": "subject bar",
+          "links": {
+            "portal1": "Biography",
+            "portal2": "Sweden",
+            "template": "subject bar",
+            "wikiquote": "y",
+            "wikidata": "y"
+          }
         },
         {
           "template": "authority control"
